@@ -1,0 +1,1811 @@
+client_ref,first_name,surname,age,employment_status,monthly_income_zar,province,client_since,tenure_months,avg_monthly_spend_zar,card_balance_zar,total_spent_zar,gender
+CL-00001,Lesedi,Nkosi,25.0,Employed,28219.39,LIMPOPO,30/08/2026,1,13109.64,3619.97,8899.48,Female
+CL-00002,Lesedi,Melokuhle,59.0,Employed,13338.45,Eastern Cape,2024-09-30,24,9504.5,9657.75,224956.8,Male
+CL-00003,Lesedi,Nkosi,53.0,Employed,23748.02,Eastern Cape,2024-09-30,24,10105.9,"R 3,597.59",226350.4,Male
+CL-00004,Lerato,Dlamini,42.0,Employed,12691.37,Mpumalanga,2026-04-30,5,5692.46,3509.64,2327.15,Female
+CL-00005,Thabo,Molefe,42.0,Employed,25345.0,North West,2024-10-30,23,11666.22,9994.21,258934.75,Male
+CL-00006,Omolemo,Khumalo,63.0,Employed,11746.06,Mpumalanga,2024-05-30,28,6993.37,"13,139.63",190824.68,Female
+CL-00007,Lesedi,Molefe,25.0,Employed ,33513.01,Northern Cape,2026-08-30,1,,8197.91,0.0,Male
+CL-00008,Omphile,Melokuhle,,Employed,31171.95,Limpopo,30/06/2026,3,11411.98,8390.03,36713.64,Female
+CL-00009,Lubanzi,Melokuhle,31.0,Unemployed,5046.28,Eastern Cape,2025-12-30,9,6125.91,4049.06,71413.15,Male
+CL-00010,Lerato,Melokuhle,25.0,Employed,39059.09,Mpumalanga,2026-05-30,4,7227.78,0.0,40700.75,Male
+CL-00011,Lerato,Molefe,47.0,Employed,"R 21,223.26",Mpumalanga,2025-04-30,17,7808.39,5031.53,130969.08,Female
+CL-00012,Lerato,Molefe,69.0,Unemployed,2666.04,North West,,30,300.0,2406.32,0.0,Male
+CL-00013,Omphile,Molefe,57.0,Employed,13292.74,KwaZulu-Natal,2024-07-30,26,7275.95,9267.81,199194.5,Male
+CL-00014,Omphile,Enzokuhle,59.0,Unemployed,4107.77,KwaZulu-Natal,2023-11-30,34,9771.28,14370.06,334273.04,Male
+CL-00015,Thabo,Enzokuhle,56.0,Employed,"R 30,508.49",gauteng,30/09/2025,12,9149.84,7534.9,115739.01,Female
+CL-00016,Lubanzi,Dlamini,60.0,Unemployed,5400.7,Western Cape,2025-07-30,14,3866.32,3862.87,81233.89,Male
+CL-00017,Omolemo,Nkosi,46.0,Employed,"R 25,540.35",Limpopo,2026-02-28,7,11879.46,1519.14,71608.83,Male
+CL-00018,Omphile,Enzokuhle,27.0,Employed,15932.65,Northern Cape,2025-11-30,10,300.0,4814.67,0.0,Female
+CL-00019,Kopano,Khumalo,62.0,Employed,27295.56,Mpumalanga,2023-06-30,39,9147.07,"R 8,196.40",341987.34,Female
+CL-00020,Lesedi,Khumalo,43.0,Employed,15499.12,Western Cape,2025-09-30,12,7665.99,11375.13,98796.53,Female
+CL-00021,Lubanzi,Dlamini,46.0,Employed,31872.25,Eastern Cape ,2026-08-30,1,374.49,7761.83,751.46,Female
+CL-00022,Lesedi,Dlamini,39.0,Unemployed ,4188.58,Northern Cape,2026-08-30,1,300.0,186.42,0.0,Male
+CL-00023,Lerato,Khumalo,30.0,Unemployed,14914.04,Western Cape,2026-08-30,1,9679.3,2762.54,R 0.00,Male
+CL-00024,Lubanzi,Nkosi,67.0,Employed,26084.18,Mpumalanga,2024-09-30,24,13644.04,13180.22,322492.52,Female
+CL-00025,Omphile,Enzokuhle,60.0,Unemployed,4747.19,EASTERN CAPE,2024-12-30,21,4853.7,8348.18,84482.44,Female
+CL-00026,Omphile,Khumalo,53.0,Unemployed,8164.86,Northern Cape,2024-11-30,22,7749.37,"7,221.95",177774.99,Female
+CL-00027,Omphile,Melokuhle,41.0,Unemployed,9571.24,Free State,2025-09-30,12,5349.75,3151.63,58436.98,Male
+CL-00028,Kopano,Melokuhle,62.0,Employed,31596.38,Mpumalanga,2023-08-30,37,14232.33,17934.94,517816.72,Female
+CL-00029,Omphile,Khumalo,48.0,Employed,34509.16,Limpopo,2025-09-30,12,10920.39,12470.57,120428.85,Male
+CL-00030,Kopano,Dlamini,43.0,Employed,85056.07,North West,2026-02-28,7,27427.75,19586.53,195677.94,Male
+CL-00031,Omolemo,Enzokuhle,43.0,Employed,19290.55,Free State,30/12/2024,21,5592.63,0.0,"R 118,041.78",Female
+CL-00032,Kopano,Melokuhle,32.0,Unemployed,5537.47,Limpopo,2026-08-30,1,7451.78,8557.17,10279.18,Male
+CL-00033,Omolemo,Molefe,25.0,Employed,19721.95,,2025-11-30,10,13014.2,7433.59,"R 132,663.81",Male
+CL-00034,Omphile,Nkosi,48.0,Employed,28786.63,Free State,2025-01-30,20,15643.68,15335.15,311862.78,Male
+CL-00035,Lerato,Molefe,65.0,Employed,"R 31,227.78",Limpopo,2024-06-30,27,10233.14,11893.65,261831.0,Male
+CL-00036,Omphile,Melokuhle,24.0,Unemployed,7150.37,Eastern Cape,2024-11-30,22,835.52,0.0,8156.2,Female
+CL-00037,Kopano,Melokuhle,63.0,Employed,43795.58, Eastern Cape,2024-12-30,21,19817.78,17784.21,410647.94,Male
+CL-00038,Omphile,Enzokuhle,62.0,Employed,19335.57,Western Cape ,2022-10-30,47,10932.74,16414.23,542751.36,Female
+CL-00039,Lerato,Melokuhle,34.0,UNEMPLOYED,5658.18,Limpopo,2025-12-30,9,4458.36,8185.78,21241.52,Male
+CL-00040,Lerato,Dlamini,52.0,Unemployed,2926.83,KwaZulu-Natal,2026-01-30,8,300.0,2482.83,0.0,Female
+CL-00041,Lerato,Khumalo,29.0,Employed,25850.3,North West ,2025-12-30,9,10865.48,0.0,99165.05,Male
+CL-00042,Omphile,Enzokuhle,58.0,Unemployed,10247.26,Northern Cape,2025-07-30,14,955.18,9413.13,9125.84,Male
+CL-00043,Omphile,Dlamini,56.0,Unemployed,"R 5,265.55",North West,2025-05-30,16,5734.29,8743.8,106784.21,Male
+CL-00044,Kopano,Khumalo,38.0,employed,17565.42,KwaZulu-Natal,2025-04-30,17,12147.62,5399.69,202190.55,Female
+CL-00045,Thabo,Enzokuhle,24.0,Unemployed,6754.04,Mpumalanga,2025-10-30,11,9559.97,4954.37,"R 101,876.14",Female
+CL-00046,Lesedi,Dlamini,69.0,Employed,"R 18,137.68",Limpopo,2024-09-30,24,10199.99,11940.11,256204.55,Male
+CL-00047,Thabo,Khumalo,43.0,Employed,61264.13,Free State,2024-07-30,26,15695.96,18360.01,433444.95,Male
+CL-00048,Lerato,Molefe,65.0,Employed,39796.27,Free State,2023-05-30,40,15529.27,13941.26,640875.75,Male
+CL-00049,Thabo,Enzokuhle,54.0,Employed,18774.29,Eastern Cape,30/08/2023,37,16089.14,20581.81,593385.12,Male
+CL-00050,Omphile,Melokuhle,59.0,Employed,33252.91,KwaZulu-Natal,30/03/2024,30,9308.87,1838.55,278572.9,Male
+CL-00051,Lubanzi,Molefe,58.0,Employed,29423.41,mpumalanga,2023-07-30,38,11409.97,7982.88,434232.86,Female
+CL-00052,Lesedi,Khumalo,30.0,Employed,20289.77,Northern Cape,2026-08-30,1,12417.62,0.0,14475.61,Male
+CL-00053,Kopano,Dlamini,39.0,Employed,37412.89,Gauteng,2025-10-30,11,15107.55,8400.41,154320.17,Male
+CL-00054,Thabo,Nkosi,44.0,Employed,31342.13,Western Cape,2026-01-30,8,19867.2,23524.77,172049.92,Female
+CL-00055,Omphile,Molefe,,Employed,28836.21,Western Cape,2025-03-30,18,7968.53,18806.36,146326.13,Female
+CL-00056,Lubanzi,Melokuhle,23.0,Employed,25482.07,Mpumalanga,2026-08-30,1,"R 5,323.50",5915.87,4695.51,Male
+CL-00057,Omphile,Molefe,48.0,Employed ,31976.55,KwaZulu-Natal,2025-04-30,17,15913.82,10935.8,252738.83,Female
+CL-00058,Kopano,Khumalo,28.0,Employed,29026.31,Free State,2024-06-30,27,6736.73,7512.25,182763.7,Female
+CL-00059,Lubanzi,Khumalo,,Unemployed,6422.16,Northern Cape,2024-10-30,23,3384.28,8133.38,51333.54,Male
+CL-00060,Omphile,Molefe,55.0,Employed,19113.77,Western Cape,2024-06-30,27,7831.8,1593.99,203315.58,Male
+CL-00061,Lubanzi,Enzokuhle,67.0,Unemployed,10835.09,Gauteng,2024-06-30,27,9314.09,,243597.05,Female
+CL-00062,Lerato,Nkosi,58.0,Employed,"R 15,703.68",GAUTENG,2024-08-30,25,9172.47,17328.64,233329.64,Male
+CL-00063,Lesedi,Khumalo,39.0,Unemployed,5729.24,Free State,2025-07-30,14,5152.2,821.04,98448.76,Female
+CL-00064,Thabo,Molefe,69.0,Unemployed,3431.4,Limpopo,2023-10-30,35,2250.67,2525.36,86780.14,Male
+CL-00065,Lesedi,Dlamini,41.0,Unemployed,4072.27,Gauteng,2024-06-30,27,7929.7,,234379.44,Male
+CL-00066,Omolemo,Nkosi,37.0,Employed,16851.25,Western Cape,2024-04-30,29,21966.34,21221.48,646056.89,Female
+CL-00067,Lubanzi,Dlamini,66.0,Employed,18268.35,Western Cape,2024-01-30,32,10513.12,8764.43,352170.63,Female
+CL-00068,Thabo,Dlamini,39.0,Employed,"R 16,323.14",North West,2025-01-30,20,7295.76,8637.77,171915.04,Male
+CL-00069,Lesedi,Dlamini,24.0,Employed,30367.1,Western Cape,2026-08-30,1,5679.82,8039.17,0.0,Female
+CL-00070,Kopano,Molefe,44.0,Unemployed,1964.65,Mpumalanga,2025-05-30,16,300.0,12583.26,0.0,Male
+CL-00071,Thabo,Molefe,60.0,Unemployed,2763.63,Mpumalanga,2023-10-30,35,"R 2,729.73",5984.18,104903.94,Female
+CL-00072,Lesedi,Enzokuhle,30.0,Employed,9253.12,Western Cape,2025-03-30,18,2807.38,4594.82,50481.26,Male
+CL-00073,Kopano,Molefe,44.0,Employed,"R 29,180.44",Free State,2025-02-28,19,10694.25,18227.12,206275.77,Male
+CL-00074,Lubanzi,Khumalo,27.0,Employed,20450.22,KwaZulu-Natal,2025-05-30,16,14407.92,10187.87,227045.42,Male
+CL-00075,Lubanzi,Melokuhle,55.0,Employed,9999999,Free State,2024-05-30,28,10684.3,4950.93,290812.68,Male
+CL-00076,Lubanzi,Nkosi,44.0,Employed,43780.52,Gauteng,2024-04-30,29,"R 14,980.36",16027.1,457121.12,Male
+CL-00077,Omphile,Melokuhle,37.0,Employed,"R 13,879.55",Limpopo,2025-05-30,16,1686.06,9154.84,"11,578.85",Female
+CL-00078,Kopano,Molefe,32.0,Unemployed ,3037.34,North West,2026-03-30,6,7177.72,8433.2,52675.84,Female
+CL-00079,Lerato,Dlamini,,Employed,18570.92,western cape,2024-10-30,23,"7,560.68",8288.61,"R 181,234.85",Female
+CL-00080,Lesedi,Molefe,54.0,Employed,56084.01,,2026-08-30,1,11851.8,2201.33,0.0,Female
+CL-00081,Kopano,Dlamini,68.0,Employed,37258.53,Mpumalanga,2023-11-30,34,16370.31,16034.77,544959.48,Male
+CL-00082,Lerato,Melokuhle,42.0,Unemployed,4546.51,Western Cape,2026-08-30,1,6298.42,"R 11,610.64",R 0.00,Female
+CL-00083,Kopano,Nkosi,29.0,Employed,16741.6,Limpopo,2026-08-30,1,300.0,0.0,8204.18,Male
+CL-00084,Lubanzi,Nkosi,62.0,Employed,34769.78,Free State,2024-02-29,31,9964.54,10160.73,303762.17,Male
+CL-00085,Lubanzi,Enzokuhle,52.0,Employed,22923.33, KwaZulu-Natal,2024-07-30,26,"R 8,771.36","8,037.96",226857.2,Male
+CL-00086,Kopano,Enzokuhle,56.0,Employed,23970.22,Free State,2025-09-30,12,11539.3,6939.78,118064.59,Male
+CL-00087,Omphile,Molefe,25.0,Employed,47883.51,Limpopo,2026-08-30,1,13750.37,12049.88,46313.13,Female
+CL-00088,Lubanzi,Nkosi,36.0,Employed,18151.0,Mpumalanga,,26,4741.59,9290.47,"R 124,278.09",Female
+CL-00089,Kopano,Enzokuhle,59.0,EMPLOYED,27164.68,Limpopo,2025-01-30,20,12807.21,14385.33,263130.27,Female
+CL-00090,Kopano,Nkosi,62.0,Unemployed,"R 16,060.82",Western Cape,2022-08-30,49,6390.29,5906.96,305555.21,Female
+CL-00091,Lubanzi,Enzokuhle,42.0,Employed,38339.2,North West,2025-05-30,16,15325.16,5364.19,236065.74,Female
+CL-00092,Omolemo,Enzokuhle,61.0,Employed,24082.43,Western Cape,2024-03-30,30,5683.27,9503.9,197275.75,Male
+CL-00093,Thabo,Khumalo,63.0,Employed,22633.29,Mpumalanga,2023-02-28,43,4927.59,6548.27,185052.15,Female
+CL-00094,Omphile,Nkosi,40.0,Unemployed,9412.87,Eastern Cape,2025-05-30,16,7414.83,17090.24,122538.36,Male
+CL-00095,Kopano,Molefe,65.0,Unemployed,2586.41,Western Cape,2025-03-30,18,3641.0,14824.07,48576.86,Female
+CL-00096,Lubanzi,Dlamini,35.0,Unemployed,4786.66,Limpopo,2025-10-30,11,"R 6,418.84",16585.01,64937.2,Male
+CL-00097,Omphile,Melokuhle,32.0,Employed,24334.94,Free State,2025-11-30,10,7003.15,2241.71,61098.14,Female
+CL-00098,Kopano,Khumalo,55.0,Employed,26952.11,Mpumalanga,2025-12-30,9,6801.25,9533.75,47407.59,Female
+CL-00099,Omolemo,Nkosi,52.0,Unemployed,6415.07,Eastern Cape,2025-03-30,18,8779.11,13455.72,158520.12,Female
+CL-00100,Omphile,Molefe,27.0,Unemployed,22538.62,KwaZulu-Natal,2026-08-30,1,2520.94,6516.84,0.0,Male
+CL-00101,Thabo,Melokuhle,62.0,Employed,"R 23,213.41",Mpumalanga,2023-09-30,36,14181.28,13198.53,506109.26,Male
+CL-00102,Thabo,Khumalo,30.0,Employed,28465.07,Gauteng,2025-12-30,9,14871.34,18893.19,132577.99,Female
+CL-00103,Omphile,Khumalo,61.0,Employed,"R 18,543.14",North West,2024-10-30,23,10825.26,11126.56,229951.19,Male
+CL-00104,Omolemo,Khumalo,21.0,Unemployed,6274.66,Limpopo,2026-06-30,3,732.29,"R 2,297.78",23381.93,Female
+CL-00105,Omolemo,Melokuhle,60.0,Employed,40214.12,Northern Cape,2024-05-30,28,"R 11,500.75",4471.37,313698.6,Female
+CL-00106,Lesedi,Melokuhle,60.0,Employed,29885.12,,2024-01-30,32,10753.33,15286.23,340781.9,Male
+CL-00107,Kopano,Khumalo,60.0,Employed,61517.88,Mpumalanga,2025-06-30,15,15623.22,12396.66,226057.23,Male
+CL-00108,Kopano,Enzokuhle,54.0,Employed,12662.27,Mpumalanga,30/09/2025,12,2040.58,5913.11,23345.07,Female
+CL-00109,Omphile,Khumalo,44.0,Employed,"25,903.75",North West,2024-05-30,28,12468.17,"14,032.65",367422.77,Male
+CL-00110,Omolemo,Melokuhle,,Employed,30998.48,Eastern Cape,2025-02-28,19,13635.2,13612.03,293691.06,Male
+CL-00111,Lubanzi,Nkosi,34.0,Unemployed,6775.98,Northern Cape,2026-08-30,1,300.0,897.43,10738.95,Male
+CL-00112,Omolemo,Enzokuhle,60.0,Employed,30037.29,KwaZulu-Natal,2024-03-30,30,13905.23,18044.76,432388.67,Female
+CL-00113,Lesedi,Dlamini,48.0,Employed,15285.99,North West ,2024-10-30,23,8387.29,8374.39,"R 216,937.65",Male
+CL-00114,Omphile,Dlamini,43.0,Employed,36218.28,Free State,2026-08-30,1,"17,543.08",6265.03,21027.27,Female
+CL-00115,Omolemo,Dlamini,46.0,Employed,43200.72,NORTHERN CAPE,2025-01-30,20,17049.11,18120.14,362965.67,Male
+CL-00116,Kopano,Khumalo,49.0,Employed,29630.87,Gauteng,2024-06-30,27,15034.15,"R 10,549.56",417015.7,Male
+CL-00117,Omphile,Khumalo,22.0,Employed,10684.07,KwaZulu-Natal,2026-01-30,8,6458.7,0.0,53685.42,Male
+CL-00118,Lerato,Nkosi,27.0,Employed,16346.86,Mpumalanga,2025-07-30,14,10219.8,4587.04,147982.0,Female
+CL-00119,Omphile,Molefe,33.0,Unemployed,3198.85,Free State,2026-08-30,1,R 300.00,2542.66,0.0,Male
+CL-00120,Omolemo,Enzokuhle,26.0,Employed,26265.91,Gauteng,2025-11-30,10,"R 9,061.49",7941.68,94704.6,Female
+CL-00121,Kopano,Molefe,42.0,Employed,7134.74,Mpumalanga,2025-08-30,13,"3,746.08",R 0.00,27086.61,Male
+CL-00122,Kopano,Khumalo,54.0,Employed,47212.33,Eastern Cape,2025-04-30,17,15200.2,11695.86,235649.63,Female
+CL-00123,Lerato,Enzokuhle,53.0,Unemployed,7826.66,Gauteng,2024-03-30,30,6405.99,14558.47,194880.02,Male
+CL-00124,Kopano,Molefe,44.0,Employed,17548.01,Free State,2024-02-29,31,10050.17,"9,189.64",295958.19,Female
+CL-00125,Omphile,Nkosi,63.0,Unemployed,6789.69,Limpopo,2022-12-30,45,"R 6,539.03",9630.72,294156.87,Male
+CL-00126,Kopano,Enzokuhle,49.0,UNEMPLOYED,3509.53,western cape,2023-12-30,33,"R 3,001.86",11806.3,100999.48,Male
+CL-00127,Thabo,Enzokuhle,24.0,Employed,18683.48,Northern Cape,2026-04-30,5,4366.41,8471.26,24394.77,Male
+CL-00128,Lesedi,Khumalo,59.0,Employed,30879.91,Mpumalanga,2024-05-30,28,15589.84,,423857.9,Female
+CL-00129,Thabo,Nkosi,49.0,Unemployed,12943.03,KwaZulu-Natal,2024-06-30,27,7475.95,0.0,214432.09,Female
+CL-00130,Lerato,Melokuhle,52.0,Employed,56679.83,Limpopo,2024-11-30,22,15460.94,23019.49,338891.36,Male
+CL-00131,Thabo,Khumalo,49.0,Employed,"30,900.06",,2024-12-30,21,10654.74,13963.42,229924.65,Male
+CL-00132,Lesedi,Khumalo,48.0,Employed,32461.07,Northern Cape,,27,5796.44,20250.82,139753.82,Male
+CL-00133,Lesedi,Molefe,,Employed,38016.34,North West,2026-03-30,6,12984.24,6897.02,75408.83,Female
+CL-00134,Thabo,Nkosi,,Employed,14221.35,Gauteng,2025-09-30,12,5256.24,0.0,"78,436.97",Male
+CL-00135,Lerato,Molefe,60.0,Employed,"R 35,420.39",Gauteng,2024-12-30,21,10640.04,10806.92,237023.26,Female
+CL-00136,Lubanzi,Melokuhle,36.0,Employed,18278.79,Gauteng,2025-02-28,19,,11007.2,239375.65,Female
+CL-00137,Omolemo,Nkosi,51.0,employed,30294.49,North West,2024-12-30,21,7008.19,11424.22,"R 139,534.25",Female
+CL-00138,Thabo,Dlamini,22.0,Employed,23310.69,KwaZulu-Natal,2026-01-30,8,11072.22,15026.64,74736.16,Male
+CL-00139,Lubanzi,Khumalo,38.0,Unemployed,4124.12,KwaZulu-Natal,30/01/2025,20,11149.39,10591.09,213797.92,Male
+CL-00140,Lerato,Molefe,42.0,Employed,27516.51,Northern Cape,2025-09-30,12,"R 13,837.12",10879.18,146458.47,Male
+CL-00141,Omolemo,Molefe,70.0,Employed,5947.92,Gauteng,2023-06-30,39,4508.84,10949.96,"173,910.19",Female
+CL-00142,Lerato,Enzokuhle,31.0,Employed,28331.23, Eastern Cape,2025-08-30,13,6162.72,5385.52,88979.3,Female
+CL-00143,Kopano,Enzokuhle,34.0,Employed,"35,386.48", KwaZulu-Natal,2026-08-30,1,"R 6,954.52",4217.34,0.0,Female
+CL-00144,Omphile,Nkosi,41.0,Employed,32205.66,KwaZulu-Natal,2024-04-30,29,10598.11,16806.31,306076.74,Male
+CL-00145,Omolemo,Molefe,70.0,Employed,24750.74,Mpumalanga,2024-07-30,26,7244.02,"15,174.58",185257.51,Male
+CL-00146,Thabo,Khumalo,63.0,Employed,57187.43,Limpopo,2025-10-30,11,16227.86,19113.89,193278.13,Female
+CL-00147,Omolemo,Melokuhle,22.0,Employed,,KwaZulu-Natal,2026-08-30,1,9124.68,6638.62,562.39,Male
+CL-00148,Omolemo,Melokuhle,32.0,Employed,32078.3,western cape,2026-08-30,1,10497.4,0.0,2444.37,Female
+CL-00149,Thabo,Nkosi,62.0,Employed,42924.92,Mpumalanga,2024-06-30,27,16958.24,15238.9,446028.19,Female
+CL-00150,Kopano,Nkosi,23.0,Employed,30942.83,Free State,2026-07-30,2,6110.78,1629.86,0.0,Male
+CL-00151,Omolemo,Molefe,63.0,Employed,16895.51,Mpumalanga,2024-09-30,24,4820.58,6262.19,123102.41,Male
+CL-00152,Omphile,Khumalo,35.0,Employed,8066.3,Free State,2025-03-30,18,3801.07,2161.32,66527.7,Female
+CL-00153,Kopano,Dlamini,66.0,Employed,20678.17,Limpopo,2024-01-30,32,8043.7,10007.77,258165.87,Male
+CL-00154,Kopano,Melokuhle,35.0,Employed,37462.87,Mpumalanga,2025-06-30,15,19679.99,11423.21,313044.79,Female
+CL-00155,Omphile,Nkosi,42.0,Employed,21946.56,Limpopo ,30/01/2025,20,9460.06,"R 3,407.65",207850.23,Male
+CL-00156,Omphile,Molefe,54.0,Employed,38193.38,Limpopo,2024-05-30,28,8025.09,15771.52,201655.24,Female
+CL-00157,Omolemo,Melokuhle,27.0, Employed,27923.99,Free State,2026-08-30,1,11124.65,4071.46,20194.33,Female
+CL-00158,Omolemo,Dlamini,48.0,Unemployed ,2888.24,KwaZulu-Natal,2025-06-30,15,,5807.48,73071.99,Female
+CL-00159,Lerato,Dlamini,46.0,Employed,"22,564.83",Mpumalanga ,2026-08-30,1,7560.99,11126.49,1098.71,Male
+CL-00160,Lubanzi,Nkosi,60.0,Employed,32542.65,Mpumalanga,2024-07-30,26,"7,686.57","13,765.85",204438.34,Male
+CL-00161,Lerato,Nkosi,70.0,Employed,33145.98,Mpumalanga,2024-02-29,31,18774.79,21702.09,557849.13,Male
+CL-00162,Omolemo,Enzokuhle,54.0,Unemployed,2403.5,Free State,2023-12-30,33,300.0,6160.33,30376.99,Female
+CL-00163,Lerato,Molefe,41.0,Employed,11460.55,Eastern Cape,2024-06-30,27,8150.94,13258.7,227284.72,Male
+CL-00164,Omphile,Melokuhle,41.0,Employed,20864.74,Gauteng,2025-04-30,17,8893.6,15938.84,139078.49,Male
+CL-00165,Thabo,Nkosi,41.0,Unemployed,5291.45,Eastern Cape,2025-11-30,10,5370.35,7891.77,"R 45,507.80",Female
+CL-00166,Thabo,Nkosi,61.0,Employed,54605.08,North West,2024-02-29,31,25028.21,13044.3,752030.5,Male
+CL-00167,Omphile,Melokuhle,37.0,Unemployed,"R 6,798.30",Limpopo,2026-01-30,8,5597.39,3067.45,40383.71,Female
+CL-00168,Thabo,Nkosi,29.0,Employed,22592.06,Limpopo,2026-01-30,8,6302.43,9699.6,"43,661.17",Female
+CL-00169,Omphile,Enzokuhle,37.0,Employed,37394.12,Limpopo,2024-10-30,23,17365.81,12697.9,380862.01,Female
+CL-00170,Thabo,Enzokuhle,22.0,Employed,39451.57,Northern Cape,2026-08-30,1,10805.51,"R 16,790.50",21679.34,Female
+CL-00171,Lerato,Melokuhle,26.0,Employed,21877.5,KwaZulu-Natal,2025-06-30,15,8982.06,8601.18,152606.07,Male
+CL-00172,Thabo,Nkosi,25.0,Unemployed,2739.7,Limpopo,2025-08-30,13,300.0,2872.24,3516.95,Female
+CL-00173,Thabo,Nkosi,59.0,Employed,45821.33,Western Cape,2025-06-30,15,11856.59,16610.46,173569.73,Male
+CL-00174,Omphile,Khumalo,57.0,Unemployed,8179.75,KwaZulu-Natal,2023-11-30,34,5266.92,7417.93,185165.01,Male
+CL-00175,Omolemo,Nkosi,55.0,Employed,37134.52,Western Cape,2024-03-30,30,"R 14,925.47",15727.72,447489.07,Male
+CL-00176,Lesedi,Dlamini,44.0,Employed,26556.73,Eastern Cape,2025-03-30,18,3794.41,10007.59,"53,148.92",Female
+CL-00177,Omolemo,Khumalo,56.0,Unemployed,5573.32,Gauteng,2025-05-30,16,"R 5,334.23",0.0,76210.19,Female
+CL-00178,Lesedi,Nkosi,29.0,Employed,33975.74,Eastern Cape,2026-08-30,1,8484.78,5592.55,4334.68,Female
+CL-00179,Lerato,Dlamini,66.0,Unemployed,4978.24,Gauteng,2024-10-30,23,8266.35,"R 13,427.54",193600.66,Male
+CL-00180,Omolemo,Khumalo,46.0,Employed,28477.78,Western Cape,2024-10-30,23,9442.26,10456.43,"R 217,302.71",Male
+CL-00181,Lerato,Melokuhle,67.0,Unemployed,4329.8,Free State,2025-01-30,20,300.0,10552.67,8945.17,Male
+CL-00182,Kopano,Khumalo,,Employed,48457.35,,2025-09-30,12,16514.1,6130.54,176821.62,Female
+CL-00183,Omolemo,Molefe,45.0,Employed,15041.42,,2026-04-30,5,2623.98,0.0,22432.95,Male
+CL-00184,Thabo,Nkosi,55.0,Employed,21129.77,Eastern Cape,2024-12-30,21,12989.13,16310.61,272819.62,Female
+CL-00185,Omolemo,Enzokuhle,45.0,Employed,27246.94,Eastern Cape,30/03/2025,18,10131.99,14404.07,218113.77,Female
+CL-00186,Kopano,Khumalo,43.0,Employed,67610.97,Western Cape,2023-04-30,41,22659.26,20658.41,923602.57,Male
+CL-00187,Lesedi,Khumalo,29.0,Employed,21225.61,free state,30/08/2026,1,9740.17,9924.89,"R 14,268.59",Female
+CL-00188,Thabo,Molefe,40.0,Unemployed,4625.68,North West,2024-04-30,29,300.0,7932.03,48309.07,Male
+CL-00189,Omphile,Nkosi,32.0,Employed,19959.48,Gauteng,2025-09-30,12,3050.89,247.33,"R 39,327.99",Female
+CL-00190,Omolemo,Nkosi,36.0,Unemployed,3148.61,Gauteng,2025-05-30,16,4286.65,2112.14,"R 67,639.54",Female
+CL-00191,Omphile,Nkosi,55.0,Unemployed,11622.41,North West,30/09/2024,24,1735.91,5638.48,"R 27,844.88",Female
+CL-00192,Thabo,Dlamini,52.0,Employed,16067.24,Free State,2024-08-30,25,3110.13,10309.74,99149.1,Female
+CL-00193,Lerato,Dlamini,51.0,Employed,96458.72,KwaZulu-Natal,2025-02-28,19,33947.94,21502.73,628783.38,Male
+CL-00194,Lubanzi,Dlamini,39.0,Employed,34526.25,North West,2024-05-30,28,14624.11,13419.62,415454.66,Female
+CL-00195,Omphile,Dlamini,68.0,Employed,15290.38,KwaZulu-Natal,2024-08-30,25,2323.33,"4,001.61",51453.4,Male
+CL-00196,Lerato,Molefe,25.0,Employed,25482.09, Mpumalanga,,18,7371.74,"10,177.45",130040.57,Female
+CL-00197,Omphile,Molefe,38.0,Employed,26855.61,Mpumalanga,28/02/2026,7,"R 6,297.25",6060.53,24145.69,Female
+CL-00198,Lubanzi,Molefe,,Employed,39026.33,Gauteng,2026-03-30,6,19554.65,12809.93,136131.68,Female
+CL-00199,Thabo,Khumalo,37.0,Employed,62869.27,limpopo,2026-07-30,2,23406.42,"R 24,115.45",42923.68,Male
+CL-00200,Lesedi,Enzokuhle,69.0,Employed,31330.79,Mpumalanga,2023-10-30,35,10554.2,9552.73,352385.6,Female
+CL-00201,Kopano,Melokuhle,39.0,Employed,20065.42, Gauteng,,28,"R 10,469.93",9957.87,310695.66,Female
+CL-00202,Lesedi,Enzokuhle,66.0,Employed,37935.87,Limpopo,2024-05-30,28,8874.49,2312.14,241427.81,Male
+CL-00203,Kopano,Khumalo,45.0,Employed,18595.79,Mpumalanga,2025-06-30,15,4987.21,2472.66,79492.67,Female
+CL-00204,Lubanzi,Dlamini,55.0,Unemployed,4761.08,north west,2025-09-30,12,3509.83,7227.46,53897.82,Male
+CL-00205,Thabo,Khumalo,43.0,Employed,"R 11,171.21",North West,2025-07-30,14,"R 6,767.39",8815.53,101380.01,Female
+CL-00206,Omphile,Molefe,34.0,Employed,12266.05,KwaZulu-Natal,2026-08-30,1,9999999,7198.68,0.0,Male
+CL-00207,Lesedi,Dlamini,,Employed,16908.27,Northern Cape,2025-05-30,16,"R 7,837.33",10957.79,135132.27,Female
+CL-00208,Lubanzi,Molefe,69.0,Employed,"R 14,772.35",Western Cape,2023-12-30,33,7299.72,20124.37,239482.08,Male
+CL-00209,Omolemo,Khumalo,34.0,Employed,30218.37,Eastern Cape,2024-09-30,24,10684.63,7393.64,251824.79,Female
+CL-00210,Lesedi,Nkosi,59.0,Employed,"14,619.90",mpumalanga,2022-04-30,53,6745.85,3389.89,356002.79,Female
+CL-00211,Omolemo,Melokuhle,34.0,Unemployed,9025.95,Free State,2026-04-30,5,2583.23,0.0,R 0.00,Male
+CL-00212,Lerato,Enzokuhle,56.0,Employed,15752.81,kwazulu-natal,2023-07-30,38,8356.82,7478.65,320249.5,Female
+CL-00213,Lerato,Molefe,60.0,Unemployed,8463.23,Gauteng,2024-05-30,28,6393.91,"3,611.98",159927.86,Female
+CL-00214,Omphile,Molefe,43.0,Employed,19442.88,North West,2025-06-30,15,"8,376.96",8949.71,121652.59,Male
+CL-00215,Omphile,Khumalo,57.0,Employed,53918.22,North West,30/05/2024,28,14308.52,20445.41,402826.14,Male
+CL-00216,Lesedi,Melokuhle,34.0,Employed,19367.49,Limpopo,2025-09-30,12,3918.11,12639.33,62053.82,Female
+CL-00217,Lubanzi,Melokuhle,24.0,Employed,39683.67,Free State,2026-02-28,7,14835.08,9999999,92370.95,Male
+CL-00218,Lerato,Dlamini,25.0,Unemployed,5231.8,Limpopo,2026-07-30,2,8151.56,17595.49,"R 36,625.35",Female
+CL-00219,Omolemo,Molefe,43.0,Unemployed,5601.5,KWAZULU-NATAL,2026-07-30,2,3513.14,1767.6,20282.23,Female
+CL-00220,Lesedi,Dlamini,66.0,unemployed,14176.92,Northern Cape,2025-08-30,13,4517.07,0.0,"R 52,710.18",Male
+CL-00221,Lubanzi,Molefe,27.0,Employed,25276.65,Gauteng,2025-07-30,14,10178.62,14934.5,126978.18,Female
+CL-00222,Thabo,Khumalo,43.0,Unemployed,5475.32, Mpumalanga,2025-08-30,13,300.0,0.0,0.0,Female
+CL-00223,Lubanzi,Melokuhle,56.0,Employed,28210.89,Eastern Cape ,2025-04-30,17,15089.46,9759.4,260325.43,Male
+CL-00224,Lesedi,Khumalo,31.0,Unemployed,12298.7,Northern Cape,2025-11-30,10,5981.35,"R 8,807.13",49491.51,Female
+CL-00225,Thabo,Dlamini,57.0,Employed,16521.71,KwaZulu-Natal,2024-01-30,32,,7473.23,179685.92,Male
+CL-00226,Lesedi,Enzokuhle,36.0,Employed,41854.77,Mpumalanga,2025-07-30,14,13743.97,11280.89,182902.22,Male
+CL-00227,Lubanzi,Nkosi,61.0,Employed,"R 31,911.93",Gauteng,2025-02-28,19,9674.25,3951.51,171201.34,Female
+CL-00228,Lubanzi,Enzokuhle,49.0,Employed,20968.61,Gauteng,2024-01-30,32,13556.59,,"437,081.78",Male
+CL-00229,Kopano,Molefe,48.0,Employed,27880.66,Eastern Cape,2023-10-30,35,10306.13,17088.73,"R 351,110.01",Male
+CL-00230,Omolemo,Nkosi,29.0,Unemployed,3816.61,North West,2025-08-30,13,"R 3,450.30",4814.05,44973.59,Male
+CL-00231,Omphile,Nkosi,44.0,Unemployed,5904.54,KwaZulu-Natal,2024-07-30,26,6128.78,"R 3,921.59",173152.05,Female
+CL-00232,Kopano,Melokuhle,63.0,Unemployed,6364.47,Limpopo,2023-05-30,40,2122.58,490.57,86544.49,Female
+CL-00233,Omphile,Molefe,21.0,Employed,19298.18,Mpumalanga,2025-06-30,15,8316.81,"4,390.13",126445.63,Female
+CL-00234,Thabo,Dlamini,58.0,Employed,16519.28,Northern Cape,2024-03-30,30,"R 8,403.75",12112.37,254984.63,Male
+CL-00235,Kopano,Nkosi,45.0,Employed,11931.34,KwaZulu-Natal,2024-10-30,23,300.0,5264.01,0.0,Male
+CL-00236,Omolemo,Enzokuhle,56.0,Employed,21888.58,KwaZulu-Natal,2024-05-30,28,9852.28,6971.11,"R 281,349.60",Male
+CL-00237,Thabo,Nkosi,54.0,Employed,"R 34,132.24",Northern Cape,2025-10-30,11,11736.93,0.0,131345.26,Male
+CL-00238,Lerato,Enzokuhle,42.0,Employed,18627.89,KwaZulu-Natal,2024-10-30,23,8222.25,11350.08,201612.23,Female
+CL-00239,Lubanzi,Nkosi,36.0,Employed,87185.38,Gauteng,2026-08-30,1,27525.88,16240.1,36007.23,Male
+CL-00240,Omphile,Enzokuhle,52.0,Employed,39774.49,North West,2025-08-30,13,14611.36,16195.49,187120.36,Male
+CL-00241,Omphile,Molefe,28.0,Employed,48626.81,North West,2024-12-30,21,21484.48,14798.28,465627.54,Male
+CL-00242,Omphile,Nkosi,50.0,Employed,38084.72,Western Cape,2024-05-30,28,9555.19,5820.23,263448.48,Male
+CL-00243,Lesedi,Dlamini,25.0,Employed,63273.82,North West,2024-12-30,21,19832.4,18155.19,"R 419,940.58",Male
+CL-00244,Lerato,Dlamini,53.0,Unemployed,12258.84,Mpumalanga,2025-02-28,19,8075.48,20492.84,149077.99,Male
+CL-00245,Kopano,Melokuhle,52.0,Employed,7606.04,KwaZulu-Natal,2025-11-30,10,5633.14,9701.01,62796.06,Female
+CL-00246,Lerato,Enzokuhle,25.0,Unemployed,"R 6,307.83",Free State,2026-05-30,4,4914.21,5459.33,"R 14,385.98",Female
+CL-00247,Omphile,Nkosi,58.0,Employed,33989.15,KwaZulu-Natal,2024-08-30,25,"22,359.62",21443.19,582056.32,Female
+CL-00248,Lesedi,Nkosi,41.0,Unemployed,3166.79,Gauteng,2025-05-30,16,5032.93,0.0,108769.88,Male
+CL-00249,Omolemo,Molefe,60.0,Unemployed,2113.41,gauteng,2023-08-30,37,7459.4,4629.07,288232.96,Female
+CL-00250,Lubanzi,Melokuhle,,Unemployed,3403.62,Gauteng,2026-08-30,1,1157.63,0.0,22735.78,Female
+CL-00251,Kopano,Enzokuhle,29.0,Employed,31233.28,Mpumalanga,2025-09-30,12,7499.5,"R 16,169.01","R 68,444.99",Female
+CL-00252,Lubanzi,Nkosi,45.0,Employed,38151.87,North West,2026-02-28,7,11808.02,17708.7,62756.84,Female
+CL-00253,Lerato,Dlamini,30.0,Employed,16561.93,,2025-08-30,13,9277.63,10873.99,116107.4,Male
+CL-00254,Lubanzi,Enzokuhle,,EMPLOYED,"R 15,368.31",Western Cape ,2025-08-30,13,7821.07,8536.75,"102,251.18",Female
+CL-00255,Lubanzi,Enzokuhle,54.0,Employed,56422.68,Eastern Cape,2025-06-30,15,20208.51,9242.18,300352.73,Female
+CL-00256,Thabo,Molefe,28.0,Employed,27290.24,Limpopo,2026-04-30,5,8825.43,6607.81,21137.27,Female
+CL-00257,Omolemo,Molefe,54.0,Employed,19277.65,North West,2025-01-30,20,6477.61,16625.84,145674.41,Female
+CL-00258,Omphile,Melokuhle,26.0,Employed,19294.64,Limpopo,2026-05-30,4,6508.91,6583.49,56194.4,Female
+CL-00259,Lubanzi,Molefe,29.0,Employed,19039.53,Eastern Cape,2024-07-30,26,10611.97,"R 8,477.39",293845.08,Female
+CL-00260,Kopano,Khumalo,50.0,Employed,"R 18,500.47",Mpumalanga,2025-02-28,19,10574.76,1713.47,216117.77,Male
+CL-00261,Thabo,Molefe,60.0,Unemployed,5297.09,Western Cape,30/10/2024,23,300.0,10447.53,"R 10,065.67",Female
+CL-00262,Lubanzi,Khumalo,29.0,Unemployed,5415.02,Eastern Cape,2026-08-30,1,5610.94,4599.46,0.0,Male
+CL-00263,Omphile,Nkosi,35.0,Employed,23676.77,Free State,2026-06-30,3,6086.43,R 0.00,19274.7,Female
+CL-00264,Lesedi,Khumalo,67.0,Employed,19560.11,Western Cape,30/06/2024,27,9890.15,6269.58,296512.28,Female
+CL-00265,Kopano,Nkosi,70.0,Employed,44235.74,western cape,2024-09-30,24,14787.64,7699.41,349975.63,Female
+CL-00266,Omphile,Nkosi,50.0,Employed,29927.37,North West,2023-11-30,34,17243.05,16296.28,579894.26,Male
+CL-00267,Lesedi,Khumalo,43.0,Employed,29531.25,Gauteng,2025-07-30,14,9142.31,,143494.54,Female
+CL-00268,Lesedi,Melokuhle,38.0,Employed,18199.58,Gauteng,2024-07-30,26,8394.88,7188.23,234698.43,Male
+CL-00269,Omolemo,Melokuhle,51.0,Unemployed,5868.82,Mpumalanga,2024-12-30,21,6026.38,11334.23,114683.38,Male
+CL-00270,Lesedi,Dlamini,50.0,Employed,"30,919.19",KwaZulu-Natal,2025-01-30,20,8169.51,"R 9,276.06",159729.33,Female
+CL-00271,Lesedi,Dlamini,35.0, Unemployed,5378.11,Northern Cape,2025-10-30,11,3013.15,9491.03,26117.96,Female
+CL-00272,Lerato,Molefe,22.0,Employed,24854.24,Northern Cape,2026-04-30,5,7906.57,5256.76,40508.49,Male
+CL-00273,Lesedi,Melokuhle,28.0,Employed,43644.44,,2024-08-30,25,13493.6,28492.02,352791.72,Female
+CL-00274,Lerato,Molefe,68.0,Unemployed,18748.91,KwaZulu-Natal,2026-02-28,7,5535.67,2733.24,27493.3,Male
+CL-00275,Omphile,Melokuhle,41.0,EMPLOYED,38040.95,North West,2026-08-30,1,"16,657.54","8,386.78",31912.84,Female
+CL-00276,Kopano,Dlamini,45.0,Unemployed,12202.76,KwaZulu-Natal,2025-09-30,12,3210.04,0.0,39943.65,Male
+CL-00277,Lerato,Dlamini,44.0,Employed,10892.28,KwaZulu-Natal,2025-04-30,17,7220.75,6814.24,155319.47,Male
+CL-00278,Lubanzi,Khumalo,60.0,Employed,29574.39,Northern Cape,2024-01-30,32,12548.86,"R 4,757.50",406027.14,Male
+CL-00279,Lesedi,Melokuhle,24.0,Employed,36827.77,Limpopo,2025-11-30,10,7639.2,8873.04,75035.16,Male
+CL-00280,Lerato,Nkosi,25.0,Unemployed,9396.2,Western Cape,2026-07-30,2,5971.87,0.0,19989.75,Male
+CL-00281,Lesedi,Melokuhle,34.0,Employed,31840.73,North West,2024-12-30,21,6545.57,8631.17,132736.92,Male
+CL-00282,Lerato,Nkosi,45.0,Unemployed,5835.59,Gauteng,2024-05-30,28,6387.81,1722.96,153724.8,Male
+CL-00283,Omphile,Khumalo,54.0,Unemployed,3851.64,Limpopo,2024-09-30,24,"R 1,537.60",2640.61,33535.12,Female
+CL-00284,Lerato,Molefe,45.0,Employed,33883.43,EASTERN CAPE,2024-06-30,27,12529.15,15813.69,334698.97,Female
+CL-00285,Kopano,Molefe,43.0,Employed,31905.91,Western Cape,2025-02-28,19,6910.37,19385.65,"109,004.50",Male
+CL-00286,Lesedi,Molefe,67.0,Unemployed,3769.48,north west,2024-09-30,24,3779.42,771.18,89683.61,Female
+CL-00287,Lubanzi,Dlamini,29.0,Unemployed,6904.4,Limpopo,2025-06-30,15,7238.34,6910.02,79635.56,Female
+CL-00288,Lubanzi,Dlamini,49.0,Employed,,North West,2024-12-30,21,4282.58,2574.66,"R 85,066.50",Male
+CL-00289,Omphile,Khumalo,48.0,Employed,19648.58,Mpumalanga,2025-02-28,19,5706.77,2649.53,111839.05,Female
+CL-00290,Thabo,Khumalo,44.0,Employed,57030.18,Limpopo,2024-02-29,31,"R 21,247.69","R 15,933.47",660036.35,Female
+CL-00291,Lesedi,Nkosi,61.0,Employed,39449.28,Northern Cape,2026-08-30,1,14803.41,15688.79,9048.44,Male
+CL-00292,Omphile,Dlamini,34.0,Unemployed,3384.19,Northern Cape,2026-08-30,1,300.0,,0.0,Female
+CL-00293,Lesedi,Dlamini,68.0, Employed,29845.66,Mpumalanga,30/03/2025,18,18165.16,27105.48,315995.97,Male
+CL-00294,Omphile,Melokuhle,37.0,Employed,28005.39,Western Cape,2025-12-30,9,11882.41,12425.23,107093.1,Female
+CL-00295,Thabo,Enzokuhle,48.0,Employed,6960.16,Eastern Cape,2025-05-30,16,,2167.59,104316.47,Female
+CL-00296,Omphile,Nkosi,47.0,Employed ,16827.07,Mpumalanga,2026-06-30,3,5857.38,3513.78,4968.63,Male
+CL-00297,Lesedi,Molefe,63.0,Employed,25373.12,western cape,2025-04-30,17,2846.66,710.36,52141.04,Female
+CL-00298,Lesedi,Khumalo,42.0,Unemployed,7685.73,Gauteng,2026-02-28,7,,10055.02,47261.38,Male
+CL-00299,Kopano,Dlamini,35.0,Employed,29274.18,Eastern Cape,2023-09-30,36,9459.58,3377.0,338217.8,Male
+CL-00300,Omphile,Melokuhle,22.0,Employed,"R 44,712.27",Northern Cape,2024-10-30,23,17537.84,9252.49,437264.89,Female
+CL-00301,Omolemo,Melokuhle,39.0,Unemployed,9119.59,KwaZulu-Natal,2025-11-30,10,"R 3,568.19",1511.37,33712.11,Male
+CL-00302,Kopano,Nkosi,62.0, Employed,"15,649.24",Northern Cape,,23,7717.71,12301.49,173598.12,Female
+CL-00303,Lesedi,Khumalo,21.0,Employed,30387.32,North West,30/08/2026,1,7568.21,,1654.7,Male
+CL-00304,Kopano,Enzokuhle,65.0,Employed,22227.21,KwaZulu-Natal,2025-12-30,9,11357.96,16870.45,88628.53,Female
+CL-00305,Lesedi,Enzokuhle,48.0,Unemployed,4687.94,KwaZulu-Natal,2025-03-30,18,300.0,5645.01,15002.56,Male
+CL-00306,Lesedi,Melokuhle,28.0,Unemployed,4648.59,North West,2026-08-30,1,10720.63,"R 8,214.40",1113.17,Female
+CL-00307,Lerato,Nkosi,36.0,Employed,76262.3,Limpopo,2025-10-30,11,32597.3,29453.19,350619.07,Male
+CL-00308,Omolemo,Khumalo,48.0,Employed,8868.97,Mpumalanga,2026-06-30,3,9864.41,2509.87,22057.85,Male
+CL-00309,Omolemo,Enzokuhle,36.0,Employed,"R 21,578.47",Northern Cape,2026-04-30,5,12475.27,1108.91,48587.12,Female
+CL-00310,Lerato,Nkosi,26.0,Employed,25954.0,Western Cape,30/01/2026,8,"9,017.83",10356.02,47627.44,Female
+CL-00311,Lerato,Molefe,54.0,Employed,17870.44,Eastern Cape,2024-07-30,26,11852.7,7165.55,301689.07,Female
+CL-00312,Omphile,Khumalo,54.0,Unemployed,2936.09,Mpumalanga,2024-07-30,26,2826.59,"5,368.61",85718.1,Male
+CL-00313,Lesedi,Enzokuhle,26.0,Unemployed,4835.05,Western Cape,2026-08-30,1,300.00,1724.14,3057.72,Male
+CL-00314,Lesedi,Melokuhle,35.0,Employed,25410.8,Northern Cape,2025-01-30,20,"15,074.77",15094.43,323343.36,Female
+CL-00315,Lerato,Nkosi,33.0,Unemployed,2334.08,Mpumalanga,2026-06-30,3,6089.99,10203.75,28783.37,Female
+CL-00316,Lesedi,Khumalo,53.0,Unemployed,7863.1,KwaZulu-Natal,30/05/2024,28,4622.11,11368.29,136754.57,Female
+CL-00317,Thabo,Dlamini,57.0,Employed,24724.61,KwaZulu-Natal,2024-09-30,24,5214.72,8169.6,151510.33,Female
+CL-00318,Omphile,Melokuhle,57.0,Employed,,Western Cape,2025-11-30,10,7021.7,4745.55,"R 68,856.96",Male
+CL-00319,Omphile,Nkosi,67.0,Unemployed,4333.38,Mpumalanga,2024-07-30,26,300.0,4414.81,8683.06,Male
+CL-00320,Kopano,Molefe,59.0,Employed,29349.4,Northern Cape,2024-04-30,29,14625.11,11539.03,423967.75,Female
+CL-00321,Omphile,Dlamini,37.0,Unemployed,5408.72,Western Cape,2025-02-28,19,300.0,2123.86,27313.01,Female
+CL-00322,Omolemo,Enzokuhle,26.0,Employed,14404.95,Eastern Cape,2026-04-30,5,6764.08,19311.0,33855.59,Female
+CL-00323,Lubanzi,Khumalo,51.0,Employed,15701.84,Mpumalanga,2023-09-30,36,"4,385.26",8828.33,148793.32,Female
+CL-00324,Lerato,Molefe,66.0,Unemployed,3249.26,Eastern Cape,2023-06-30,39,300.0,7557.23,19927.46,Female
+CL-00325,Omphile,Khumalo,69.0,Employed,39407.94,Mpumalanga,2024-05-30,28,15056.46,,410153.24,Male
+CL-00326,Omolemo,Melokuhle,32.0,Employed,29319.47,LIMPOPO,2025-03-30,18,9550.16,"14,756.48",179371.53,Male
+CL-00327,Lerato,Enzokuhle,32.0,Employed,33136.15,Northern Cape,2024-04-30,29,15376.33,18862.32,451707.25,Male
+CL-00328,Lerato,Melokuhle,22.0,Employed,13091.16,Mpumalanga,2024-09-30,24,1571.97,8408.58,35075.64,Female
+CL-00329,Lesedi,Dlamini,28.0,Employed,61244.35,Limpopo,2026-08-30,1,16888.97,14144.52,24810.33,Female
+CL-00330,Kopano,Dlamini,48.0,Employed,19411.16,KwaZulu-Natal,2025-11-30,10,300.0,7286.95,0.0,Male
+CL-00331,Thabo,Khumalo,48.0,Employed,28186.28,Gauteng,2023-11-30,34,"3,220.24",13217.0,111769.49,Female
+CL-00332,Omolemo,Nkosi,39.0,Employed,39181.36,Western Cape,,3,19553.9,,52182.99,Male
+CL-00333,Omphile,Melokuhle,36.0,Employed,16189.23,,2026-08-30,1,13599.72,10128.74,"53,671.41",Male
+CL-00334,Lesedi,Molefe,62.0,Unemployed,5020.74,North West,2024-11-30,22,3964.04,10546.96,"89,390.35",Male
+CL-00335,Lesedi,Enzokuhle,44.0,Employed,28335.03,Western Cape,2024-12-30,21,7616.73,4073.42,151601.77,Female
+CL-00336,Omphile,Khumalo,61.0,Employed,,Free State,2024-08-30,25,31920.07,22942.65,778705.64,Male
+CL-00337,Omolemo,Enzokuhle,69.0,Employed,30043.2,Mpumalanga,2024-09-30,24,14365.83,13516.89,363055.55,Female
+CL-00338,Lerato,Dlamini,36.0,Employed,56213.1,Limpopo,2026-03-30,6,16464.13,4607.39,93884.33,Male
+CL-00339,Kopano,Nkosi,31.0,Unemployed,11007.67,,2026-07-30,2,5441.78,9076.06,0.0,Female
+CL-00340,Thabo,Melokuhle,68.0,Employed ,,North West,2024-12-30,21,11343.09,6462.46,242913.17,Male
+CL-00341,Lesedi,Dlamini,52.0,Employed,"R 16,172.02",Eastern Cape,2023-01-30,44,5851.88,7495.9,266578.8,Female
+CL-00342,Lesedi,Khumalo,35.0,Unemployed,3154.08,,2025-06-30,15,881.93,"R 2,018.59","R 22,104.28",Female
+CL-00343,Lesedi,Khumalo,52.0,Unemployed,4483.87,Gauteng,2024-03-30,30,4861.11,"R 7,796.44",146109.95,Female
+CL-00344,Lesedi,Dlamini,46.0,Unemployed,2777.07,North West,2025-08-30,13,300.0,727.73,6128.66,Male
+CL-00345,Kopano,Dlamini,66.0,Unemployed,3731.81,Northern Cape,2024-06-30,27,5079.77,7090.58,140402.26,Female
+CL-00346,Lerato,Molefe,33.0,Unemployed,10950.73,LIMPOPO,30/06/2026,3,"R 2,913.53",2929.61,13450.15,Male
+CL-00347,Thabo,Enzokuhle,70.0,Employed,22079.59,Eastern Cape,2026-05-30,4,8450.4,5089.13,39749.99,Female
+CL-00348,Kopano,Dlamini,67.0,Employed,35587.39,Northern Cape,30/05/2025,16,17530.48,11315.98,295810.08,Female
+CL-00349,Omolemo,Dlamini,30.0,Employed,23204.01,KwaZulu-Natal,2026-08-30,1,7597.71,11787.72,8387.52,Male
+CL-00350,Lesedi,Nkosi,29.0,Employed,36645.82,KwaZulu-Natal,2026-08-30,1,15547.04,"1,581.84",4111.8,Male
+CL-00351,Lerato,Nkosi,47.0, Employed,17289.25,Limpopo ,2026-03-30,6,300.00,9999999,0.0,Male
+CL-00352,Omphile,Molefe,23.0,Employed,13890.78, KwaZulu-Natal,2025-03-30,18,4429.93,3625.05,90291.6,Female
+CL-00353,Lesedi,Melokuhle,35.0,Employed,"R 25,123.48",Free State,2025-10-30,11,,10799.04,77274.55,Male
+CL-00354,Omphile,Melokuhle,42.0,Unemployed,7199.72,Mpumalanga,2024-05-30,28,11459.91,4859.67,295946.87,Male
+CL-00355,Lubanzi,Dlamini,69.0,Unemployed,1882.83,Gauteng,2023-10-30,35,300.0,,23355.87,Female
+CL-00356,Kopano,Dlamini,70.0,Employed ,46861.49,Northern Cape,2023-06-30,39,9999999,16494.27,"R 666,735.32",Female
+CL-00357,Omphile,Melokuhle,28.0,Employed,17287.73,Gauteng,2026-08-30,1,11672.4,14664.5,0.00,Female
+CL-00358,Kopano,Molefe,65.0,Employed,30217.34,Northern Cape,2023-12-30,33,,12445.02,"292,635.70",Female
+CL-00359,Kopano,Molefe,25.0,Employed ,26862.25,kwazulu-natal,2025-08-30,13,9038.46,2820.25,"R 111,906.30",Male
+CL-00360,Thabo,Dlamini,58.0,Unemployed,4497.77,Eastern Cape,2025-02-28,19,4541.59,3722.56,82638.62,Female
+CL-00361,Lerato,Nkosi,63.0,Unemployed,8751.82,KwaZulu-Natal,2023-12-30,33,5875.78,13090.82,198178.1,Female
+CL-00362,Lesedi,Khumalo,65.0,Unemployed,6434.1,Free State,2023-11-30,34,10195.0,5876.53,328529.9,Female
+CL-00363,Omolemo,Khumalo,32.0,Unemployed,3853.14,Western Cape,2026-04-30,5,,"R 3,966.70",5401.2,Female
+CL-00364,Kopano,Molefe,65.0,Unemployed,5615.3,Gauteng,2025-04-30,17,8378.57,8656.97,138218.23,Female
+CL-00365,Lerato,Melokuhle,26.0,Employed,11356.52,Free State,2026-08-30,1,3352.93,1395.19,1317.67,Male
+CL-00366,Lesedi,Enzokuhle,46.0,EMPLOYED,5841.94,Limpopo,2025-02-28,19,"R 1,084.69",17149.74,4845.73,Female
+CL-00367,Lesedi,Dlamini,44.0, Employed,36964.66,NORTHERN CAPE,2025-01-30,20,12316.79,9804.43,257390.94,Male
+CL-00368,Thabo,Molefe,36.0,Employed,24826.56,North West,2026-05-30,4,4643.2,6831.93,12726.93,Male
+CL-00369,Lesedi,Khumalo,22.0,Employed,44965.89, Northern Cape,,5,16640.41,9499.59,77296.6,Female
+CL-00370,Omphile,Dlamini,,Employed,17036.39, North West,29/02/2024,31,6223.76,11329.85,196893.7,Female
+CL-00371,Lesedi,Melokuhle,37.0,Unemployed,"R 4,832.14",limpopo,2025-02-28,19,1029.2,7984.96,17750.11,Female
+CL-00372,Thabo,Khumalo,54.0,Employed,39027.24,Eastern Cape,2023-07-30,38,,13775.71,"631,099.65",Male
+CL-00373,Lesedi,Enzokuhle,41.0,Unemployed,3159.25,Northern Cape ,2024-05-30,28,300.0,3822.49,0.0,Male
+CL-00374,Omphile,Enzokuhle,39.0,Unemployed,11034.33,Northern Cape,2026-05-30,4,7452.11,2129.12,10245.02,Male
+CL-00375,Kopano,Molefe,65.0,Employed,26317.2,Free State,30/12/2022,45,9263.15,6697.45,412504.51,Female
+CL-00376,Kopano,Khumalo,25.0,Employed,33736.53,GAUTENG,2026-08-30,1,15535.71,17279.69,16379.01,Female
+CL-00377,Lerato,Melokuhle,57.0,Employed,25821.73,Western Cape,2023-11-30,34,8960.66,8221.67,287291.94,Female
+CL-00378,Lerato,Melokuhle,58.0,Employed,41496.74,Free State ,30/08/2024,25,16973.9,3703.14,404918.84,Female
+CL-00379,Thabo,Dlamini,39.0,Employed,20829.45,Mpumalanga,2025-11-30,10,8515.26,16857.77,87704.75,Male
+CL-00380,Thabo,Melokuhle,34.0,Unemployed,2625.78,Free State,2026-08-30,1,4707.78,289.13,0.0,Female
+CL-00381,Lesedi,Dlamini,21.0,Employed,"67,157.78",Northern Cape,30/07/2026,2,21827.14,"15,503.68",23319.12,Male
+CL-00382,Omphile,Dlamini,67.0,Employed,19450.49,free state,2025-07-30,14,1634.92,11721.67,36403.61,Female
+CL-00383,Lesedi,Molefe,68.0,Unemployed,7750.45,Mpumalanga,2023-05-30,40,8836.79,10853.78,344626.58,Female
+CL-00384,Kopano,Dlamini,33.0,Employed,25191.61,Limpopo,2024-07-30,26,9533.82,9707.67,263976.79,Female
+CL-00385,Lesedi,Enzokuhle,22.0,Employed,26852.08,Northern Cape,2026-08-30,1,12139.88,3509.85,12538.47,Female
+CL-00386,Lubanzi,Khumalo,27.0,employed,21595.57,Mpumalanga,2025-11-30,10,10583.56,1345.99,109962.22,Male
+CL-00387,Omolemo,Khumalo,24.0,EMPLOYED,25783.33,Mpumalanga,2026-08-30,1,6193.13,4537.12,3232.14,Female
+CL-00388,Omolemo,Melokuhle,62.0,Employed,25508.47,Western Cape,2025-01-30,20,"R 6,399.28",9421.53,90813.3,Male
+CL-00389,Omphile,Melokuhle,65.0,Employed,28275.9,Mpumalanga,2023-09-30,36,13554.05,16046.54,472030.72,Female
+CL-00390,Thabo,Enzokuhle,28.0,Employed,8385.49,Gauteng,2026-02-28,7,"R 2,917.95",1264.62,18665.72,Female
+CL-00391,Thabo,Nkosi,58.0,Employed,64130.31,Eastern Cape,2023-03-30,42,25574.24,,1079224.27,Male
+CL-00392,Thabo,Enzokuhle,29.0,Employed,24225.31,Free State,2026-05-30,4,,0.0,6920.85,Male
+CL-00393,Kopano,Molefe,39.0,Employed,,western cape,2024-09-30,24,16199.27,17404.31,388032.01,Male
+CL-00394,Omolemo,Dlamini,50.0,Employed,13418.14,Limpopo,2024-12-30,21,7631.34,9411.59,144546.44,Female
+CL-00395,Lerato,Molefe,56.0,Employed,20739.01,kwazulu-natal,2024-02-29,31,9760.41,21105.8,305857.47,Male
+CL-00396,Lerato,Enzokuhle,64.0,Employed,18828.75,free state,2024-10-30,23,6468.18,8024.49,148496.63,Male
+CL-00397,Thabo,Dlamini,23.0,Employed,52644.61,Eastern Cape,2026-04-30,5,18040.12,9625.54,100609.64,Male
+CL-00398,Lesedi,Melokuhle,30.0,Employed,19627.0,Eastern Cape,2026-01-30,8,11718.37,9863.61,108682.47,Male
+CL-00399,Lubanzi,Molefe,35.0,Employed,37411.38,,2026-06-30,3,"12,354.24",8386.05,43488.57,Male
+CL-00400,Lerato,Khumalo,36.0,Unemployed,5164.45,Western Cape,2025-02-28,19,5459.56,"8,994.42",115777.18,Female
+CL-00401,Lubanzi,Melokuhle,70.0,Employed,20922.8,Gauteng,2023-08-30,37,"R 9,197.74",11626.83,335411.44,Male
+CL-00402,Thabo,Nkosi,59.0,Unemployed,4791.54,North West,2024-02-29,31,4388.04,1069.65,175552.81,Male
+CL-00403,Lerato,Molefe,37.0,Employed,48151.01,Gauteng,2024-05-30,28,23025.58,12279.7,627652.86,Female
+CL-00404,Lerato,Nkosi,69.0,Employed,10495.72,Free State,2022-12-30,45,10564.94,"R 14,671.30",468033.86,Male
+CL-00405,Lesedi,Nkosi,45.0,Unemployed,6627.17,Gauteng,2025-08-30,13,4020.0,"R 12,039.98",64879.06,Male
+CL-00406,Thabo,Enzokuhle,46.0,Unemployed,4516.87,Free State,2024-12-30,21,"R 4,209.09",6537.29,"R 98,929.08",Female
+CL-00407,Thabo,Dlamini,42.0,Unemployed,4285.26,Mpumalanga,2025-12-30,9,336.84,6099.01,9855.05,Male
+CL-00408,Lerato,Molefe,28.0,EMPLOYED,17611.08,Free State,2026-01-30,8,6196.63,11205.62,59027.48,Female
+CL-00409,Omphile,Khumalo,67.0,Unemployed,"R 5,739.95",LIMPOPO,2024-10-30,23,"R 5,001.82","8,265.27",85871.99,Male
+CL-00410,Kopano,Khumalo,21.0,Employed,18278.14,,2025-01-30,20,"R 10,585.65",6549.21,233963.18,Male
+CL-00411,Thabo,Nkosi,29.0,Employed,9885.15,,,12,7366.74,8400.59,85546.41,Female
+CL-00412,Lubanzi,Khumalo,32.0,Employed,15950.05,KwaZulu-Natal,2026-01-30,8,"R 2,327.68",9391.3,36063.98,Female
+CL-00413,Lubanzi,Melokuhle,34.0,Unemployed,8299.12,Free State,2024-10-30,23,8172.87,11863.92,159506.72,Male
+CL-00414,Omphile,Enzokuhle,27.0,Employed,31557.74,Western Cape,2026-08-30,1,10389.74,12131.84,13981.7,Female
+CL-00415,Omphile,Nkosi,21.0,Unemployed,7453.98,KwaZulu-Natal,2026-08-30,1,300.0,0.0,0.0,Male
+CL-00416,Thabo,Enzokuhle,54.0,Employed,16066.93, Limpopo,2024-03-30,30,12091.06,11793.8,370741.56,Male
+CL-00417,Lerato,Khumalo,69.0,Unemployed,4026.51,North West,2024-02-29,31,8977.76,10080.35,282749.43,Female
+CL-00418,Lubanzi,Dlamini,27.0,Unemployed,3097.5,KwaZulu-Natal,2025-11-30,10,3498.74,4162.4,"R 40,112.05",Female
+CL-00419,Omphile,Khumalo,35.0,Unemployed,3968.99,KwaZulu-Natal,30/08/2026,1,4984.35,10338.53,0.0,Female
+CL-00420,Lerato,Enzokuhle,46.0,Employed,39441.61,KwaZulu-Natal,2025-03-30,18,16551.3,2961.07,297125.84,Female
+CL-00421,Kopano,Enzokuhle,67.0,Employed,40094.25,KwaZulu-Natal,2022-08-30,49,20311.05,20966.65,992719.32,Male
+CL-00422,Lubanzi,Nkosi,55.0,Employed,35191.0,Northern Cape,2024-02-29,31,15680.35,15102.37,493025.12,Male
+CL-00423,Kopano,Enzokuhle,59.0,Employed,18248.25,,2024-06-30,27,3028.8,0.0,95627.69,Female
+CL-00424,Lerato,Enzokuhle,50.0,Employed,26308.19,Eastern Cape,2025-05-30,16,16999.77,18158.67,274102.92,Female
+CL-00425,Omphile,Molefe,41.0,Employed,22283.63,Free State,30/10/2025,11,12183.45,7159.58,116151.56,Male
+CL-00426,Lesedi,Melokuhle,30.0,Employed,23606.58,Free State,2026-08-30,1,6489.69,3797.41,"R 7,995.79",Male
+CL-00427,Kopano,Khumalo,64.0,Employed,69125.1,Free State,2024-03-30,30,19490.88,27377.34,621281.47,Female
+CL-00428,Thabo,Melokuhle,61.0,Employed,"R 11,160.01",Eastern Cape,2023-11-30,34,"R 7,793.33",15201.07,288017.29,Male
+CL-00429,Lesedi,Nkosi,22.0,Unemployed,6940.81,Northern Cape,2026-08-30,1,2322.51,5454.64,0.0,Female
+CL-00430,Lerato,Melokuhle,56.0,Employed,46513.19,KwaZulu-Natal,2025-04-30,17,17055.94,16854.16,290837.81,Female
+CL-00431,Thabo,Khumalo,25.0,Unemployed,4406.4,Eastern Cape,2026-08-30,1,5240.18,,18289.86,Female
+CL-00432,Omphile,Dlamini,57.0,Unemployed,,Western Cape,2025-07-30,14,1214.34,13211.21,14448.14,Male
+CL-00433,Lesedi,Nkosi,62.0,EMPLOYED,20169.23,Free State,2024-06-30,27,4366.78,10924.92,111461.77,Male
+CL-00434,Kopano,Melokuhle,27.0,Unemployed,2031.96,North West,30/08/2026,1,3240.54,,0.0,Male
+CL-00435,Omolemo,Khumalo,42.0,Employed,12085.87,Northern Cape,2024-11-30,22,3829.57,0.0,91981.08,Female
+CL-00436,Lubanzi,Khumalo,27.0,Employed,34599.31,Free State,2025-06-30,15,12735.74,14453.92,174957.5,Female
+CL-00437,Lubanzi,Enzokuhle,49.0,Employed,,Gauteng,2025-04-30,17,7817.67,8019.37,149541.95,Male
+CL-00438,Thabo,Enzokuhle,67.0,Employed,33185.62,Limpopo,30/05/2026,4,10415.83,,40879.41,Male
+CL-00439,Thabo,Nkosi,25.0,Employed,17121.2,mpumalanga,,1,8952.19,9498.5,0.0,Female
+CL-00440,Thabo,Khumalo,40.0,Employed,27102.38,Northern Cape,2024-06-30,27,"R 12,646.07",11530.04,357184.86,Male
+CL-00441,Omolemo,Khumalo,69.0,Unemployed,"R 4,369.45",Free State,2026-06-30,3,300.0,3999.32,0.0,Female
+CL-00442,Omphile,Molefe,36.0,Employed,22163.57,Western Cape,2025-12-30,9,4021.32,6894.05,28418.94,Male
+CL-00443,Omphile,Dlamini,27.0,Unemployed,5169.8, Northern Cape,2026-08-30,1,2849.69,0.0,0.0,Male
+CL-00444,Omolemo,Molefe,45.0,Unemployed,3332.59,Limpopo,2024-08-30,25,5269.49,10508.26,161752.55,Female
+CL-00445,Lubanzi,Molefe,46.0,EMPLOYED,14703.47, North West,2025-10-30,11,7531.67,4943.28,"73,258.11",Female
+CL-00446,Lesedi,Khumalo,54.0,Employed,28350.86,Gauteng,2024-07-30,26,8953.48,"7,942.10",202621.06,Female
+CL-00447,Lerato,Enzokuhle,36.0,Unemployed,2868.25,Free State,2025-03-30,18,3888.64,2918.47,61850.15,Male
+CL-00448,Lubanzi,Dlamini,68.0,Employed,"R 14,622.65",Free State,2022-09-30,48,13011.27,21102.99,630918.86,Male
+CL-00449,Lerato,Melokuhle,,Employed,15773.91,KwaZulu-Natal,2025-05-30,16,7342.69,"R 6,443.88",128460.29,Female
+CL-00450,Thabo,Nkosi,35.0,Employed,21006.42,North West,2025-06-30,15,2252.59,10934.08,65660.45,Male
+CL-00451,Lubanzi,Enzokuhle,69.0,UNEMPLOYED,5099.81,Gauteng,2025-05-30,16,4133.47,14453.52,85832.01,Female
+CL-00452,Lubanzi,Molefe,67.0,Employed,34319.98,Western Cape,2023-04-30,41,20576.24,,846256.71,Male
+CL-00453,Lesedi,Khumalo,45.0,Employed,33419.32,KwaZulu-Natal,2025-11-30,10,7011.19,0.0,57632.09,Male
+CL-00454,Lerato,Dlamini,22.0,Employed,15342.29,Northern Cape,2026-08-30,1,,"R 10,417.77",28688.08,Female
+CL-00455,Thabo,Enzokuhle,50.0,Employed,20050.73,Gauteng,,20,7240.41,"R 6,503.24",139648.35,Female
+CL-00456,Lerato,Melokuhle,48.0,Employed ,29626.14,Mpumalanga,2026-06-30,3,10559.02,4401.56,22462.86,Male
+CL-00457,Omphile,Nkosi,28.0,Unemployed,2568.91,Gauteng,,10,3089.98,1181.19,25060.76,Male
+CL-00458,Lerato,Nkosi,52.0,unemployed,4416.37,Eastern Cape,2024-02-29,31,7930.81,7846.11,228323.05,Female
+CL-00459,Lerato,Enzokuhle,63.0,Employed,32135.09,Free State,30/03/2024,30,12405.75,19518.1,365662.16,Female
+CL-00460,Kopano,Melokuhle,26.0,Employed,,Western Cape,2026-08-30,1,12437.78,10664.76,9174.26,Female
+CL-00461,Lubanzi,Enzokuhle,57.0,Employed,28979.98,KwaZulu-Natal,2024-10-30,23,10436.43,17262.22,250267.14,Female
+CL-00462,Lubanzi,Nkosi,28.0,Employed,,Mpumalanga,2025-06-30,15,17323.45,17393.98,254418.46,Male
+CL-00463,Omolemo,Khumalo,58.0,Employed,23941.28,Western Cape,2026-03-30,6,6225.33,4396.08,19607.53,Male
+CL-00464,Thabo,Melokuhle,41.0,Employed,45795.17,Free State ,2026-05-30,4,8565.04,5455.04,11807.34,Female
+CL-00465,Omphile,Melokuhle,21.0,Employed,34007.94,,2025-08-30,13,12941.2,14355.71,171169.53,Male
+CL-00466,Kopano,Melokuhle,69.0,Employed,12856.13,Gauteng,2023-12-30,33,13837.24,18494.94,457645.64,Male
+CL-00467,Lubanzi,Nkosi,29.0,Employed,15318.65,Gauteng,2025-08-30,13,7991.24,12967.66,96125.76,Female
+CL-00468,Lerato,Nkosi,50.0,Employed,,Free State,2023-06-30,39,10538.13,11369.76,404442.6,Female
+CL-00469,Thabo,Dlamini,30.0,Employed,17249.37,Limpopo,2025-07-30,14,5475.9,7158.68,82101.4,Male
+CL-00470,Omphile,Nkosi,67.0,Unemployed,3024.57,Western Cape,2023-09-30,36,2739.77,9652.84,118099.39,Male
+CL-00471,Lesedi,Melokuhle,57.0,Unemployed,4690.85,Eastern Cape,30/06/2022,51,8293.96,10461.83,412070.16,Male
+CL-00472,Omolemo,Khumalo,61.0,Unemployed,4257.09,Northern Cape,2024-09-30,24,10716.43,5481.13,258438.84,Male
+CL-00473,Omolemo,Enzokuhle,42.0,Unemployed,4599.33,Eastern Cape,2026-01-30,8,"8,272.41",3604.78,79595.08,Female
+CL-00474,Lerato,Nkosi,44.0,Employed,20992.61,KwaZulu-Natal,2024-12-30,21,"R 11,278.66",10025.46,"R 225,986.32",Female
+CL-00475,Thabo,Dlamini,52.0,Unemployed,3570.94,Limpopo,2024-08-30,25,"R 3,447.82",9343.47,85976.75,Female
+CL-00476,Thabo,Molefe,60.0,Employed,26896.05,Free State,2025-01-30,20,10863.8,"17,116.83",216744.14,Male
+CL-00477,Kopano,Khumalo,63.0,Employed,26323.61,Eastern Cape,2025-04-30,17,7098.46,1000.65,102315.63,Male
+CL-00478,Lubanzi,Dlamini,21.0,Employed,28386.18,North West,2024-06-30,27,5636.45,4841.52,154543.14,Male
+CL-00479,Omolemo,Molefe,54.0,Employed,71456.71,Western Cape,30/08/2024,25,19630.54,"15,894.68",491205.14,Male
+CL-00480,Thabo,Molefe,26.0,Employed,47161.74,Limpopo,2026-08-30,1,15569.8,16093.84,23340.98,Female
+CL-00481,Omphile,Dlamini,35.0,EMPLOYED,37899.04,EASTERN CAPE,2024-12-30,21,12400.54,9397.84,243794.93,Male
+CL-00482,Omolemo,Dlamini,62.0,Unemployed,4552.59,North West,30/08/2024,25,300.0,1617.34,7639.59,Male
+CL-00483,Omolemo,Khumalo,33.0,Unemployed,8546.27,Limpopo,2026-01-30,8,3965.52,0.0,51068.4,Male
+CL-00484,Lesedi,Enzokuhle,60.0,Employed,24842.88,northern cape,2024-02-29,31,8808.51,12969.17,302148.94,Male
+CL-00485,Thabo,Dlamini,44.0,Employed,17919.71,Gauteng,2026-05-30,4,2521.66,2248.6,"R 28,008.44",Female
+CL-00486,Omphile,Molefe,32.0,Unemployed,"R 4,402.08",Gauteng,2025-07-30,14,1775.98,348.48,8384.71,Female
+CL-00487,Lerato,Molefe,37.0,Employed,30858.52,Northern Cape,2024-01-30,32,10646.12,10687.64,346990.71,Male
+CL-00488,Omphile,Dlamini,47.0,Employed,15420.67,Eastern Cape,2024-10-30,23,4572.31,12257.04,98399.01,Male
+CL-00489,Thabo,Dlamini,59.0,Employed,46181.0, North West,2024-12-30,21,19272.31,11961.63,408693.2,Male
+CL-00490,Lubanzi,Molefe,51.0,Employed,"27,308.70",Limpopo,2025-06-30,15,3172.17,R 525.66,36771.45,Female
+CL-00491,Kopano,Enzokuhle,67.0,Employed,11337.8,Free State,2024-08-30,25,300.0,10027.26,0.0,Male
+CL-00492,Lubanzi,Melokuhle,64.0,Unemployed,6309.34,Western Cape,2024-08-30,25,4154.63,"R 6,920.21",99042.53,Female
+CL-00493,Thabo,Melokuhle,58.0,Unemployed,1921.78,Western Cape,2024-12-30,21,3004.59,8622.08,73212.84,Male
+CL-00494,Lesedi,Melokuhle,51.0,Employed,41472.76,Limpopo,2024-03-30,30,"R 16,357.00",17885.8,494742.09,Female
+CL-00495,Omolemo,Molefe,35.0,Employed,22111.72,Western Cape,2026-08-30,1,5935.21,5006.68,11576.48,Male
+CL-00496,Lubanzi,Melokuhle,41.0,Unemployed,10194.0,Western Cape,2024-09-30,24,1961.67,3110.91,50109.08,Male
+CL-00497,Omphile,Enzokuhle,26.0,Employed,"28,443.64",Gauteng,30/06/2026,3,9832.75,12367.37,35161.65,Female
+CL-00498,Lesedi,Khumalo,39.0,Employed,"13,830.42",Northern Cape,2025-03-30,18,4515.44,11842.8,88691.16,Male
+CL-00499,Lubanzi,Khumalo,67.0,Employed,13181.53,Mpumalanga,30/03/2025,18,"R 11,494.32",16476.85,203052.14,Male
+CL-00500,Kopano,Nkosi,42.0,Employed,44563.95,Limpopo,2024-04-30,29,14619.97,8589.02,425139.52,Female
+CL-00501,Lerato,Molefe,26.0,Employed,46162.55,Mpumalanga,2025-02-28,19,15655.3,"20,686.37",321856.31,Female
+CL-00502,Kopano,Dlamini,53.0,Employed,30359.0,Mpumalanga,2024-02-29,31,20521.2,,"R 638,145.79",Female
+CL-00503,Omphile,Enzokuhle,69.0,Employed,53305.3,KWAZULU-NATAL,2025-06-30,15,17120.45,11001.58,257402.69,Male
+CL-00504,Kopano,Melokuhle,64.0,Employed,43175.33,,2023-09-30,36,17666.76,16633.43,637443.88,Female
+CL-00505,Lerato,Molefe,34.0,Employed,36098.03,Free State,30/06/2025,15,14986.12,17395.65,221741.13,Male
+CL-00506,Lubanzi,Dlamini,43.0,Employed,16788.04,Northern Cape,2026-08-30,1,8911.46,10028.57,2816.48,Male
+CL-00507,Lubanzi,Molefe,47.0,unemployed,4584.45,Northern Cape,2025-03-30,18,4373.49,4651.98,81644.31,Male
+CL-00508,Omolemo,Dlamini,33.0,Employed,"33,633.45",limpopo,2025-07-30,14,12575.86,15582.95,168982.07,Female
+CL-00509,Thabo,Nkosi,34.0,Employed,21604.33,North West,2025-04-30,17,8756.5,"9,673.99",146823.35,Male
+CL-00510,Thabo,Khumalo,32.0,Employed,18865.35,North West,2025-09-30,12,5290.03,"3,063.96",52413.12,Female
+CL-00511,Omphile,Nkosi,70.0,Unemployed,14681.21,Limpopo,2023-11-30,34,8204.23,6906.87,280456.0,Female
+CL-00512,Lerato,Khumalo,58.0,Employed,"R 11,657.95",North West ,2023-06-30,39,13638.51,16960.9,540080.6,Female
+CL-00513,Kopano,Enzokuhle,,Unemployed,3967.38,Western Cape,2023-06-30,39,8386.67,10715.81,324113.27,Male
+CL-00514,Lerato,Melokuhle,61.0,Employed,16450.94,Western Cape,2026-08-30,1,7271.39,0.0,0.0,Female
+CL-00515,Lerato,Melokuhle,68.0,Employed,31062.1,Eastern Cape,2024-06-30,27,14733.62,18614.01,"R 406,072.87",Female
+CL-00516,Lerato,Dlamini,26.0,Employed,20241.17,Western Cape,2026-04-30,5,4353.32,2083.01,23449.17,Male
+CL-00517,Omphile,Molefe,65.0,Employed,,Eastern Cape,2025-10-30,11,7594.42,15438.58,69633.4,Male
+CL-00518,Kopano,Khumalo,24.0,Unemployed,12414.62,Gauteng,2026-02-28,7,8630.64,769.11,71240.29,Male
+CL-00519,Lubanzi,Nkosi,44.0,Unemployed,7341.46,Northern Cape,2024-04-30,29,"R 9,974.24","10,267.91",269675.0,Female
+CL-00520,Lerato,Enzokuhle,50.0,Employed,64392.6,,2025-12-30,9,18120.66,11336.99,"R 177,721.66",Female
+CL-00521,Omphile,Dlamini,38.0,Unemployed,4645.83,Western Cape,2025-04-30,17,1566.83,0.0,25833.01,Male
+CL-00522,Lesedi,Dlamini,28.0, Employed,30822.55,Mpumalanga,2026-08-30,1,18341.72,11682.08,0.0,Female
+CL-00523,Kopano,Melokuhle,30.0,Employed,25686.24,Limpopo,2026-07-30,2,9336.41,16595.05,21169.44,Male
+CL-00524,Thabo,Khumalo,62.0,Employed,"38,990.31",KwaZulu-Natal,2023-04-30,41,21183.2,21278.75,862824.33,Female
+CL-00525,Thabo,Dlamini,36.0,Employed,"44,722.75",North West,28/02/2026,7,15655.51,8883.43,101792.69,Male
+CL-00526,Lerato,Dlamini,36.0,Unemployed,"5,081.28",Northern Cape,2025-04-30,17,4324.63,0.0,63190.61,Male
+CL-00527,Kopano,Khumalo,67.0,Employed,25051.3,Northern Cape,2025-10-30,11,8077.62,0.0,87072.84,Male
+CL-00528,Thabo,Melokuhle,28.0,Employed,10843.4,Western Cape,2024-07-30,26,8938.22,7413.2,225601.04,Female
+CL-00529,Kopano,Molefe,66.0,Employed,44575.55,Free State,2023-10-30,35,20930.66,"16,551.64",706579.61,Male
+CL-00530,Omphile,Enzokuhle,67.0,Employed,70056.93,Limpopo,2024-06-30,27,19625.07,16779.8,547685.86,Female
+CL-00531,Lerato,Nkosi,50.0,Employed,27018.89,Eastern Cape ,2024-07-30,26,9128.84,0.0,233928.95,Male
+CL-00532,Omphile,Nkosi,29.0,Employed,9375.42,Free State,2026-08-30,1,7348.91,5742.81,0.0,Male
+CL-00533,Kopano,Melokuhle,28.0,Employed,"R 34,825.99",KwaZulu-Natal,2025-01-30,20,12021.42,16794.07,224630.51,Male
+CL-00534,Omphile,Enzokuhle,35.0, Employed,16846.35,Eastern Cape,2026-01-30,8,4813.72,13260.08,49299.98,Female
+CL-00535,Lesedi,Dlamini,49.0,Employed,18909.96,Limpopo,30/04/2025,17,"R 11,221.34",1277.13,172584.73,Female
+CL-00536,Omphile,Nkosi,28.0,Employed,35122.9,Western Cape,2026-06-30,3,15835.3,8524.45,"R 49,381.72",Male
+CL-00537,Lubanzi,Khumalo,,Employed,29379.07,North West,2025-11-30,10,8815.01,3975.64,79979.01,Female
+CL-00538,Thabo,Dlamini,26.0,Unemployed,11763.81,Limpopo,2025-07-30,14,6081.66,7447.4,77787.42,Female
+CL-00539,Thabo,Molefe,48.0,Unemployed,4527.37,Gauteng,2024-12-30,21,300.0,0.0,0.00,Female
+CL-00540,Kopano,Dlamini,22.0,EMPLOYED,27618.83,Limpopo,2025-10-30,11,6723.92,15262.54,65278.63,Female
+CL-00541,Omolemo,Molefe,56.0,Unemployed,15401.69,Free State ,2024-10-30,23,7233.5,8755.73,166493.91,Female
+CL-00542,Lubanzi,Nkosi,23.0,Employed,15266.53,KwaZulu-Natal,2025-11-30,10,6313.02,5829.64,66424.6,Male
+CL-00543,Lubanzi,Enzokuhle,30.0,Employed,22163.93,Free State,30/04/2026,5,4578.43,12610.03,11893.83,Male
+CL-00544,Kopano,Dlamini,29.0,Unemployed,2548.83,Free State,2024-02-29,31,689.14,4625.94,"20,090.30",Female
+CL-00545,Lerato,Melokuhle,62.0,Unemployed,,Gauteng,30/10/2025,11,300.0,4227.52,15738.36,Female
+CL-00546,Omphile,Enzokuhle,23.0,Unemployed,17181.68,Mpumalanga,2025-03-30,18,8748.72,5325.09,134200.13,Female
+CL-00547,Omphile,Melokuhle,42.0,Employed,41797.96,Mpumalanga,2024-04-30,29,"R 7,873.89",2806.69,228254.96,Male
+CL-00548,Lesedi,Melokuhle,50.0,Employed,6982.92,Eastern Cape,2025-10-30,11,300.00,0.0,0.0,Male
+CL-00549,Lerato,Melokuhle,46.0,Employed,20985.7,Free State,2023-05-30,40,2469.12,17912.65,84027.24,Male
+CL-00550,Omphile,Nkosi,55.0,Employed,19305.72,Mpumalanga,2023-12-30,33,9886.19,14713.16,329898.41,Female
+CL-00551,Lubanzi,Dlamini,61.0,Employed,27916.63,Free State,2023-09-30,36,4597.15,9442.62,157863.76,Male
+CL-00552,Lesedi,Dlamini,40.0,Employed,34045.38,Eastern Cape,2025-06-30,15,12157.84,6321.78,165332.32,Male
+CL-00553,Lerato,Nkosi,62.0,Employed,44653.99,Northern Cape,2024-09-30,24,"R 21,506.48",23480.92,534695.56,Male
+CL-00554,Thabo,Nkosi,36.0,Employed,18469.9,North West,2025-11-30,10,13185.33,4604.97,144734.57,Female
+CL-00555,Lesedi,Khumalo,70.0,Employed,"R 34,455.07",Eastern Cape,2023-10-30,35,6505.25,"1,498.50",200631.56,Female
+CL-00556,Thabo,Dlamini,46.0,Employed,28562.35,Limpopo,2024-01-30,32,12186.98,10300.19,369341.34,Male
+CL-00557,Omolemo,Khumalo,57.0,Employed,11433.61,North West,2024-07-30,26,2161.79,14988.94,64514.88,Male
+CL-00558,Thabo,Dlamini,64.0,Employed,64738.49,Western Cape,2025-02-28,19,17124.26,24708.94,321372.63,Male
+CL-00559,Omolemo,Dlamini,60.0,EMPLOYED,13033.0,Mpumalanga,2023-11-30,34,6129.41,6696.99,229407.91,Male
+CL-00560,Omphile,Enzokuhle,63.0,Employed,31799.65,North West,2023-09-30,36,16673.74,13394.1,608883.44,Female
+CL-00561,Omphile,Enzokuhle,47.0,Employed,31351.98,Western Cape,2024-08-30,25,"R 13,814.36",5294.53,349551.64,Male
+CL-00562,Kopano,Enzokuhle,23.0,Unemployed,3855.37,Eastern Cape,30/08/2025,13,328.1,2856.39,0.0,Male
+CL-00563,Lubanzi,Khumalo,45.0,Employed,20505.63,North West,2025-07-30,14,10477.81,10694.09,153569.54,Female
+CL-00564,Lubanzi,Nkosi,30.0,Employed,38674.4,Northern Cape,2026-08-30,1,4766.97,8290.0,0.0,Male
+CL-00565,Lerato,Dlamini,65.0,Employed,12294.11,Northern Cape,2025-01-30,20,3017.63,9726.23,78625.98,Female
+CL-00566,Lesedi,Melokuhle,32.0,Unemployed,4473.98,Mpumalanga,2026-08-30,1,300.0,138.89,6209.94,Female
+CL-00567,Thabo,Khumalo,32.0,Unemployed,6688.43,Western Cape,30/09/2025,12,3992.48,7774.73,36362.18,Female
+CL-00568,Kopano,Molefe,33.0,Employed,18783.78,Western Cape,2025-11-30,10,6524.95,3094.77,76515.01,Female
+CL-00569,Kopano,Khumalo,53.0,Employed,31941.16,North West,2025-04-30,17,10987.05,13265.89,218161.24,Male
+CL-00570,Kopano,Melokuhle,49.0,Employed,43609.99,Limpopo,2026-08-30,1,13696.01,8234.96,10649.37,Male
+CL-00571,Kopano,Melokuhle,68.0,Unemployed,4540.7,Gauteng,2025-04-30,17,3356.88,7384.24,64772.67,Male
+CL-00572,Lerato,Khumalo,41.0,Employed,37819.45,Gauteng,2024-07-30,26,15582.31,16771.77,"R 399,094.34",Male
+CL-00573,Thabo,Molefe,35.0,Employed,26628.23,Gauteng,2026-04-30,5,9936.06,8847.98,50875.24,Female
+CL-00574,Omphile,Melokuhle,23.0,Unemployed,12689.9,North West,2025-12-30,9,4361.3,8902.84,18150.45,Male
+CL-00575,Lubanzi,Nkosi,21.0,Unemployed,4230.35,Limpopo,2026-08-30,1,3957.4,0.0,3949.99,Male
+CL-00576,Thabo,Nkosi,39.0,Employed,9999999, Northern Cape,2024-05-30,28,12105.64,7271.48,339567.89,Male
+CL-00577,Omphile,Melokuhle,67.0,Employed,18610.01,Gauteng,2024-05-30,28,5957.31,6818.97,191990.67,Male
+CL-00578,Omphile,Enzokuhle,47.0,Employed,31937.1,Limpopo,2024-12-30,21,"R 11,449.28",4137.16,215304.84,Male
+CL-00579,Omolemo,Melokuhle,65.0,Employed,29099.67,Northern Cape,2022-06-30,51,16254.76,16079.11,825060.57,Male
+CL-00580,Lesedi,Khumalo,26.0,Employed,12116.7,Free State,2024-11-30,22,1789.07,2634.98,57393.22,Male
+CL-00581,Lesedi,Enzokuhle,25.0,Unemployed,10027.15,Limpopo,2026-06-30,3,10831.07,15476.79,29108.42,Male
+CL-00582,Thabo,Molefe,62.0,Unemployed,"3,623.01",Mpumalanga,2024-12-30,21,300.0,4038.67,3901.22,Male
+CL-00583,Thabo,Melokuhle,26.0,Employed,17579.95,Western Cape,2026-06-30,3,5356.67,10133.95,4404.39,Female
+CL-00584,Thabo,Khumalo,23.0,Employed,30056.42,,,10,7216.24,8604.07,59105.95,Male
+CL-00585,Lesedi,Nkosi,41.0,Employed,37824.0,KwaZulu-Natal,30/07/2025,14,21011.74,14790.11,268602.35,Male
+CL-00586,Lerato,Enzokuhle,67.0,Employed,14126.31,Western Cape,2024-08-30,25,4675.83,7585.18,108086.83,Male
+CL-00587,Lerato,Enzokuhle,55.0,Unemployed,5653.27,Mpumalanga,2023-08-30,37,2646.95,10422.94,"R 84,086.33",Male
+CL-00588,Thabo,Nkosi,25.0,Employed,58080.14,Northern Cape,2026-04-30,5,17499.35,,89149.27,Female
+CL-00589,Omphile,Melokuhle,62.0,Employed,30779.55,Western Cape,2022-07-30,50,12878.04,"R 14,910.63",632874.4,Male
+CL-00590,Lubanzi,Dlamini,63.0,Employed,21260.72,KwaZulu-Natal,30/05/2024,28,7571.82,1094.16,205296.8,Male
+CL-00591,Omolemo,Enzokuhle,61.0,Employed,16606.68,Limpopo,2023-01-30,44,7551.61,2488.15,"R 325,940.05",Male
+CL-00592,Lerato,Melokuhle,66.0,Employed,"R 20,350.08",,2024-01-30,32,300.0,"R 2,903.94",8925.69,Female
+CL-00593,Thabo,Dlamini,32.0,Unemployed,5920.68,Gauteng,2025-01-30,20,4021.98,0.00,73040.25,Female
+CL-00594,Lerato,Dlamini,69.0,Unemployed,3918.67,Gauteng,2024-10-30,23,3405.7,14757.63,"R 63,466.19",Male
+CL-00595,Thabo,Dlamini,37.0,Employed,17908.15,Western Cape,2026-05-30,4,10479.29,"R 11,769.76",43117.9,Male
+CL-00596,Lesedi,Nkosi,61.0,Unemployed,3163.55,Northern Cape,2024-02-29,31,8163.68,6909.52,268018.97,Male
+CL-00597,Lubanzi,Melokuhle,49.0,Employed,21451.5,Free State,2024-04-30,29,8177.7,4329.71,238951.87,Female
+CL-00598,Omolemo,Dlamini,59.0,Unemployed,9847.95,Northern Cape,2024-08-30,25,8142.81,14553.42,"195,032.76",Male
+CL-00599,Thabo,Enzokuhle,52.0,Employed,21188.78,Limpopo,2026-01-30,8,3926.99,0.0,29691.84,Male
+CL-00600,Omphile,Nkosi,53.0,Employed,7377.95,Eastern Cape,2026-01-30,8,"R 6,511.82",1277.38,23385.69,Female
+CL-00601,Omphile,Khumalo,51.0,Unemployed,1851.8,Northern Cape,2026-03-30,6,300.0,0.0,0.0,Male
+CL-00602,Thabo,Nkosi,59.0,Employed,"23,961.28",KwaZulu-Natal,28/02/2026,7,4417.47,5321.02,25317.36,Male
+CL-00603,Lesedi,Melokuhle,57.0,Employed,38627.83,Gauteng,30/08/2024,25,13170.23,16136.55,"R 316,187.31",Female
+CL-00604,Lerato,Dlamini,27.0,Employed,10513.61,North West,28/02/2025,19,10193.78,16192.88,183152.49,Female
+CL-00605,Lesedi,Melokuhle,62.0,Employed,45412.73,Free State,2024-07-30,26,16567.44,20813.41,"R 425,010.10",Male
+CL-00606,Thabo,Enzokuhle,47.0,Employed,38551.08,Eastern Cape,2026-08-30,1,18194.68,14014.04,32089.1,Male
+CL-00607,Omolemo,Molefe,37.0,Employed,47421.58, Mpumalanga,2025-10-30,11,13193.04,16611.6,160412.25,Female
+CL-00608,Omphile,Nkosi,46.0,Unemployed,2940.86,Northern Cape ,2025-05-30,16,6526.52,3904.1,91430.61,Male
+CL-00609,Lubanzi,Melokuhle,69.0,Employed,42299.15,KwaZulu-Natal,30/06/2022,51,13683.97,7158.13,690629.35,Female
+CL-00610,Omolemo,Dlamini,63.0, Employed,12831.45,Northern Cape,,13,6406.62,3487.11,76389.79,Female
+CL-00611,Lerato,Molefe,62.0,Employed ,36611.39,Northern Cape,2024-10-30,23,13929.47,9327.92,331711.56,Male
+CL-00612,Lesedi,Enzokuhle,44.0,Unemployed,4132.46,Limpopo,2023-11-30,34,6249.11,5879.42,214506.8,Female
+CL-00613,Omphile,Nkosi,60.0,Employed,11768.47,Gauteng ,30/03/2024,30,6893.21,4266.23,208095.25,Female
+CL-00614,Omphile,Enzokuhle,40.0,Employed,15157.71,Western Cape,2025-01-30,20,3926.25,3521.35,86032.63,Male
+CL-00615,Lubanzi,Dlamini,55.0,Employed,26069.12,Gauteng,2024-09-30,24,13197.84,16042.53,308398.4,Male
+CL-00616,Omolemo,Molefe,52.0,Employed,17504.06,Limpopo,2024-09-30,24,13693.18,21875.38,347730.78,Female
+CL-00617,Lerato,Nkosi,33.0,Unemployed,8275.53,Eastern Cape,2025-03-30,18,2336.97,0.0,42040.98,Male
+CL-00618,Omolemo,Enzokuhle,34.0,Employed,10915.05,Northern Cape,2026-06-30,3,300.0,0.0,0.0,Male
+CL-00619,Omphile,Melokuhle,24.0,Unemployed,"R 4,592.80",Western Cape,2025-07-30,14,"R 4,963.39",1956.41,"R 66,272.50",Male
+CL-00620,Lubanzi,Enzokuhle,27.0,Employed,50241.56,Eastern Cape,2026-08-30,1,15122.22,15626.71,32369.21,Male
+CL-00621,Lerato,Dlamini,42.0,Employed,40121.83,KwaZulu-Natal,2025-02-28,19,"13,562.58",11630.32,251737.01,Female
+CL-00622,Lubanzi,Melokuhle,44.0,Employed,15712.15,North West,30/03/2025,18,8671.88,5403.21,169387.72,Male
+CL-00623,Omphile,Molefe,29.0,Employed,25962.59,Gauteng,30/07/2026,2,7429.76,9953.1,6104.69,Female
+CL-00624,Thabo,Melokuhle,41.0,Employed,42413.21, Eastern Cape,2025-06-30,15,"R 13,586.10",17013.94,193072.16,Female
+CL-00625,Lesedi,Khumalo,51.0,Employed,31795.12,North West,2025-07-30,14,10966.11,10141.8,162759.85,Male
+CL-00626,Omphile,Molefe,32.0,Employed,27917.22,Northern Cape,2026-08-30,1,14908.28,7562.87,2672.66,Female
+CL-00627,Lesedi,Dlamini,37.0,Employed,43981.56,Northern Cape ,2025-12-30,9,14880.72,13855.52,145442.04,Male
+CL-00628,Lesedi,Khumalo,39.0,Employed,18308.3,Mpumalanga,2026-06-30,3,"2,370.07",1670.11,12032.96,Male
+CL-00629,Omphile,Melokuhle,46.0,Employed,"26,392.03",Gauteng,30/12/2024,21,5694.45,"6,004.94",107353.08,Female
+CL-00630,Kopano,Nkosi,39.0,Employed,25778.2,Western Cape,2026-07-30,2,9518.69,5311.45,18037.18,Male
+CL-00631,Omphile,Molefe,57.0,Employed,22809.35,Eastern Cape,2024-02-29,31,5278.87,12635.7,155962.0,Female
+CL-00632,Lerato,Nkosi,37.0,Employed,21563.24,Free State ,2026-08-30,1,2086.68,3661.81,6972.35,Female
+CL-00633,Lesedi,Melokuhle,42.0,Employed,26925.49,Free State,2025-11-30,10,11985.58,15708.12,"R 146,284.93",Male
+CL-00634,Thabo,Dlamini,39.0,Employed,26432.97,Western Cape,30/01/2026,8,"11,930.09","16,951.29",90250.82,Male
+CL-00635,Lubanzi,Nkosi,30.0,Employed,15718.7,Limpopo,30/11/2024,22,5514.32,9485.21,"R 128,787.89",Male
+CL-00636,Kopano,Nkosi,55.0,Employed,"R 38,204.70",Eastern Cape,2024-07-30,26,14810.58,11791.23,385417.35,Female
+CL-00637,Lesedi,Dlamini,32.0,EMPLOYED,16271.77,Western Cape,2026-01-30,8,7094.77,"11,989.86",57094.96,Male
+CL-00638,Thabo,Molefe,35.0,Employed,23414.24,Northern Cape,2025-04-30,17,11106.98,12995.35,186505.83,Female
+CL-00639,Lesedi,Enzokuhle,60.0,Employed,22564.14,Eastern Cape,2026-05-30,4,10314.34,21683.16,29253.52,Male
+CL-00640,Thabo,Nkosi,68.0,Employed,"R 30,876.22",KwaZulu-Natal,2024-04-30,29,2300.03,7196.53,71392.74,Male
+CL-00641,Omolemo,Dlamini,54.0,Unemployed ,3985.28,FREE STATE,2023-03-30,42,3293.79,11279.97,134296.66,Male
+CL-00642,Kopano,Nkosi,66.0,EMPLOYED,39874.35,Northern Cape,2024-03-30,30,16286.76,"R 17,278.59",475935.6,Male
+CL-00643,Thabo,Khumalo,63.0,Unemployed,2487.78,North West,2024-05-30,28,"1,644.69",4568.68,"R 60,249.77",Female
+CL-00644,Lesedi,Dlamini,45.0,Employed,46696.95,Western Cape,2024-10-30,23,16305.42,13775.94,376410.69,Male
+CL-00645,Omolemo,Nkosi,59.0,Employed,"20,667.81",Limpopo,2023-11-30,34,11530.86,14313.44,388855.95,Male
+CL-00646,Lesedi,Molefe,37.0,Employed,25397.52,Mpumalanga,2026-08-30,1,9152.59,10105.74,27913.38,Female
+CL-00647,Thabo,Nkosi,,Employed,65151.4,North West,2026-08-30,1,26215.93,25557.41,510.79,Female
+CL-00648,Lesedi,Melokuhle,47.0,Unemployed,5103.05,Northern Cape,30/01/2025,20,7628.07,10036.46,170380.8,Female
+CL-00649,Omolemo,Dlamini,69.0,Employed,47122.21,Limpopo,2024-10-30,23,15875.83,12446.15,352821.52,Female
+CL-00650,Omphile,Nkosi,63.0,Unemployed,8352.95, Mpumalanga,2023-05-30,40,4672.92,6930.23,189878.17,Male
+CL-00651,Lerato,Molefe,45.0,Employed,31737.46,Eastern Cape,30/07/2025,14,1048.07,0.0,6440.09,Female
+CL-00652,Lubanzi,Dlamini,53.0,Unemployed,4208.96,Northern Cape,2026-07-30,2,1371.28,10313.39,R 0.00,Male
+CL-00653,Lesedi,Nkosi,31.0,Unemployed,5503.17,Northern Cape,2026-08-30,1,300.0,0.0,18694.41,Male
+CL-00654,Omphile,Khumalo,61.0,Employed,18709.69,Northern Cape,2026-08-30,1,"R 7,651.33",11256.16,33638.36,Female
+CL-00655,Kopano,Enzokuhle,48.0,Employed,16212.02,Northern Cape,2025-04-30,17,7327.94,9328.87,121477.86,Male
+CL-00656,Omphile,Molefe,47.0,Employed,19136.16,Mpumalanga,2025-05-30,16,10117.93,11363.57,166583.53,Male
+CL-00657,Omphile,Dlamini,59.0,Employed,27274.65,Northern Cape,2024-12-30,21,15292.41,13533.29,321938.43,Male
+CL-00658,Kopano,Khumalo,52.0,Unemployed,"4,466.75",North West,2024-01-30,32,3789.46,3109.41,145489.7,Female
+CL-00659,Kopano,Enzokuhle,24.0,Employed,36562.7,KwaZulu-Natal,2025-03-30,18,21134.31,13154.02,350833.43,Female
+CL-00660,Lesedi,Melokuhle,35.0,Employed,48636.18,Western Cape,2025-11-30,10,,"R 22,816.66",175756.53,Male
+CL-00661,Lubanzi,Dlamini,29.0,Employed,16276.04,Northern Cape,2026-08-30,1,1408.03,2493.59,0.0,Female
+CL-00662,Omolemo,Nkosi,57.0,Employed,18279.88,Eastern Cape,2024-03-30,30,,13989.1,144631.68,Male
+CL-00663,Kopano,Enzokuhle,22.0,Unemployed,"R 5,391.14",North West,2025-11-30,10,"1,895.46",10189.26,13907.13,Male
+CL-00664,Omphile,Molefe,31.0,Employed,"R 68,901.34",KwaZulu-Natal,2025-08-30,13,24548.06,17850.37,344997.45,Female
+CL-00665,Kopano,Nkosi,50.0,Unemployed,3085.15,eastern cape,2024-03-30,30,300.0,6433.53,0.0,Female
+CL-00666,Omphile,Khumalo,55.0,Unemployed,4476.24,North West,2025-10-30,11,1932.16,"R 3,626.21","R 32,324.46",Female
+CL-00667,Thabo,Nkosi,46.0,Employed,13664.44,Free State,2023-07-30,38,6315.59,3741.15,256773.67,Male
+CL-00668,Kopano,Molefe,64.0,Employed,25985.4,Limpopo,2025-03-30,18,8138.39,,146313.19,Male
+CL-00669,Omphile,Nkosi,66.0,Employed,33199.53,KwaZulu-Natal,2023-09-30,36,15592.95,18924.46,563032.68,Female
+CL-00670,Omphile,Nkosi,27.0,Employed,23029.43,Mpumalanga,30/08/2026,1,10459.59,5945.76,0.00,Male
+CL-00671,Thabo,Nkosi,68.0,Employed,43572.89,Free State,2024-12-30,21,19353.51,15420.31,"R 396,397.41",Female
+CL-00672,Omolemo,Molefe,,Unemployed,2837.06,Northern Cape,2023-09-30,36,"R 2,371.43","5,600.59",98069.48,Female
+CL-00673,Omolemo,Melokuhle,52.0,Employed,16502.41,Free State,2025-03-30,18,11235.82,21427.44,203094.3,Female
+CL-00674,Omolemo,Dlamini,25.0,Unemployed,2463.73,Western Cape,2025-06-30,15,300.0,0.0,9642.78,Female
+CL-00675,Omphile,Molefe,52.0,Unemployed,3058.79,Limpopo,2024-10-30,23,300.0,6054.22,8764.21,Male
+CL-00676,Lesedi,Dlamini,57.0,Unemployed,11603.23,Northern Cape,2024-10-30,23,1277.28,2982.95,60065.58,Male
+CL-00677,Omphile,Melokuhle,50.0,Employed,42880.93,North West,2023-11-30,34,15525.44,12515.04,"R 521,837.67",Female
+CL-00678,Lubanzi,Molefe,25.0,Employed,24362.45,Western Cape,2026-05-30,4,13005.3,9214.44,74496.93,Female
+CL-00679,Omphile,Khumalo,47.0,Employed,26460.29,Northern Cape ,2026-08-30,1,7012.38,9295.79,"8,881.42",Female
+CL-00680,Lesedi,Molefe,67.0,Employed,17569.34,Eastern Cape,2024-12-30,21,5636.71,10791.05,142089.64,Male
+CL-00681,Omphile,Melokuhle,57.0,Employed,,North West,30/04/2024,29,13597.57,14710.34,"377,179.93",Male
+CL-00682,Kopano,Melokuhle,27.0,Employed,,Mpumalanga,2025-10-30,11,10223.98,14834.97,115048.89,Male
+CL-00683,Omphile,Khumalo,68.0,Employed,22948.67,Northern Cape,2025-07-30,14,6953.15,13690.43,91832.47,Female
+CL-00684,Lerato,Enzokuhle,68.0,Employed,34824.31,,2024-10-30,23,10692.99,15110.83,247891.41,Female
+CL-00685,Lerato,Khumalo,29.0,Employed,"R 23,756.57",Mpumalanga,2026-06-30,3,3609.55,997.91,27941.91,Male
+CL-00686,Kopano,Dlamini,,Employed,23226.94,Limpopo,2024-11-30,22,7033.89,10756.61,"160,048.83",Male
+CL-00687,Lesedi,Enzokuhle,41.0,Employed,26132.31, Gauteng,2026-08-30,1,13320.56,12996.8,30405.91,Male
+CL-00688,Omolemo,Nkosi,50.0,Unemployed,17827.53,Limpopo,2025-07-30,14,7463.59,3635.63,95107.21,Male
+CL-00689,Kopano,Melokuhle,43.0,Employed,57306.45,Gauteng,2025-12-30,9,,9999999,133438.45,Male
+CL-00690,Omphile,Molefe,60.0,unemployed,"3,460.40",North West,2023-12-30,33,8074.24,129.57,266675.29,Male
+CL-00691,Omphile,Melokuhle,70.0,Unemployed,4828.11,Gauteng,2023-06-30,39,2179.66,7008.64,84465.74,Male
+CL-00692,Thabo,Khumalo,60.0,EMPLOYED,23621.72,Gauteng,2024-09-30,24,14406.36,15302.77,343150.51,Male
+CL-00693,Omolemo,Molefe,67.0,Employed,18510.79,Free State,2024-08-30,25,12856.22,6897.57,307984.68,Female
+CL-00694,Lubanzi,Melokuhle,68.0,Employed,35588.05,Gauteng,2024-02-29,31,13380.06,"19,073.80",431562.89,Female
+CL-00695,Thabo,Molefe,25.0,employed,28227.37,Western Cape,2026-08-30,1,4315.43,4778.2,0.0,Female
+CL-00696,Lerato,Enzokuhle,33.0,Employed,"13,134.40",Western Cape,2026-08-30,1,13424.52,17322.92,33389.62,Female
+CL-00697,Lesedi,Nkosi,57.0,Employed,22211.79,KwaZulu-Natal,2025-07-30,14,9845.73,"R 11,281.60",138018.63,Female
+CL-00698,Lesedi,Molefe,50.0,Unemployed,9776.24,Free State ,2025-07-30,14,3554.88,0.0,58846.31,Female
+CL-00699,Lerato,Enzokuhle,23.0,Unemployed,5409.44,Western Cape,2026-08-30,1,6306.89,7742.37,14114.83,Male
+CL-00700,Omolemo,Dlamini,25.0,Unemployed,3209.39,Gauteng,2026-01-30,8,5027.11,8650.07,28677.01,Female
+CL-00701,Lesedi,Molefe,47.0,Employed,32734.16,Mpumalanga,2024-07-30,26,16831.63,13040.65,442763.14,Male
+CL-00702,Lubanzi,Melokuhle,51.0,Employed,50260.55,KwaZulu-Natal,2026-04-30,5,14103.71,4294.21,"R 97,515.23",Female
+CL-00703,Lesedi,Melokuhle,29.0,Unemployed,"R 3,626.91",Limpopo,2025-12-30,9,3812.58,5036.54,37835.77,Male
+CL-00704,Lerato,Enzokuhle,29.0,Employed,27035.82,North West,2026-03-30,6,5293.61,267.18,44379.56,Female
+CL-00705,Kopano,Khumalo,27.0,Employed,16585.51,Western Cape,2025-10-30,11,9036.46,14120.69,109106.84,Male
+CL-00706,Lerato,Nkosi,49.0,Employed,"26,149.31",northern cape,2025-02-28,19,9760.19,7881.45,189742.29,Male
+CL-00707,Lesedi,Khumalo,21.0,Employed,26163.42,Limpopo ,2026-08-30,1,10102.66,16806.92,12713.36,Male
+CL-00708,Lerato,Dlamini,49.0,Employed,13489.1,North West,2026-02-28,7,5013.87,,42759.51,Female
+CL-00709,Lubanzi,Molefe,44.0,Employed,20067.94,Free State,2025-04-30,17,7030.82,8406.17,130209.92,Male
+CL-00710,Omphile,Enzokuhle,44.0,Employed,22262.88,WESTERN CAPE,2024-06-30,27,"R 5,887.23",15155.77,140024.99,Male
+CL-00711,Lubanzi,Molefe,54.0,Employed,"R 31,707.93",North West,2026-08-30,1,13599.93,6250.43,17062.17,Female
+CL-00712,Thabo,Enzokuhle,47.0,Employed,32444.94,Mpumalanga,2024-11-30,22,17220.42,14822.7,376272.09,Male
+CL-00713,Lesedi,Enzokuhle,57.0,Employed,19669.39,Western Cape,2023-09-30,36,6608.81,7503.17,232435.83,Male
+CL-00714,Lubanzi,Molefe,59.0,Employed,32562.26,Gauteng,2024-10-30,23,13927.42,9938.91,338474.25,Female
+CL-00715,Lubanzi,Khumalo,67.0,Unemployed,3482.9,Gauteng,2023-10-30,35,5270.73,9668.04,174211.5,Male
+CL-00716,Omphile,Dlamini,60.0,Employed ,6557.96,Eastern Cape,2025-03-30,18,,0.0,51618.93,Male
+CL-00717,Lubanzi,Enzokuhle,46.0,Employed,20603.06,Eastern Cape,2025-04-30,17,2599.17,3986.56,55325.97,Female
+CL-00718,Kopano,Dlamini,45.0,Unemployed,6703.65,Eastern Cape,2026-08-30,1,300.0,3705.97,0.0,Female
+CL-00719,Thabo,Nkosi,32.0,Employed,11597.97,North West,2026-08-30,1,1909.85,1209.63,0.0,Male
+CL-00720,Lerato,Melokuhle,50.0,Unemployed,10638.75,Northern Cape,2024-04-30,29,300.0,0.0,21415.75,Male
+CL-00721,Lubanzi,Enzokuhle,,Employed,55646.65,Limpopo,2026-08-30,1,23004.91,22624.46,25227.02,Female
+CL-00722,Lesedi,Enzokuhle,67.0,Employed,18047.41,Mpumalanga,2024-08-30,25,8987.96,13672.61,231316.96,Male
+CL-00723,Lesedi,Dlamini,63.0,Employed,26026.83,North West,2025-08-30,13,9446.19,3825.32,116606.49,Male
+CL-00724,Lesedi,Nkosi,26.0,Employed,13903.89,KwaZulu-Natal,2026-08-30,1,300.00,0.0,0.0,Male
+CL-00725,Lesedi,Enzokuhle,60.0,UNEMPLOYED,14086.16,Mpumalanga,2024-09-30,24,300.0,0.0,0.0,Female
+CL-00726,Lubanzi,Nkosi,26.0,Unemployed,15221.63,Mpumalanga,2026-08-30,1,5800.06,7812.41,1989.42,Male
+CL-00727,Omolemo,Molefe,57.0,Unemployed,,KwaZulu-Natal,2024-05-30,28,12253.84,"14,080.63",325293.88,Female
+CL-00728,Omphile,Dlamini,25.0, Unemployed,8111.29,Northern Cape,2025-10-30,11,1580.27,"7,098.21",21681.69,Male
+CL-00729,Omolemo,Molefe,45.0,Employed,35716.26,KwaZulu-Natal,2025-01-30,20,15864.55,12791.73,310816.63,Male
+CL-00730,Omolemo,Molefe,53.0,unemployed,5376.37,Western Cape,2024-09-30,24,2093.26,323.48,"52,828.77",Male
+CL-00731,Lesedi,Nkosi,57.0,Employed,19056.4,KwaZulu-Natal,2023-05-30,40,8795.78,16127.2,354003.36,Female
+CL-00732,Lerato,Dlamini,41.0,Unemployed,7740.27,North West,2026-05-30,4,"R 8,062.94",4278.08,37666.96,Male
+CL-00733,Lesedi,Enzokuhle,67.0,Employed,,Eastern Cape ,2024-04-30,29,6953.39,9929.18,208641.2,Female
+CL-00734,Omolemo,Molefe,59.0, Employed,9410.44,Gauteng,2023-09-30,36,,0.0,105012.55,Female
+CL-00735,Thabo,Dlamini,31.0,Unemployed,1800.0,North West,2024-11-30,22,"7,769.05",5964.67,173494.76,Male
+CL-00736,Kopano,Melokuhle,54.0,Unemployed,14188.72,Gauteng,2026-01-30,8,5956.63,11015.75,50957.12,Male
+CL-00737,Omphile,Nkosi,57.0,Employed,56481.42,Gauteng,2024-12-30,21,22954.77,16056.06,448045.6,Female
+CL-00738,Lubanzi,Dlamini,37.0,Employed,28302.63,NORTHERN CAPE,2024-07-30,26,8315.89,13719.96,225264.55,Male
+CL-00739,Lerato,Molefe,57.0,Employed,16837.57,KwaZulu-Natal,2024-04-30,29,12533.3,1358.88,365564.81,Male
+CL-00740,Lesedi,Molefe,65.0,Unemployed,6487.71,Western Cape,2024-03-30,30,5391.37,5184.83,169637.81,Female
+CL-00741,Omolemo,Melokuhle,61.0,Employed,10498.01,Eastern Cape,2024-09-30,24,6922.64,7567.53,148127.51,Male
+CL-00742,Lubanzi,Molefe,59.0,Employed,15338.33,Limpopo,2024-12-30,21,7157.36,16976.0,145883.82,Male
+CL-00743,Lubanzi,Molefe,52.0,Employed,42348.44,Limpopo,2024-09-30,24,13092.82,7021.52,298946.34,Male
+CL-00744,Omphile,Nkosi,34.0,Employed,75895.23,Western Cape,2025-12-30,9,24340.51,22670.14,"229,489.03",Male
+CL-00745,Omphile,Enzokuhle,60.0,Employed,36846.73,,30/08/2024,25,11710.69,17266.36,"R 273,095.72",Female
+CL-00746,Lesedi,Nkosi,39.0,Employed,24876.31,Mpumalanga,,15,12747.26,,178207.73,Male
+CL-00747,Omphile,Molefe,47.0,Unemployed,2892.15, Mpumalanga,2025-09-30,12,1840.64,1577.64,29568.06,Male
+CL-00748,Kopano,Nkosi,36.0,Unemployed,4692.71,Mpumalanga,2025-03-30,18,R 300.00,3704.14,0.0,Female
+CL-00749,Lesedi,Dlamini,36.0,Unemployed,12171.36,Eastern Cape,2023-04-30,41,527.48,0.0,8629.34,Female
+CL-00750,Lerato,Nkosi,28.0,Employed,23747.97,North West,2026-08-30,1,2150.21,182.63,14844.28,Male
+CL-00751,Thabo,Dlamini,69.0,Employed,71779.5,Western Cape,30/11/2023,34,26386.54,29918.87,910410.44,Male
+CL-00752,Omphile,Enzokuhle,28.0,Unemployed,7370.2,North West,2026-08-30,1,300.0,3739.27,"R 10,409.00",Male
+CL-00753,Omolemo,Nkosi,25.0,Unemployed,16245.6, Northern Cape,2025-09-30,12,7657.99,6850.0,103777.81,Male
+CL-00754,Kopano,Dlamini,67.0,Employed,18886.35,Limpopo,2024-03-30,30,8617.57,10870.01,255285.08,Female
+CL-00755,Omphile,Enzokuhle,48.0,Employed,18858.33,Eastern Cape,30/07/2024,26,7716.55,12120.44,197765.97,Female
+CL-00756,Lerato,Khumalo,42.0,Unemployed,4043.21,Eastern Cape,2024-06-30,27,5125.22,11322.21,129307.86,Male
+CL-00757,Omphile,Enzokuhle,57.0,Employed,25258.07,Eastern Cape,2024-07-30,26,10439.31,8394.24,273770.36,Male
+CL-00758,Omphile,Khumalo,40.0,Unemployed,2808.49,Gauteng,2024-07-30,26,300.0,11549.6,409.42,Male
+CL-00759,Omphile,Dlamini,27.0,Employed,15502.9,Gauteng,2026-08-30,1,4727.82,10895.77,0.0,Female
+CL-00760,Lerato,Molefe,57.0,Employed,29020.49,Mpumalanga,2023-05-30,40,"R 13,116.52",18030.18,533059.33,Female
+CL-00761,Omolemo,Molefe,29.0,Employed,,Free State,2025-09-30,12,18095.09,10933.66,233724.57,Female
+CL-00762,Lerato,Dlamini,48.0,Employed,25980.39,Free State,2024-03-30,30,16325.36,10753.14,495336.57,Male
+CL-00763,Lubanzi,Nkosi,68.0,Unemployed,3819.49, Free State,2025-03-30,18,300.0,1362.98,"30,520.42",Male
+CL-00764,Thabo,Enzokuhle,67.0,Employed,15746.03,,2024-12-30,21,5546.8,7407.52,106605.54,Female
+CL-00765,Lesedi,Molefe,39.0,Employed,"R 27,363.50",North West,2025-06-30,15,4401.04,0.0,"R 40,283.89",Female
+CL-00766,Lesedi,Enzokuhle,60.0,Unemployed,6618.95,Northern Cape,30/08/2024,25,"R 9,707.27",13012.7,252686.59,Male
+CL-00767,Lubanzi,Molefe,51.0,Unemployed,4721.86,KwaZulu-Natal,2024-10-30,23,7228.84,14972.08,"R 155,457.69",Male
+CL-00768,Thabo,Molefe,44.0,Unemployed,5604.47,KwaZulu-Natal,2024-06-30,27,"R 5,277.46",10452.14,138659.62,Male
+CL-00769,Kopano,Enzokuhle,27.0,Employed,51220.93,MPUMALANGA,30/08/2026,1,17206.22,9918.22,0.0,Male
+CL-00770,Lesedi,Melokuhle,39.0,Unemployed,9974.98,Western Cape,2024-09-30,24,"10,170.77",6790.93,231509.43,Female
+CL-00771,Lesedi,Nkosi,53.0,Employed,26905.16,Western Cape,2024-11-30,22,14556.32,15199.81,299207.8,Male
+CL-00772,Kopano,Molefe,70.0,Employed,14815.18,Northern Cape,2024-04-30,29,11031.52,11166.17,313833.71,Male
+CL-00773,Lesedi,Nkosi,21.0,Employed,19493.75, Gauteng,2026-08-30,1,8734.17,9413.81,3210.45,Female
+CL-00774,Lerato,Melokuhle,56.0,EMPLOYED,23398.54,Mpumalanga,2024-05-30,28,"R 8,138.34",12748.21,229132.96,Female
+CL-00775,Omolemo,Khumalo,63.0,Unemployed,2462.92,North West,30/06/2026,3,4826.53,"R 10,064.55",31835.7,Male
+CL-00776,Lubanzi,Dlamini,68.0,Employed,20666.14,Limpopo,2023-09-30,36,11849.59,7631.09,436062.08,Female
+CL-00777,Thabo,Molefe,42.0,Employed,16592.4,KwaZulu-Natal,2026-08-30,1,5533.42,6002.16,0.0,Female
+CL-00778,Thabo,Nkosi,26.0,Unemployed,4905.94,Gauteng,2026-02-28,7,1701.28,977.55,20421.21,Male
+CL-00779,Omphile,Nkosi,34.0,Employed,11769.73,Limpopo,2025-11-30,10,9230.85,8053.04,93873.04,Female
+CL-00780,Lesedi,Dlamini,63.0,Employed,23227.11,Eastern Cape,30/06/2023,39,15796.95,20785.85,614711.54,Female
+CL-00781,Omolemo,Enzokuhle,64.0,Unemployed,"R 2,274.87",Northern Cape,2024-07-30,26,300.0,8741.63,7482.21,Female
+CL-00782,Lubanzi,Nkosi,52.0,Unemployed,2306.9,Mpumalanga,2025-07-30,14,"1,531.91",10435.2,24310.51,Female
+CL-00783,Lerato,Melokuhle,27.0,Unemployed,,Western Cape,2026-07-30,2,3920.55,"5,970.75",0.0,Male
+CL-00784,Kopano,Melokuhle,27.0,unemployed,4993.51,KwaZulu-Natal,2025-01-30,20,5289.81,6258.58,103243.28,Female
+CL-00785,Omolemo,Melokuhle,44.0,Unemployed,2471.18,Limpopo,2024-11-30,22,984.83,,38241.49,Female
+CL-00786,Thabo,Khumalo,,Unemployed,3939.43, Limpopo,2025-05-30,16,9834.5,R 967.07,"R 147,497.37",Male
+CL-00787,Omphile,Melokuhle,22.0,Employed,19972.8,Limpopo,2026-07-30,2,"8,795.38",14051.35,"R 3,172.34",Male
+CL-00788,Lesedi,Khumalo,55.0,Employed,21079.97,KwaZulu-Natal,2026-02-28,7,9730.97,"R 6,966.81",67252.9,Male
+CL-00789,Thabo,Enzokuhle,48.0,Employed,33651.67,KwaZulu-Natal,30/10/2024,23,18593.49,19246.79,411822.23,Female
+CL-00790,Thabo,Molefe,21.0,Unemployed,3822.4,,2026-08-30,1,772.1,4860.89,0.0,Female
+CL-00791,Omolemo,Dlamini,25.0,Employed ,17856.8,Limpopo,2025-07-30,14,6826.68,1028.64,90751.04,Male
+CL-00792,Omphile,Melokuhle,43.0,Unemployed,7194.1,Western Cape ,2025-04-30,17,300.0,R 0.00,25380.71,Female
+CL-00793,Lubanzi,Nkosi,57.0,Employed,"39,745.90",North West,2022-09-30,48,14519.31,24269.0,696386.32,Female
+CL-00794,Lerato,Dlamini,62.0,Employed,34703.5,KwaZulu-Natal,2025-05-30,16,"R 6,922.91",8996.67,113266.65,Female
+CL-00795,Thabo,Enzokuhle,42.0,Employed,40544.74,free state,2025-06-30,15,16685.68,11560.76,220463.1,Male
+CL-00796,Kopano,Khumalo,35.0,Employed,10064.38,KwaZulu-Natal,2024-03-30,30,6991.3,8502.0,215872.85,Female
+CL-00797,Omolemo,Molefe,69.0,Employed,49796.15,Eastern Cape,2023-03-30,42,"R 16,905.39",23023.07,711333.69,Female
+CL-00798,Thabo,Molefe,,Employed,31383.63,Limpopo,2025-12-30,9,10631.56,14116.3,86375.26,Female
+CL-00799,Lesedi,Dlamini,36.0,Unemployed,5628.08,Gauteng,2025-07-30,14,6217.7,0.0,89568.54,Female
+CL-00800,Lubanzi,Molefe,43.0,Employed,31309.9,Mpumalanga,2025-05-30,16,7176.1,15898.21,117199.35,Male
+CL-00801,Lesedi,Enzokuhle,21.0,Employed,26617.81,Western Cape ,28/02/2026,7,10214.35,13755.07,56667.6,Male
+CL-00802,Lesedi,Molefe,36.0, Employed,"R 22,781.48",Gauteng,2026-04-30,5,10762.68,8336.75,58459.36,Male
+CL-00803,Omphile,Molefe,46.0,Employed,31010.5,Limpopo,2025-04-30,17,4800.96,R 168.08,98376.27,Female
+CL-00804,Lerato,Khumalo,66.0,Employed,22386.49,Mpumalanga,2025-08-30,13,10927.72,15368.0,138869.22,Female
+CL-00805,Lerato,Khumalo,57.0,Unemployed,4980.35,Mpumalanga,2024-08-30,25,300.0,6148.14,0.0,Female
+CL-00806,Omolemo,Khumalo,60.0,Unemployed,13858.75,KwaZulu-Natal,30/03/2024,30,"6,194.29",1270.89,183342.45,Male
+CL-00807,Lerato,Melokuhle,48.0,Employed,20048.22,Gauteng,2025-04-30,17,3740.26,4202.59,75548.95,Male
+CL-00808,Omphile,Molefe,26.0,Employed,69380.91,Eastern Cape,2026-08-30,1,"R 27,208.76",36131.17,"R 10,040.30",Male
+CL-00809,Thabo,Nkosi,40.0,Employed,19251.29, Gauteng,2024-09-30,24,3817.75,6271.29,99725.82,Male
+CL-00810,Thabo,Molefe,70.0,Employed,23185.53,North West,2023-10-30,35,3684.98,3593.33,119481.93,Female
+CL-00811,Kopano,Melokuhle,23.0,Unemployed,7469.71,KwaZulu-Natal,2026-08-30,1,3962.98,0.0,7351.86,Female
+CL-00812,Thabo,Nkosi,64.0,Employed,30548.1,,2024-08-30,25,9925.1,19556.57,240226.84,Female
+CL-00813,Kopano,Dlamini,55.0,Unemployed,10061.63,Gauteng,2026-01-30,8,300.0,"6,134.80",0.00,Male
+CL-00814,Thabo,Nkosi,35.0,Employed,23783.77,Mpumalanga,2026-08-30,1,10270.06,15341.64,31593.39,Male
+CL-00815,Omphile,Molefe,59.0,Employed,"R 39,077.72",Gauteng,2025-01-30,20,6593.92,8988.55,"R 112,151.17",Male
+CL-00816,Thabo,Molefe,62.0,Employed,18591.23,KwaZulu-Natal,2023-06-30,39,4684.9,14733.23,"R 189,506.31",Female
+CL-00817,Lerato,Molefe,23.0,Employed,37963.68,Eastern Cape,2026-08-30,1,"R 10,560.32",4271.83,34798.86,Male
+CL-00818,Lerato,Melokuhle,26.0,Unemployed,16689.74,Gauteng,2025-08-30,13,9640.92,9984.42,"R 134,929.30",Male
+CL-00819,Lubanzi,Enzokuhle,54.0,Employed,43141.07,Gauteng,2025-04-30,17,19520.01,18159.67,313204.77,Female
+CL-00820,Lesedi,Enzokuhle,70.0,Unemployed,5943.81,Limpopo,,33,8339.16,17346.43,257250.14,Male
+CL-00821,Lesedi,Khumalo,22.0,Unemployed ,7531.13,Eastern Cape ,2026-06-30,3,3033.55,4908.37,0.0,Male
+CL-00822,Kopano,Molefe,54.0,Employed,43132.32,Mpumalanga,2024-02-29,31,6703.39,5908.88,210015.73,Male
+CL-00823,Kopano,Nkosi,27.0, Employed,30387.7,Mpumalanga,2026-07-30,2,11807.38,9841.68,26777.96,Male
+CL-00824,Thabo,Khumalo,53.0,Employed,17075.64,Mpumalanga ,2026-03-30,6,11868.76,1623.44,"R 53,408.79",Female
+CL-00825,Lesedi,Nkosi,52.0,Employed,"R 24,816.49",Mpumalanga,2026-02-28,7,13380.59,R 0.00,81445.53,Male
+CL-00826,Kopano,Enzokuhle,25.0,Unemployed,"R 14,486.73",Northern Cape,2026-08-30,1,7254.63,"R 10,290.04",0.0,Female
+CL-00827,Lerato,Khumalo,55.0,Employed,59067.04,Mpumalanga,2025-11-30,10,15057.9,10867.97,"148,048.58",Female
+CL-00828,Omolemo,Khumalo,65.0,Unemployed,16204.64,Eastern Cape,2024-01-30,32,5514.29,6983.2,204242.91,Male
+CL-00829,Kopano,Enzokuhle,64.0,Employed,37901.43,KwaZulu-Natal,2024-10-30,23,20498.16,22243.41,458393.08,Male
+CL-00830,Omphile,Khumalo,22.0,Employed,14230.39,North West,2024-05-30,28,1544.89,11977.37,"R 29,579.51",Female
+CL-00831,Lerato,Molefe,33.0,Unemployed,23123.62,Eastern Cape,2026-08-30,1,4046.86,6496.18,0.0,Female
+CL-00832,Lesedi,Nkosi,33.0,Employed,14328.11,mpumalanga,2025-08-30,13,9437.62,18665.45,131586.67,Female
+CL-00833,Kopano,Molefe,43.0,Unemployed,12519.62,,2026-04-30,5,3613.71,6465.32,17489.79,Female
+CL-00834,Thabo,Nkosi,28.0,Employed,29162.76,KwaZulu-Natal,2026-06-30,3,5820.51,6831.84,"R 4,914.36",Male
+CL-00835,Lubanzi,Dlamini,63.0,Unemployed,9858.64,KwaZulu-Natal,2024-04-30,29,10876.29,13022.87,310333.18,Female
+CL-00836,Lesedi,Melokuhle,59.0,Unemployed,3766.27,Western Cape,2026-07-30,2,4073.68,0.0,0.0,Female
+CL-00837,Thabo,Molefe,61.0,Unemployed,7759.42,Western Cape,2024-05-30,28,,11057.12,97364.05,Male
+CL-00838,Thabo,Dlamini,30.0,Employed,33557.41,Mpumalanga,2024-05-30,28,8318.43,0.0,270497.44,Male
+CL-00839,Lubanzi,Khumalo,21.0,Unemployed,13107.7,Free State,,1,12544.97,7011.12,20257.08,Male
+CL-00840,Thabo,Melokuhle,66.0,Employed,24722.35,KwaZulu-Natal,29/02/2024,31,9830.68,11402.74,303449.2,Male
+CL-00841,Lubanzi,Molefe,35.0,Unemployed,"9,202.88",Gauteng,2024-11-30,22,"R 9,915.25",6410.16,208825.74,Male
+CL-00842,Lubanzi,Molefe,53.0,Employed,9939.13,Limpopo,2025-01-30,20,8238.82,6673.17,"R 145,968.79",Male
+CL-00843,Thabo,Molefe,66.0,EMPLOYED,37099.56,Western Cape,2024-10-30,23,11420.62,20749.73,272945.95,Female
+CL-00844,Kopano,Enzokuhle,22.0,Employed,18112.4,Limpopo,2026-08-30,1,4829.13,9907.09,14340.09,Female
+CL-00845,Lesedi,Molefe,21.0,Employed,39523.52,Northern Cape,2025-11-30,10,18683.79,11923.19,180312.47,Female
+CL-00846,Lesedi,Khumalo,21.0,Employed,"R 44,260.98",,2026-06-30,3,19869.36,13088.1,76594.74,Male
+CL-00847,Lerato,Melokuhle,28.0,Unemployed,"R 4,497.41",Free State,2026-08-30,1,300.0,0.0,595.5,Female
+CL-00848,Lubanzi,Khumalo,23.0,Employed,34516.79,Free State,2026-03-30,6,13786.25,14911.07,93564.13,Male
+CL-00849,Omphile,Dlamini,61.0,Unemployed,"10,532.05",Western Cape,30/01/2025,20,4763.24,5180.82,99411.58,Male
+CL-00850,Lesedi,Khumalo,51.0,Employed,10719.61,,2025-06-30,15,1325.92,0.0,17408.89,Female
+CL-00851,Thabo,Melokuhle,70.0,unemployed,7605.65,Eastern Cape,2023-08-30,37,5977.98,9678.06,207816.87,Male
+CL-00852,Lesedi,Khumalo,61.0,Unemployed,9999999,Free State,2025-08-30,13,R 300.00,4640.89,1862.49,Male
+CL-00853,Thabo,Nkosi,69.0,Employed,"21,049.02",Western Cape,2023-04-30,41,7557.47,15567.08,321644.8,Female
+CL-00854,Thabo,Nkosi,32.0,Unemployed,"R 6,618.36",North West,2026-08-30,1,353.0,797.39,0.0,Female
+CL-00855,Lerato,Nkosi,35.0,Unemployed,10803.24,Eastern Cape,2026-04-30,5,2851.72,1539.89,20415.0,Male
+CL-00856,Lesedi,Khumalo,63.0,Unemployed,9740.35,Western Cape,2022-11-30,46,5796.78,19965.01,251493.71,Female
+CL-00857,Lesedi,Nkosi,33.0,Employed,16128.52,North West,30/11/2024,22,3306.52,5633.62,83664.16,Female
+CL-00858,Omolemo,Melokuhle,23.0,Employed ,"R 40,207.84",Northern Cape,2026-03-30,6,19177.8,18865.82,119447.96,Male
+CL-00859,Omolemo,Nkosi,54.0,Unemployed,"R 8,865.66",Free State,2025-08-30,13,"6,181.52",3982.99,63530.18,Female
+CL-00860,Lesedi,Dlamini,61.0,Employed,31192.63,Western Cape,2024-12-30,21,17900.22,19447.7,372768.33,Female
+CL-00861,Thabo,Khumalo,69.0, Unemployed,3756.75,Northern Cape,2024-02-29,31,3052.74,R 0.00,107675.01,Male
+CL-00862,Thabo,Khumalo,67.0,Employed,18004.37,Gauteng,2024-03-30,30,5885.67,6027.34,158943.53,Female
+CL-00863,Omphile,Molefe,27.0, Unemployed,8719.55,KwaZulu-Natal,2026-03-30,6,10398.16,2905.3,47395.66,Male
+CL-00864,Lesedi,Enzokuhle,59.0,Employed,60829.78,Limpopo,2024-08-30,25,"R 18,417.92",13786.03,459475.0,Male
+CL-00865,Thabo,Dlamini,63.0,Employed ,32741.53,,2024-08-30,25,11430.61,18032.39,315631.82,Female
+CL-00866,Omphile,Nkosi,55.0,Unemployed,2177.27,Western Cape,2026-01-30,8,4781.35,2060.94,28834.73,Female
+CL-00867,Lubanzi,Khumalo,61.0,Unemployed,8690.72,Limpopo,2024-12-30,21,300.0,6917.28,13233.84,Female
+CL-00868,Lerato,Enzokuhle,62.0,Unemployed,4071.53,KwaZulu-Natal,2023-09-30,36,6494.12,17022.09,237430.26,Male
+CL-00869,Lesedi,Dlamini,43.0,Unemployed,6595.99,North West,2026-07-30,2,5362.85,4743.36,2472.41,Male
+CL-00870,Lubanzi,Nkosi,23.0,Employed,52445.79,Gauteng,2026-06-30,3,21629.31,"R 21,671.94",67143.8,Female
+CL-00871,Lubanzi,Molefe,43.0,Employed,18223.98,Northern Cape,2026-01-30,8,10207.35,11684.73,75389.15,Male
+CL-00872,Omphile,Melokuhle,31.0,Employed,25480.04,Limpopo,2025-10-30,11,13985.93,12662.06,148835.99,Male
+CL-00873,Lubanzi,Dlamini,26.0,Employed,35004.89,KwaZulu-Natal,30/06/2026,3,"R 11,429.95",13111.14,11032.04,Female
+CL-00874,Lesedi,Nkosi,27.0,Employed,31463.06,Mpumalanga,2024-11-30,22,8457.3,18508.95,185718.59,Male
+CL-00875,Thabo,Melokuhle,55.0,Unemployed,10873.04,Northern Cape,30/05/2024,28,13233.86,10222.03,383135.35,Male
+CL-00876,Thabo,Enzokuhle,46.0,Employed,"R 17,628.70",Western Cape,2026-04-30,5,1202.51,R 0.00,"R 6,816.49",Female
+CL-00877,Lerato,Melokuhle,47.0,Employed,41782.31,North West,2024-08-30,25,9649.25,"R 5,407.88","256,498.26",Female
+CL-00878,Thabo,Khumalo,58.0,Employed,"R 46,064.42",Free State ,2025-04-30,17,17767.79,20434.95,310176.98,Male
+CL-00879,Omphile,Dlamini,48.0,Employed,53727.53,Northern Cape,2025-08-30,13,23714.21,24951.07,307451.12,Male
+CL-00880,Omolemo,Enzokuhle,52.0,Employed,"61,804.93",Gauteng,30/09/2024,24,21431.86,"R 16,185.76",505573.75,Female
+CL-00881,Lubanzi,Melokuhle,25.0,Employed,27735.52,Limpopo,2026-08-30,1,,0.0,6352.46,Male
+CL-00882,Thabo,Khumalo,63.0,Employed,22392.38,Northern Cape,2023-09-30,36,2244.83,3002.49,60226.57,Female
+CL-00883,Omphile,Nkosi,43.0,Employed,49728.2,Eastern Cape,2026-01-30,8,14656.1,14971.66,113509.68,Female
+CL-00884,Thabo,Enzokuhle,28.0,Unemployed,,Western Cape,30/07/2026,2,300.0,902.38,2643.98,Female
+CL-00885,Lesedi,Khumalo,61.0,Employed,16224.43,Eastern Cape,2025-02-28,19,9674.81,10757.6,207837.25,Male
+CL-00886,Lerato,Nkosi,57.0,Employed,15830.71,Mpumalanga,2025-03-30,18,1135.18,980.61,27829.7,Female
+CL-00887,Lesedi,Khumalo,23.0,Employed,32924.7,Mpumalanga,2025-05-30,16,7149.26,12777.91,102280.22,Male
+CL-00888,Lerato,Khumalo,30.0,Employed,,Free State ,2025-06-30,15,10844.23,11973.8,142512.27,Female
+CL-00889,Lubanzi,Enzokuhle,21.0,Employed,"R 25,672.24",Northern Cape,2024-12-30,21,13606.24,15838.81,282839.29,Female
+CL-00890,Thabo,Molefe,34.0,Unemployed,5163.62,Mpumalanga ,2023-11-30,34,3604.8,7930.79,"R 133,927.93",Male
+CL-00891,Lesedi,Molefe,25.0,Employed,"R 37,428.57",Mpumalanga,2026-08-30,1,"14,523.19",13988.54,11434.56,Female
+CL-00892,Lubanzi,Nkosi,56.0,Employed,49226.68,Northern Cape,2024-09-30,24,18912.04,19349.53,461476.75,Male
+CL-00893,Lubanzi,Molefe,47.0,EMPLOYED,10287.8,Northern Cape,2026-02-28,7,3804.8,0.0,"R 24,097.88",Male
+CL-00894,Omphile,Khumalo,70.0,Unemployed,2533.48,Eastern Cape,2024-10-30,23,300.0,5411.32,16938.01,Male
+CL-00895,Lubanzi,Khumalo,58.0,Employed,36290.17,KwaZulu-Natal,2025-03-30,18,,17448.74,245418.29,Female
+CL-00896,Lerato,Nkosi,51.0,Employed,12495.08,Limpopo,2025-11-30,10,7575.67,,98215.25,Male
+CL-00897,Lubanzi,Melokuhle,46.0,Unemployed,2224.58,Free State,2026-02-28,7,5379.86,7524.04,22084.26,Male
+CL-00898,Kopano,Enzokuhle,23.0,Employed,17368.59,Free State,,4,7702.02,1959.2,41920.32,Female
+CL-00899,Lesedi,Enzokuhle,24.0,Employed,26272.21,Limpopo,2026-08-30,1,4917.06,393.7,1106.49,Female
+CL-00900,Lesedi,Khumalo,51.0,Employed,56796.03, Mpumalanga,2024-04-30,29,21942.03,17612.52,"R 634,697.39",Female
+CL-00901,Kopano,Enzokuhle,21.0,Employed,68644.39, Northern Cape,2026-08-30,1,21830.35,17575.17,18454.92,Male
+CL-00902,Lerato,Dlamini,23.0,Unemployed,3539.32,Eastern Cape,2023-12-30,33,1909.94,5193.98,66606.52,Female
+CL-00903,Lerato,Dlamini,31.0,Employed,33476.51,Limpopo,2026-04-30,5,"10,392.26",3213.77,58366.66,Female
+CL-00904,Lerato,Nkosi,65.0,Employed,33998.61,KWAZULU-NATAL,2024-04-30,29,10132.66,5636.91,308664.08,Male
+CL-00905,Lesedi,Khumalo,43.0,Employed,31316.87,Northern Cape,2026-06-30,3,"R 13,920.90",660.44,"R 61,473.98",Male
+CL-00906,Thabo,Melokuhle,56.0,Employed,31488.01,Western Cape,2023-05-30,40,7221.19,0.0,293493.07,Male
+CL-00907,Lubanzi,Nkosi,41.0,Unemployed,4952.3,Limpopo,2024-07-30,26,300.0,3217.09,31791.44,Male
+CL-00908,Lerato,Dlamini,,Employed,58447.57,Western Cape,2025-10-30,11,18012.69,26580.29,199441.21,Female
+CL-00909,Lubanzi,Melokuhle,39.0,Unemployed,4533.42,North West,2026-08-30,1,8411.53,15950.2,23495.69,Female
+CL-00910,Omolemo,Khumalo,25.0,Employed,15630.48,Northern Cape,2026-01-30,8,10020.55,4003.64,86166.5,Female
+CL-00911,Thabo,Enzokuhle,59.0,Employed,38093.46,North West,2025-07-30,14,"R 7,309.01",8352.0,94637.3,Female
+CL-00912,Thabo,Dlamini,30.0,Employed,39902.37,,2024-09-30,24,"R 19,043.56",9828.47,459582.74,Female
+CL-00913,Omolemo,Molefe,39.0,Unemployed,33661.94,Free State,2024-11-30,22,"R 17,080.50",8957.41,382815.3,Male
+CL-00914,Lerato,Enzokuhle,70.0,Employed,44753.97,kwazulu-natal,2024-01-30,32,11743.76,6788.15,"R 375,349.61",Male
+CL-00915,Omolemo,Molefe,50.0,Employed,28456.37,Northern Cape,30/08/2026,1,701.66,287.7,6481.65,Male
+CL-00916,Omolemo,Dlamini,43.0,Unemployed,8742.76,Free State,2026-03-30,6,3814.83,3294.38,35004.06,Female
+CL-00917,Lerato,Molefe,48.0,Employed,27557.98,North West,2024-07-30,26,14600.12,15435.6,379275.91,Male
+CL-00918,Lubanzi,Molefe,60.0,Employed,9868.42,Limpopo,2023-07-30,38,11485.07,16565.33,395218.16,Male
+CL-00919,Lubanzi,Nkosi,33.0,Employed,25015.74,Limpopo,2024-11-30,22,"R 6,493.74",6211.09,166358.16,Female
+CL-00920,Thabo,Enzokuhle,52.0,Unemployed,"4,318.29",Eastern Cape,2026-04-30,5,9012.61,8020.09,40896.78,Female
+CL-00921,Kopano,Nkosi,64.0,Employed,14711.09,Eastern Cape,2024-02-29,31,300.0,0.0,0.00,Male
+CL-00922,Lesedi,Dlamini,49.0,Employed,51750.05,Eastern Cape,2024-03-30,30,16660.03,9372.74,484063.4,Female
+CL-00923,Lerato,Molefe,43.0,Employed,33119.3,Mpumalanga,2026-08-30,1,9675.83,381.74,4965.59,Female
+CL-00924,Omolemo,Molefe,28.0,Employed,25630.36,Limpopo,2026-01-30,8,13373.52,14555.17,99109.7,Female
+CL-00925,Lerato,Khumalo,33.0,Employed ,19825.94,Gauteng,2025-08-30,13,12367.67,9445.18,150461.57,Female
+CL-00926,Lubanzi,Molefe,68.0,Employed,29971.83,KwaZulu-Natal,30/06/2024,27,14760.75,5042.14,388990.59,Male
+CL-00927,Kopano,Khumalo,48.0,Employed,41845.57,Western Cape,2026-08-30,1,8933.69,7026.81,16350.09,Male
+CL-00928,Omphile,Melokuhle,36.0,Employed,17481.67,Free State,,9,"R 9,927.93",2694.0,117776.46,Male
+CL-00929,Omphile,Molefe,41.0,Unemployed,14815.17,Limpopo,2025-09-30,12,"R 7,981.10",16168.29,107261.22,Male
+CL-00930,Omphile,Khumalo,49.0,Employed,"39,439.52",,2025-03-30,18,7771.41,5481.31,155601.82,Female
+CL-00931,Lesedi,Melokuhle,47.0,Employed,10265.78,LIMPOPO,2025-08-30,13,300.0,5853.53,R 0.00,Female
+CL-00932,Lerato,Melokuhle,55.0,Unemployed,6315.87,Western Cape,2025-03-30,18,7587.52,13687.83,138040.72,Female
+CL-00933,Omolemo,Nkosi,33.0,Unemployed,5931.21,North West ,2025-11-30,10,2751.01,0.0,33480.81,Male
+CL-00934,Kopano,Molefe,53.0,Employed,24382.32,LIMPOPO,2024-07-30,26,4980.04,7625.86,120247.23,Female
+CL-00935,Lerato,Nkosi,,Employed,20436.34,Limpopo,30/08/2025,13,7127.48,10129.13,86697.07,Male
+CL-00936,Thabo,Dlamini,68.0,Employed,27775.56,Limpopo,2024-07-30,26,11935.21,12831.09,322279.31,Female
+CL-00937,Lerato,Enzokuhle,28.0,Employed,65459.89,Eastern Cape ,2025-12-30,9,20917.7,18656.25,203523.43,Female
+CL-00938,Omolemo,Dlamini,28.0,Employed,"R 22,256.05",Northern Cape,2026-08-30,1,2331.66,0.0,3275.41,Female
+CL-00939,Omphile,Enzokuhle,,Employed,29907.76,Limpopo,2024-12-30,21,17842.33,18726.66,357956.76,Female
+CL-00940,Omphile,Enzokuhle,46.0,Employed,67733.09,Gauteng,2025-03-30,18,25891.11,18990.78,461901.72,Female
+CL-00941,Lesedi,Melokuhle,55.0,Employed,19967.16,Northern Cape,2024-10-30,23,6948.79,10080.38,139643.53,Male
+CL-00942,Omphile,Khumalo,41.0,Employed,62124.52,Limpopo,30/08/2024,25,19825.01,22423.95,496678.19,Male
+CL-00943,Lubanzi,Enzokuhle,66.0,Employed,26066.52,KwaZulu-Natal,2025-12-30,9,"R 10,692.11","R 12,832.36",99804.63,Female
+CL-00944,Thabo,Melokuhle,44.0,Employed,61154.7,Northern Cape ,2026-08-30,1,15521.77,13829.28,11731.83,Male
+CL-00945,Lubanzi,Enzokuhle,27.0,Unemployed,5087.1,kwazulu-natal,2025-11-30,10,"R 4,307.77",8212.23,46461.61,Female
+CL-00946,Lerato,Nkosi,26.0,UNEMPLOYED,5260.68, Mpumalanga,2026-02-28,7,300.0,5228.06,7936.62,Male
+CL-00947,Omolemo,Khumalo,69.0,Employed,25193.7,Limpopo,2024-01-30,32,9848.19,18888.2,318738.01,Male
+CL-00948,Omphile,Dlamini,27.0,Employed,19270.14,Northern Cape,2026-06-30,3,2900.18,3047.88,0.0,Male
+CL-00949,Kopano,Khumalo,68.0,Employed,26963.29,Mpumalanga,2023-09-30,36,6775.89,10458.42,240386.2,Male
+CL-00950,Lerato,Khumalo,34.0,Employed,39998.02,Northern Cape,2025-01-30,20,"19,964.01",22034.42,405017.97,Male
+CL-00951,Thabo,Dlamini,25.0,Unemployed,,KwaZulu-Natal,2025-10-30,11,3982.06,2425.14,65904.61,Male
+CL-00952,Omolemo,Molefe,36.0,Employed,22334.17,North West,30/11/2025,10,9066.91,,86862.17,Male
+CL-00953,Thabo,Nkosi,51.0,Employed,23051.27,KwaZulu-Natal,30/08/2026,1,916.41,4035.97,8628.18,Male
+CL-00954,Omphile,Enzokuhle,42.0,Employed,41866.47,Northern Cape,2024-10-30,23,12576.74,11355.13,301559.04,Female
+CL-00955,Lerato,Nkosi,60.0,Employed ,46813.61,Limpopo,2023-07-30,38,18500.45,12262.69,700264.22,Male
+CL-00956,Thabo,Enzokuhle,51.0,Employed,18875.49,Mpumalanga,2024-06-30,27,8695.54,12533.5,250857.23,Female
+CL-00957,Lubanzi,Melokuhle,41.0,Employed,18862.47,Western Cape,2026-03-30,6,300.0,8831.67,18630.43,Female
+CL-00958,Omphile,Dlamini,52.0,Unemployed,6318.57,Free State,2024-05-30,28,5017.27,0.0,159808.9,Female
+CL-00959,Thabo,Dlamini,69.0,Employed,54125.85,Gauteng,2023-06-30,39,"R 20,395.37","R 24,886.29",801837.38,Male
+CL-00960,Lerato,Nkosi,41.0,Employed,45067.97,Northern Cape,2024-02-29,31,20643.94,6388.3,673003.92,Male
+CL-00961,Kopano,Nkosi,28.0,Employed ,14256.42,Eastern Cape,2026-08-30,1,3160.09,1183.83,0.0,Male
+CL-00962,Lubanzi,Melokuhle,41.0,Employed,22904.65,North West,2025-08-30,13,545.95,11825.66,36834.42,Female
+CL-00963,Omphile,Dlamini,63.0,Employed,16633.3,Northern Cape,2023-10-30,35,4071.62,5939.94,153262.75,Female
+CL-00964,Thabo,Nkosi,31.0,Employed,"R 22,866.90",Western Cape,2025-11-30,10,4530.64,5611.75,64071.79,Female
+CL-00965,Kopano,Nkosi,68.0,Unemployed,4111.71,Limpopo,28/02/2025,19,5883.67,"R 10,940.57","R 107,309.11",Female
+CL-00966,Lubanzi,Khumalo,50.0,Employed,"R 13,134.58",KwaZulu-Natal,2024-09-30,24,300.0,0.0,19022.65,Male
+CL-00967,Lubanzi,Khumalo,51.0,Employed,11953.7,Western Cape,2024-07-30,26,"R 4,264.03",7090.57,130842.37,Female
+CL-00968,Lubanzi,Khumalo,36.0,Employed,17468.35,KwaZulu-Natal,2025-08-30,13,12119.37,11277.01,142328.76,Male
+CL-00969,Lesedi,Enzokuhle,67.0,Employed,"R 29,844.65",Free State,2024-02-29,31,11481.36,21788.18,353635.6,Male
+CL-00970,Lesedi,Khumalo,22.0,Employed,35024.89, North West,2026-07-30,2,15018.21,5654.4,58.88,Male
+CL-00971,Lesedi,Nkosi,35.0,Unemployed,4018.58,,2024-07-30,26,300.0,1968.3,5303.34,Male
+CL-00972,Lerato,Melokuhle,41.0,Employed,45714.96,KwaZulu-Natal,2026-03-30,6,9399.32,3585.73,44971.83,Male
+CL-00973,Kopano,Nkosi,44.0,Employed,11154.19,KwaZulu-Natal,2025-10-30,11,10182.33,4169.22,108956.89,Female
+CL-00974,Kopano,Enzokuhle,44.0,Employed,45993.41, KwaZulu-Natal,2025-04-30,17,,19882.02,314229.77,Male
+CL-00975,Omphile,Melokuhle,28.0,Employed,22382.75, Limpopo,2025-04-30,17,9000.61,"R 9,283.70",177059.69,Male
+CL-00976,Kopano,Nkosi,32.0,Employed,36937.0,Free State,2026-08-30,1,8297.75,4106.54,0.0,Male
+CL-00977,Lerato,Dlamini,25.0,Employed,13774.96,Western Cape,2026-08-30,1,5737.3,2451.63,"R 13,517.64",Male
+CL-00978,Omolemo,Dlamini,49.0,Employed,26061.93,Western Cape,2026-08-30,1,"R 4,935.20",1647.21,16120.24,Female
+CL-00979,Omphile,Khumalo,38.0,Employed,29122.37,Western Cape,2025-07-30,14,"14,797.44",10625.14,"R 202,433.65",Female
+CL-00980,Omolemo,Khumalo,49.0,Unemployed,"3,513.16",Northern Cape,2026-01-30,8,12410.14,4293.07,101777.41,Male
+CL-00981,Lubanzi,Khumalo,50.0,Unemployed,11180.78,free state,2025-05-30,16,6968.42,6283.62,115358.49,Female
+CL-00982,Omolemo,Molefe,56.0,Unemployed,8376.17, Free State,2024-03-30,30,2687.04,4238.64,61758.74,Male
+CL-00983,Kopano,Khumalo,48.0,Unemployed,3756.29,Limpopo,2025-09-30,12,300.0,0.0,0.0,Male
+CL-00984,Thabo,Melokuhle,53.0,Unemployed,5621.82,Gauteng,30/09/2024,24,300.0,4431.23,9612.15,Female
+CL-00985,Lerato,Enzokuhle,50.0,Unemployed,4663.12,Western Cape,2025-04-30,17,8910.44,10284.96,152869.09,Female
+CL-00986,Lubanzi,Dlamini,53.0,Unemployed,2957.17,KwaZulu-Natal,2024-05-30,28,R 300.00,"R 1,312.76",0.0,Male
+CL-00987,Kopano,Dlamini,51.0,Unemployed,6064.53,Gauteng,2024-08-30,25,"R 2,734.35",4798.06,57237.54,Male
+CL-00988,Omphile,Dlamini,36.0,Unemployed,4376.4,North West,30/04/2026,5,5082.09,"R 15,802.23","R 24,153.56",Male
+CL-00989,Omphile,Enzokuhle,33.0,Unemployed,3257.15,North West,2025-12-30,9,7891.39,18073.97,83428.61,Female
+CL-00990,Kopano,Melokuhle,60.0,Employed,11814.62,Mpumalanga,2023-09-30,36,5537.87,3476.82,198292.66,Male
+CL-00991,Kopano,Melokuhle,38.0,Employed,34883.78,Northern Cape,2025-04-30,17,"R 10,922.33",5961.84,208397.92,Male
+CL-00992,Kopano,Molefe,48.0,Employed,41189.44,Free State,2026-04-30,5,14024.67,6150.74,60381.85,Male
+CL-00993,Omolemo,Dlamini,30.0,Unemployed,5248.52,KwaZulu-Natal,30/05/2025,16,1187.06,8699.95,21696.49,Female
+CL-00994,Omphile,Molefe,42.0,Employed,14540.32,KwaZulu-Natal ,30/04/2026,5,"R 3,706.35",2025.92,13571.59,Female
+CL-00995,Lubanzi,Dlamini,47.0,Unemployed,7866.83,Gauteng,2024-01-30,32,6386.82,10116.88,212609.58,Female
+CL-00996,Omolemo,Enzokuhle,52.0,Unemployed,5305.25,Northern Cape,2024-02-29,31,,17622.49,136637.16,Female
+CL-00997,Omolemo,Dlamini,47.0,Unemployed,7553.68,Mpumalanga,30/12/2024,21,12021.88,11713.43,"279,443.12",Female
+CL-00998,Lesedi,Molefe,39.0,Employed,25504.04,Limpopo,2025-06-30,15,"R 11,061.07",13945.21,142247.46,Female
+CL-00999,Omolemo,Khumalo,69.0,Unemployed,3567.39,,2024-05-30,28,7590.34,11947.15,236546.25,Female
+CL-01000,Thabo,Melokuhle,46.0,Unemployed,5856.27,limpopo,30/08/2024,25,300.0,824.91,8759.84,Male
+CL-01001,Omolemo,Enzokuhle,61.0,Unemployed,2746.36,KwaZulu-Natal,2024-11-30,22,4838.47,11999.51,114180.39,Female
+CL-01002,Lubanzi,Molefe,57.0,Unemployed,7399.7,Free State,2024-07-30,26,1909.18,786.1,68321.94,Male
+CL-01003,Lerato,Melokuhle,48.0,Employed,42147.02,mpumalanga,2024-05-30,28,16443.74,22418.89,472431.91,Male
+CL-01004,Kopano,Molefe,65.0,Employed,77950.39,Northern Cape,30/10/2024,23,28029.77,20574.18,634464.29,Male
+CL-01005,Lesedi,Molefe,27.0,Employed,"R 12,610.19",Mpumalanga,2026-08-30,1,5204.59,2267.46,13605.84,Male
+CL-01006,Omolemo,Enzokuhle,67.0,Unemployed,"R 9,866.46",Limpopo,2025-04-30,17,13540.31,6976.59,256329.94,Male
+CL-01007,Omolemo,Khumalo,63.0,Employed,15433.8,Mpumalanga,2025-05-30,16,11642.87,6321.57,"R 173,863.78",Female
+CL-01008,Lerato,Khumalo,46.0,Unemployed,3788.52,Eastern Cape,30/08/2026,1,6616.64,3540.16,36274.64,Male
+CL-01009,Thabo,Nkosi,57.0,Unemployed,6781.93,northern cape,2024-02-29,31,7288.01,0.0,231328.16,Male
+CL-01010,Lerato,Nkosi,47.0,Employed,18807.68,Northern Cape,2023-09-30,36,14702.4,14179.07,523221.34,Female
+CL-01011,Thabo,Melokuhle,34.0,Employed,19594.45,KwaZulu-Natal,2024-08-30,25,"R 2,955.25",3137.91,61375.11,Female
+CL-01012,Omolemo,Enzokuhle,60.0,Employed,"R 25,066.22",Northern Cape,2025-12-30,9,14030.88,15842.29,123151.94,Female
+CL-01013,Thabo,Molefe,33.0,Unemployed,15112.29,Free State,2025-03-30,18,2921.21,"R 6,998.17",25207.83,Male
+CL-01014,Lesedi,Dlamini,36.0,Employed,32794.91,Limpopo,2024-07-30,26,10098.85,7392.99,256756.7,Female
+CL-01015,Kopano,Enzokuhle,,Employed,25928.12,Free State,2025-08-30,13,,8249.97,146409.86,Female
+CL-01016,Omphile,Khumalo,62.0,Unemployed,3275.76,Limpopo ,2024-05-30,28,"R 7,798.32",8321.7,203311.15,Male
+CL-01017,Thabo,Enzokuhle,40.0,Employed,36871.32,North West,2026-08-30,1,8150.52,14208.16,18620.35,Female
+CL-01018,Thabo,Melokuhle,45.0,Unemployed,"R 1,800.00",,2025-01-30,20,734.84,0.0,11634.04,Female
+CL-01019,Lerato,Nkosi,23.0,Employed,45409.86,Limpopo,2026-08-30,1,15216.07,8266.77,6314.95,Female
+CL-01020,Lesedi,Melokuhle,26.0,employed,18511.31,Free State,2025-12-30,9,6460.48,798.62,53589.6,Male
+CL-01021,Lubanzi,Molefe,23.0,employed,12049.28,North West,2026-08-30,1,,0.0,12902.8,Male
+CL-01022,Kopano,Enzokuhle,24.0,Employed,25578.8,Gauteng,2025-10-30,11,21704.98,19172.6,239779.89,Male
+CL-01023,Lesedi,Melokuhle,64.0,Employed,48431.66,Limpopo,2023-07-30,38,18835.05,19555.76,"R 705,918.40",Male
+CL-01024,Lubanzi,Nkosi,63.0,Unemployed,"R 4,174.61",Mpumalanga,2025-02-28,19,603.68,9738.46,"13,229.01",Female
+CL-01025,Thabo,Enzokuhle,62.0,EMPLOYED,23623.81,Free State,2025-06-30,15,4249.71,10716.84,"R 63,036.22",Female
+CL-01026,Omolemo,Dlamini,23.0,Employed,17121.41,Eastern Cape,2026-08-30,1,5207.51,16644.99,0.0,Male
+CL-01027,Omphile,Dlamini,24.0,Employed,60450.48,Limpopo,2026-06-30,3,16076.24,"12,335.53",44189.66,Male
+CL-01028,Kopano,Khumalo,35.0,Employed,15861.38,Eastern Cape,2026-03-30,6,7893.59,"R 5,840.74",55472.3,Male
+CL-01029,Lerato,Dlamini,,Unemployed,5817.66,Western Cape,2026-05-30,4,4740.58,0.0,26972.24,Female
+CL-01030,Kopano,Enzokuhle,37.0,Employed,34182.47,Northern Cape,2025-04-30,17,10501.34,13713.85,175303.2,Male
+CL-01031,Lerato,Enzokuhle,45.0,Unemployed,"13,813.49",Free State,30/08/2025,13,13035.89,,"R 178,941.33",Female
+CL-01032,Thabo,Enzokuhle,29.0,Employed,47937.59,Gauteng,2026-08-30,1,12975.67,13508.81,0.0,Female
+CL-01033,Lubanzi,Melokuhle,,Employed,35082.74,KwaZulu-Natal,2025-03-30,18,12050.87,5761.01,203629.83,Male
+CL-01034,Thabo,Khumalo,36.0,Employed,40033.93,North West,2024-10-30,23,16477.17,"16,951.58",375457.25,Female
+CL-01035,Omphile,Dlamini,24.0,Employed,33987.5,KwaZulu-Natal,2025-09-30,12,15111.65,14026.38,202305.68,Male
+CL-01036,Kopano,Melokuhle,58.0,unemployed,10542.94,KwaZulu-Natal ,2024-10-30,23,9928.16,"R 11,173.45",230633.12,Female
+CL-01037,Lubanzi,Enzokuhle,66.0,Employed,15608.02,Free State,2023-10-30,35,8894.99,,307469.69,Female
+CL-01038,Lesedi,Nkosi,21.0,Employed,24309.33,Western Cape,2026-08-30,1,12318.09,15725.64,33936.02,Male
+CL-01039,Kopano,Enzokuhle,42.0,Employed,16280.74,Mpumalanga,2025-05-30,16,4361.83,"15,952.06","R 65,772.21",Male
+CL-01040,Lerato,Dlamini,62.0,Employed,"32,833.56",Western Cape,2024-05-30,28,15531.16,"R 9,510.72",466158.81,Male
+CL-01041,Lerato,Nkosi,56.0,Unemployed,4086.88,North West,2025-02-28,19,6481.09,11158.6,"R 115,982.72",Female
+CL-01042,Thabo,Nkosi,63.0,Unemployed,7717.73,Eastern Cape,2024-02-29,31,10263.71,0.0,304010.86,Male
+CL-01043,Lesedi,Nkosi,41.0,Employed,31079.39,Gauteng,2026-02-28,7,4811.45,"R 8,377.29","R 31,351.07",Female
+CL-01044,Lerato,Dlamini,39.0,Unemployed,7129.09,Free State,2025-02-28,19,,0.0,13059.3,Male
+CL-01045,Omolemo,Dlamini,,Unemployed,7510.06,Gauteng,,29,7634.33,6861.88,210087.4,Female
+CL-01046,Lerato,Molefe,,Employed,20666.7,KwaZulu-Natal,2026-08-30,1,300.0,0.0,36727.64,Female
+CL-01047,Lubanzi,Molefe,32.0,Unemployed,2462.58,Gauteng,2024-11-30,22,"R 4,634.00",5478.42,106408.71,Female
+CL-01048,Omphile,Melokuhle,51.0,Employed,21597.76,Limpopo,2026-08-30,1,11536.62,13410.34,18036.12,Male
+CL-01049,Lerato,Molefe,54.0,Unemployed,3144.11,Northern Cape,2025-05-30,16,740.28,0.0,5378.2,Male
+CL-01050,Thabo,Molefe,26.0,Unemployed,3976.14,Free State,2025-04-30,17,1558.16,1994.47,18401.29,Female
+CL-01051,Thabo,Molefe,46.0,Employed,17028.96,western cape,2025-06-30,15,3071.79,2094.85,"R 60,434.71",Male
+CL-01052,Kopano,Enzokuhle,39.0,Unemployed,"4,784.85",Western Cape,2026-08-30,1,799.88,9391.16,0.0,Female
+CL-01053,Kopano,Khumalo,46.0,Unemployed,"R 3,660.69",North West,2026-02-28,7,818.96,"R 4,318.46",0.0,Female
+CL-01054,Lubanzi,Melokuhle,68.0,Employed,16199.52,Eastern Cape,2023-05-30,40,5281.63,3116.69,207802.77,Male
+CL-01055,Lerato,Melokuhle,24.0,EMPLOYED,35873.23,KwaZulu-Natal,2026-08-30,1,9348.33,5284.32,28262.99,Female
+CL-01056,Kopano,Khumalo,70.0,Unemployed,4300.23,Western Cape,2023-03-30,42,3278.45,15561.01,132451.69,Male
+CL-01057,Kopano,Enzokuhle,43.0,Unemployed,10932.36,Mpumalanga,,16,,9107.25,71946.62,Male
+CL-01058,Omphile,Enzokuhle,59.0,Employed,"51,327.66",Western Cape,30/08/2025,13,23891.17,14840.48,"310,973.46",Male
+CL-01059,Lerato,Enzokuhle,42.0,Employed,38309.21,Northern Cape,2025-11-30,10,11693.7,8984.11,135084.59,Male
+CL-01060,Lesedi,Dlamini,36.0,Employed,38096.22,Gauteng,2026-07-30,2,13951.81,9889.76,5717.49,Male
+CL-01061,Lubanzi,Melokuhle,59.0,Employed,64995.36,Western Cape,2023-11-30,34,20049.83,16285.97,691997.7,Female
+CL-01062,Lubanzi,Nkosi,55.0,Employed,18545.64,Limpopo,2024-03-30,30,"R 5,901.15",0.0,"R 174,249.79",Female
+CL-01063,Kopano,Nkosi,28.0,Employed,"R 16,197.82",Eastern Cape,2026-08-30,1,300.0,0.0,13248.38,Female
+CL-01064,Thabo,Nkosi,,Employed,"R 18,383.95",Limpopo,2025-02-28,19,1856.27,11172.51,23799.1,Female
+CL-01065,Lubanzi,Molefe,58.0,Employed,23010.16,Western Cape,2025-05-30,16,4429.86,3843.77,"R 71,219.19",Male
+CL-01066,Kopano,Khumalo,40.0,Employed,8397.32,North West,2024-06-30,27,5514.5,"R 7,224.17",147456.51,Female
+CL-01067,Lerato,Dlamini,67.0,Employed,23536.0,KwaZulu-Natal,2025-05-30,16,12807.02,12483.69,190878.29,Female
+CL-01068,Lesedi,Molefe,53.0,Unemployed,6810.68,Limpopo,2023-07-30,38,300.0,16286.71,0.0,Male
+CL-01069,Lerato,Khumalo,37.0,Employed,"37,875.38",Northern Cape,2025-09-30,12,11089.94,10149.13,124953.48,Male
+CL-01070,Lubanzi,Dlamini,21.0,Employed,30792.09,Free State ,2026-08-30,1,"R 5,558.82","R 10,382.08",7377.86,Female
+CL-01071,Omphile,Dlamini,54.0,Employed,,Eastern Cape,2025-06-30,15,6724.79,"R 4,300.95",90275.04,Female
+CL-01072,Lesedi,Melokuhle,31.0,Employed,34510.99,,2026-08-30,1,15468.07,10750.01,10847.04,Female
+CL-01073,Omphile,Molefe,58.0,Employed,36791.35,Limpopo,2025-09-30,12,11132.63,10198.26,"R 107,190.38",Male
+CL-01074,Omolemo,Nkosi,47.0,Employed,17978.82,Western Cape,2025-02-28,19,7220.59,4218.16,132002.03,Female
+CL-01075,Lesedi,Nkosi,44.0,Employed,"20,520.92",Gauteng ,2026-05-30,4,12763.1,9410.84,65382.61,Male
+CL-01076,Omphile,Enzokuhle,29.0, Employed,8934.52,Mpumalanga,2026-08-30,1,5570.8,9361.23,15443.32,Male
+CL-01077,Lubanzi,Molefe,56.0,Employed,15403.27,Western Cape,2025-02-28,19,3882.65,1683.69,72553.44,Female
+CL-01078,Omphile,Enzokuhle,29.0,Employed,18205.27,kwazulu-natal,2026-08-30,1,7275.68,6148.93,10686.81,Male
+CL-01079,Omphile,Enzokuhle,41.0,Unemployed,5366.26,Mpumalanga,2026-02-28,7,300.0,5329.67,R 0.00,Female
+CL-01080,Lerato,Melokuhle,62.0,Unemployed,4320.54,KwaZulu-Natal,2025-04-30,17,4723.9,1948.88,103048.41,Female
+CL-01081,Lesedi,Enzokuhle,67.0,Employed,20320.69,Northern Cape,2024-12-30,21,10033.43,15811.14,239650.74,Male
+CL-01082,Omphile,Enzokuhle,70.0,EMPLOYED,14439.07,Northern Cape,2022-06-30,51,2751.95,8755.82,142656.8,Female
+CL-01083,Omphile,Nkosi,68.0,Employed,28225.65,Western Cape,2024-03-30,30,11558.23,11596.32,"R 383,016.61",Male
+CL-01084,Kopano,Enzokuhle,48.0,Employed,31894.69,Gauteng,2024-12-30,21,11227.14,1152.8,226247.46,Male
+CL-01085,Lubanzi,Molefe,31.0,Employed ,31539.22,Northern Cape,2026-08-30,1,12664.61,8160.45,0.0,Female
+CL-01086,Lerato,Enzokuhle,62.0,Employed,26154.73,Western Cape,2025-01-30,20,12879.27,14131.03,247650.61,Male
+CL-01087,Omphile,Khumalo,61.0,Employed,12408.5,Free State,2024-05-30,28,7817.37,,215813.43,Male
+CL-01088,Omphile,Khumalo,70.0,Employed,19307.99,Northern Cape ,2024-12-30,21,6782.9,10833.13,174809.82,Female
+CL-01089,Omolemo,Nkosi,53.0,Employed,21382.85,Mpumalanga,2024-02-29,31,12276.84,18680.41,"R 376,645.93",Male
+CL-01090,Lerato,Nkosi,28.0,Unemployed,,KwaZulu-Natal,2026-08-30,1,300.0,0.0,0.0,Female
+CL-01091,Lesedi,Molefe,46.0,Unemployed,2818.93,Western Cape,2025-06-30,15,300.0,2031.89,0.0,Female
+CL-01092,Omolemo,Molefe,43.0,Employed,"51,539.91",Eastern Cape,2025-11-30,10,"5,578.94",12020.57,71749.71,Male
+CL-01093,Lubanzi,Melokuhle,63.0,employed,38394.06,Free State,2024-04-30,29,13683.71,"R 9,403.60",410789.82,Male
+CL-01094,Omphile,Melokuhle,40.0,Employed,16185.05,Western Cape,30/01/2026,8,3433.95,8978.56,20674.89,Male
+CL-01095,Thabo,Dlamini,37.0,Unemployed,"R 1,800.00",Free State,2025-11-30,10,"R 3,591.92","8,152.77",9658.18,Male
+CL-01096,Omolemo,Melokuhle,25.0,Employed,35355.07,Eastern Cape,2026-05-30,4,4878.1,6125.85,3712.09,Female
+CL-01097,Omolemo,Dlamini,62.0,Employed,"R 17,657.92",KwaZulu-Natal,2025-02-28,19,4965.53,4821.67,"R 118,442.52",Female
+CL-01098,Lesedi,Khumalo,,Employed ,39077.71,Northern Cape,2024-04-30,29,"R 15,834.28",10459.21,468837.55,Male
+CL-01099,Lesedi,Enzokuhle,23.0,Unemployed,11361.38,Northern Cape,2026-02-28,7,1195.0,11307.3,9281.48,Female
+CL-01100,Lerato,Melokuhle,42.0,Employed,13214.55,Limpopo,2025-06-30,15,7267.69,10842.05,"R 135,179.03",Male
+CL-01101,Thabo,Molefe,44.0,Employed,32349.35,Mpumalanga,2025-09-30,12,9403.52,10593.62,140258.84,Female
+CL-01102,Kopano,Dlamini,44.0,Employed,28853.7,Free State,2024-08-30,25,10788.0,9253.11,269196.84,Female
+CL-01103,Omphile,Molefe,66.0,Employed,23308.34,,30/07/2024,26,11427.07,12076.85,296857.84,Female
+CL-01104,Kopano,Khumalo,28.0,employed,25536.76,KwaZulu-Natal,2026-04-30,5,"R 12,501.10",11174.38,"R 54,356.84",Female
+CL-01105,Kopano,Khumalo,36.0,Employed,18410.76,Western Cape,2025-08-30,13,7602.2,9702.96,94844.18,Female
+CL-01106,Lubanzi,Nkosi,30.0,Employed,34846.73,Eastern Cape ,2024-07-30,26,9815.58,14398.92,234396.55,Male
+CL-01107,Omphile,Enzokuhle,33.0,Employed,25463.35,Free State,2026-08-30,1,7232.07,2204.73,0.0,Male
+CL-01108,Lerato,Enzokuhle,66.0,Employed,28162.52,Mpumalanga,2023-09-30,36,13453.8,7113.75,460219.4,Male
+CL-01109,Lesedi,Molefe,68.0,Unemployed,5045.58,Eastern Cape,2025-10-30,11,300.0,2647.4,18480.72,Female
+CL-01110,Lesedi,Nkosi,23.0,Employed,14937.81,KwaZulu-Natal,2026-02-28,7,5334.3,0.0,"R 15,480.49",Female
+CL-01111,Thabo,Enzokuhle,52.0,Employed,16925.83,Limpopo,2023-08-30,37,6442.57,7890.34,265674.39,Male
+CL-01112,Lubanzi,Khumalo,32.0,Employed,9000.89,Gauteng,2025-06-30,15,4158.16,2897.93,52147.17,Male
+CL-01113,Lubanzi,Dlamini,30.0,Employed,34095.75,Gauteng,2025-10-30,11,8257.31,10414.0,115153.29,Male
+CL-01114,Lerato,Molefe,35.0,Employed,14530.29,Limpopo,2026-03-30,6,300.0,11588.99,0.0,Female
+CL-01115,Thabo,Khumalo,30.0,Unemployed,2796.25,Mpumalanga,2025-12-30,9,4291.55,0.0,16697.32,Female
+CL-01116,Omphile,Enzokuhle,45.0,Employed,31067.77,North West,2025-06-30,15,"14,621.20",24348.19,237290.96,Male
+CL-01117,Lerato,Nkosi,70.0,Unemployed,"4,936.23",Limpopo,2024-10-30,23,300.0,2380.62,"26,526.12",Female
+CL-01118,Omphile,Nkosi,50.0,Unemployed,5660.71,Northern Cape,30/04/2025,17,"4,940.35",7966.09,71301.2,Female
+CL-01119,Kopano,Dlamini,57.0,Employed,25199.37,Mpumalanga,2024-07-30,26,13751.27,6486.75,352889.87,Female
+CL-01120,Omolemo,Nkosi,45.0,Employed,57964.52,North West,2025-11-30,10,21154.64,22115.7,198865.22,Female
+CL-01121,Kopano,Enzokuhle,21.0,Employed ,59202.73,Gauteng,2026-08-30,1,17502.81,13719.38,15815.43,Male
+CL-01122,Lubanzi,Enzokuhle,25.0,Employed,41763.04,Free State ,2026-08-30,1,"R 10,374.32",8072.18,11883.93,Female
+CL-01123,Lubanzi,Nkosi,34.0,Employed,30572.27,Northern Cape,2025-06-30,15,11293.2,894.18,164478.65,Male
+CL-01124,Thabo,Khumalo,33.0,Employed,16048.98,North West,2025-05-30,16,7578.72,8385.66,95795.06,Male
+CL-01125,Lubanzi,Melokuhle,63.0,Employed,36709.48,Eastern Cape,2024-04-30,29,13775.75,18137.68,391364.43,Female
+CL-01126,Lesedi,Nkosi,63.0,Employed,24100.83,Northern Cape,2023-08-30,37,9335.76,10410.36,355272.56,Male
+CL-01127,Lerato,Enzokuhle,63.0,Unemployed,1800.0,KwaZulu-Natal,2024-05-30,28,300.0,9967.0,5475.41,Female
+CL-01128,Lerato,Enzokuhle,52.0,Employed,19188.89,Western Cape,2024-08-30,25,9528.35,16074.89,233624.48,Male
+CL-01129,Lesedi,Dlamini,48.0,Unemployed,6141.92,North West,2024-11-30,22,5661.65,4090.91,111525.45,Male
+CL-01130,Omolemo,Dlamini,53.0,Employed,28131.42,Eastern Cape,2024-12-30,21,"R 11,244.39",19181.53,227591.41,Female
+CL-01131,Omphile,Molefe,41.0,Employed,29262.59,western cape,2025-11-30,10,10798.36,9901.29,127708.82,Male
+CL-01132,Kopano,Dlamini,54.0,Employed,32953.04,Gauteng,2023-01-30,44,18979.21,19553.76,819128.33,Male
+CL-01133,Omphile,Enzokuhle,60.0,Employed,19689.45,Western Cape,2024-12-30,21,,7738.48,130654.02,Male
+CL-01134,Thabo,Nkosi,59.0,Employed,13644.27,Northern Cape,2025-03-30,18,10662.45,10803.54,192582.85,Female
+CL-01135,Lerato,Khumalo,51.0,Unemployed,4033.76,North West,2024-08-30,25,817.64,0.0,23868.36,Male
+CL-01136,Kopano,Melokuhle,23.0,Employed,85878.93,Northern Cape,2026-01-30,8,31291.9,23282.64,240082.23,Male
+CL-01137,Kopano,Khumalo,57.0,Employed,32228.74,Gauteng,2025-11-30,10,15728.74,6404.96,152362.56,Male
+CL-01138,Lesedi,Khumalo,39.0,Employed,13771.21,North West,2024-08-30,25,5326.38,15516.67,133079.4,Female
+CL-01139,Lubanzi,Khumalo,58.0,Employed,,Mpumalanga,2024-10-30,23,13527.09,20999.92,303833.74,Female
+CL-01140,Kopano,Enzokuhle,47.0,Employed,33197.45,KwaZulu-Natal,2026-02-28,7,13141.76,15291.76,96632.39,Male
+CL-01141,Lerato,Dlamini,65.0,Employed,49493.04,Limpopo,2023-05-30,40,14569.73,14497.87,589193.38,Male
+CL-01142,Kopano,Khumalo,37.0,Employed,"R 14,525.55",Northern Cape,2025-02-28,19,5008.7,1456.19,125583.21,Female
+CL-01143,Thabo,Nkosi,67.0,Employed,24493.72,Free State,2025-04-30,17,"13,340.06",8986.94,230675.69,Female
+CL-01144,Lerato,Nkosi,63.0,Employed,28563.91,Western Cape,2022-12-30,45,"R 14,982.21",26250.4,647427.83,Female
+CL-01145,Omphile,Molefe,37.0,Unemployed,8024.71,North West,2025-02-28,19,596.47,0.0,27615.12,Female
+CL-01146,Omphile,Khumalo,45.0,Employed,,Gauteng,30/04/2025,17,8026.72,0.0,133600.0,Male
+CL-01147,Lerato,Dlamini,47.0,Employed,12273.78,Gauteng,2023-11-30,34,,14761.66,267622.75,Male
+CL-01148,Lesedi,Khumalo,59.0,Unemployed,9999999,Mpumalanga,2024-07-30,26,1483.71,12230.79,59169.49,Female
+CL-01149,Thabo,Enzokuhle,55.0,Employed,44611.81,North West,2024-11-30,22,23995.62,28792.93,520829.93,Male
+CL-01150,Kopano,Enzokuhle,63.0,Employed,24989.42,North West,2025-01-30,20,10378.02,15663.91,"R 217,666.96",Female
+CL-01151,Omolemo,Nkosi,39.0,Unemployed,,NORTH WEST,2025-01-30,20,2736.25,"10,977.70",46409.54,Female
+CL-01152,Omphile,Enzokuhle,46.0,Unemployed,1964.13,North West,2024-10-30,23,,8665.13,162010.66,Male
+CL-01153,Omphile,Nkosi,42.0,Unemployed,2622.58,Gauteng,,16,1344.0,0.0,30967.85,Female
+CL-01154,Lubanzi,Nkosi,66.0,Employed,42554.3,KwaZulu-Natal,2024-12-30,21,18475.03,16551.43,403557.61,Female
+CL-01155,Thabo,Molefe,36.0,Unemployed,5293.94,Limpopo,2025-07-30,14,300.0,5663.86,16732.88,Female
+CL-01156,Lerato,Melokuhle,50.0,Employed,32900.03,EASTERN CAPE,2025-02-28,19,10234.85,9582.74,195512.07,Male
+CL-01157,Lerato,Dlamini,27.0,Unemployed,5744.01,Limpopo ,2026-08-30,1,6741.86,"R 4,859.96",41509.79,Male
+CL-01158,Lubanzi,Nkosi,63.0,Unemployed,4332.48,,2025-09-30,12,8656.46,3532.06,98767.18,Male
+CL-01159,Lesedi,Dlamini,40.0, Unemployed,10019.8,Free State,2025-01-30,20,2262.08,0.0,22740.73,Male
+CL-01160,Lubanzi,Khumalo,38.0,Employed,28047.64,Western Cape,2026-08-30,1,"R 6,452.93",14746.86,0.0,Male
+CL-01161,Omolemo,Nkosi,50.0,Employed,19830.6,Mpumalanga,2024-11-30,22,10115.99,19875.24,243187.82,Female
+CL-01162,Kopano,Molefe,45.0,Employed,37864.05,North West,2025-09-30,12,10820.29,"R 9,897.37",128770.37,Female
+CL-01163,Lerato,Enzokuhle,63.0,Employed ,,North West,2023-05-30,40,9042.13,13117.95,363911.91,Male
+CL-01164,Omolemo,Enzokuhle,47.0,Employed,16146.14,Eastern Cape,2025-08-30,13,9744.9,4342.04,119088.35,Male
+CL-01165,Kopano,Dlamini,46.0,Unemployed,2787.53,Limpopo,2024-09-30,24,1085.49,7434.43,19713.93,Female
+CL-01166,Omolemo,Khumalo,26.0,Employed,28215.15,Gauteng,2026-06-30,3,2715.01,11883.06,0.0,Male
+CL-01167,Thabo,Molefe,22.0,Employed,40721.0,Mpumalanga,2026-03-30,6,8984.4,282.61,60502.49,Female
+CL-01168,Omolemo,Melokuhle,40.0,Employed,31399.88, Eastern Cape,2024-11-30,22,11579.81,13876.88,253392.39,Female
+CL-01169,Lesedi,Enzokuhle,70.0,Employed,32441.77,Northern Cape,2024-07-30,26,5316.21,10182.78,144311.48,Female
+CL-01170,Omolemo,Molefe,66.0,Employed,30320.88,Limpopo,30/06/2023,39,10864.49,15550.46,428467.1,Male
+CL-01171,Omphile,Khumalo,52.0, Employed,"23,753.97",Western Cape,2025-10-30,11,3776.64,12943.27,35580.78,Female
+CL-01172,Lesedi,Nkosi,,unemployed,9060.51,North West,2024-09-30,24,10829.93,21417.64,239496.19,Male
+CL-01173,Lesedi,Enzokuhle,40.0,Unemployed,3612.7,Limpopo,2024-09-30,24,11086.32,"10,254.73",244430.58,Female
+CL-01174,Thabo,Khumalo,29.0,Employed,22157.96,Gauteng,2025-06-30,15,4667.88,9176.74,112391.28,Female
+CL-01175,Lerato,Dlamini,21.0,Employed,58510.8, KwaZulu-Natal,2024-10-30,23,20643.57,18614.54,495496.58,Male
+CL-01176,Omphile,Nkosi,37.0,Employed,49518.39,Gauteng,2026-04-30,5,12808.06,"7,411.23",82802.87,Female
+CL-01177,Lerato,Melokuhle,36.0,Unemployed,2435.17,KwaZulu-Natal,2026-08-30,1,859.01,2882.56,0.0,Male
+CL-01178,Omphile,Enzokuhle,30.0,Unemployed,3332.23,Northern Cape,2026-08-30,1,8734.16,10556.09,8867.29,Male
+CL-01179,Omolemo,Khumalo,33.0,Employed,"R 24,925.12",Northern Cape,2025-04-30,17,7711.46,9306.89,119679.7,Female
+CL-01180,Kopano,Khumalo,22.0,Unemployed,4732.93,Free State,2025-11-30,10,"2,010.14",0.0,1732.29,Female
+CL-01181,Thabo,Molefe,51.0,Employed,23437.42,Eastern Cape,2024-11-30,22,5762.12,5050.92,118523.82,Male
+CL-01182,Omphile,Nkosi,67.0,Employed,"27,296.77",Eastern Cape,2025-03-30,18,14271.31,10775.81,275450.24,Male
+CL-01183,Kopano,Melokuhle,55.0,Unemployed,1800.0,NORTHERN CAPE,2024-03-30,30,300.0,103.78,20770.44,Male
+CL-01184,Lesedi,Melokuhle,43.0,Employed,32572.68,Gauteng,2026-05-30,4,9545.73,9680.63,24602.27,Female
+CL-01185,Lubanzi,Dlamini,42.0,Employed,"R 40,460.86",Limpopo,2024-06-30,27,14307.07,"16,161.65",381883.4,Male
+CL-01186,Omphile,Molefe,36.0,Employed,18650.31,Northern Cape,2023-04-30,41,6137.21,14626.38,262113.48,Female
+CL-01187,Omphile,Dlamini,28.0,Employed,,North West,2025-09-30,12,10432.29,5343.14,117193.89,Female
+CL-01188,Omphile,Molefe,50.0,Employed,52170.01,Limpopo,2024-07-30,26,22270.3,16807.22,580142.01,Male
+CL-01189,Lerato,Melokuhle,49.0,Employed,37643.78,Northern Cape ,2025-07-30,14,"R 7,997.79",15871.26,117594.94,Female
+CL-01190,Omphile,Molefe,21.0,Employed,21553.25,Gauteng,2026-08-30,1,15244.53,11063.58,20717.55,Male
+CL-01191,Kopano,Melokuhle,41.0,Employed,24695.85,NORTHERN CAPE,2025-12-30,9,3863.02,4722.03,38325.24,Male
+CL-01192,Omolemo,Nkosi,34.0,Unemployed,3636.29,Western Cape,2026-08-30,1,6971.96,5054.29,R 0.00,Female
+CL-01193,Omphile,Molefe,29.0,Employed,26397.05,Western Cape,2026-08-30,1,9700.49,13559.51,1986.85,Male
+CL-01194,Lerato,Enzokuhle,56.0,Unemployed,2744.74,Gauteng,2023-05-30,40,1890.1,12419.91,59732.79,Male
+CL-01195,Lerato,Enzokuhle,47.0,Employed,87785.21,Mpumalanga,2024-12-30,21,26943.84,28075.61,543961.98,Female
+CL-01196,Lerato,Khumalo,52.0,Employed,28479.36,KwaZulu-Natal,2024-08-30,25,10673.16,11367.52,265222.58,Female
+CL-01197,Omolemo,Nkosi,56.0,Employed,35735.47,Mpumalanga,2025-01-30,20,13510.94,"R 8,365.70",281646.52,Male
+CL-01198,Lerato,Melokuhle,70.0,Unemployed,6140.88,Western Cape,2024-04-30,29,947.71,14298.42,"R 8,159.58",Female
+CL-01199,Lubanzi,Enzokuhle,61.0,Employed,20601.1,Limpopo,2023-09-30,36,"R 8,050.15",14837.65,293626.9,Female
+CL-01200,Omolemo,Nkosi,52.0,Unemployed,2482.53, KwaZulu-Natal,2024-12-30,21,300.0,1042.71,"R 17,284.84",Male
+CL-01201,Omolemo,Nkosi,64.0,Employed,31538.47,Free State,2023-12-30,33,7673.36,17073.91,227506.65,Male
+CL-01202,Thabo,Melokuhle,44.0,Employed,,Gauteng,2025-06-30,15,300.0,0.0,711.86,Female
+CL-01203,Kopano,Molefe,70.0,Employed,35931.98,Northern Cape,,28,"R 9,015.68",17424.81,275486.12,Male
+CL-01204,Kopano,Molefe,59.0,Employed,65288.47,Eastern Cape,2025-10-30,11,"R 19,735.98",23611.33,224822.99,Male
+CL-01205,Lerato,Molefe,53.0,Employed,9974.79,Mpumalanga,2026-07-30,2,"5,833.35",612.6,0.0,Female
+CL-01206,Omolemo,Enzokuhle,66.0,Employed,53914.67,Free State ,2024-07-30,26,18900.96,"R 20,177.48",500641.67,Female
+CL-01207,Omolemo,Nkosi,46.0,Employed,6872.71,Mpumalanga,30/03/2025,18,11125.45,14701.28,189789.84,Male
+CL-01208,Lerato,Melokuhle,57.0,Employed,40785.88,FREE STATE,2025-10-30,11,5940.13,19361.44,75019.77,Female
+CL-01209,Kopano,Enzokuhle,35.0,Employed,25892.29,Western Cape,2025-10-30,11,11119.31,6304.4,112651.31,Female
+CL-01210,Thabo,Melokuhle,69.0,Employed,8415.8,North West,29/02/2024,31,,15008.61,155802.94,Female
+CL-01211,Lesedi,Dlamini,52.0,Employed,32208.9, Mpumalanga,2026-08-30,1,13841.08,10962.31,6315.48,Male
+CL-01212,Lubanzi,Nkosi,60.0,Employed,45173.0,KwaZulu-Natal,2025-05-30,16,18003.18,9315.47,288095.02,Male
+CL-01213,Lesedi,Enzokuhle,44.0,Employed,"R 30,962.05",Western Cape,2024-12-30,21,10776.65,10269.25,218367.62,Female
+CL-01214,Lerato,Enzokuhle,64.0,Employed,34426.06,North West,2024-01-30,32,13493.36,14047.54,428658.06,Male
+CL-01215,Omolemo,Enzokuhle,24.0,Employed,21338.05,KwaZulu-Natal,2026-08-30,1,4964.77,0.0,0.0,Male
+CL-01216,Omolemo,Enzokuhle,26.0,Unemployed,4355.6,Northern Cape,2026-01-30,8,5051.93,6878.26,47284.66,Female
+CL-01217,Omphile,Nkosi,46.0,Employed,36241.01,Limpopo,2024-05-30,28,"R 6,484.35",13337.78,184015.75,Male
+CL-01218,Lesedi,Enzokuhle,57.0,Employed,60218.43,Northern Cape,2024-01-30,32,23406.1,9999999,726363.86,Female
+CL-01219,Kopano,Enzokuhle,61.0,Unemployed,5178.59,Mpumalanga,2024-08-30,25,,3519.29,106904.68,Male
+CL-01220,Lubanzi,Enzokuhle,43.0,Employed,10013.32,Gauteng,2025-10-30,11,2912.57,3364.69,29570.27,Male
+CL-01221,Lerato,Enzokuhle,53.0,Employed,12565.4,Western Cape,2025-06-30,15,4762.5,5856.28,73702.19,Male
+CL-01222,Lubanzi,Molefe,48.0,Unemployed,10922.58,KwaZulu-Natal,2024-09-30,24,4911.67,8063.01,128583.91,Female
+CL-01223,Lubanzi,Enzokuhle,69.0,Unemployed,10259.76,Eastern Cape ,2024-01-30,32,10292.22,"R 17,279.55",333946.47,Female
+CL-01224,Lerato,Dlamini,53.0,Unemployed,5523.46,Mpumalanga,2024-05-30,28,,"R 16,524.70",455174.06,Male
+CL-01225,Omphile,Khumalo,41.0,Employed,31404.03,Northern Cape,2025-05-30,16,15684.74,"6,839.53",246849.75,Male
+CL-01226,Kopano,Enzokuhle,69.0,Employed,13086.42,Gauteng,2023-06-30,39,4728.75,5683.1,198903.37,Male
+CL-01227,Lesedi,Dlamini,26.0,Unemployed,"8,369.40",Mpumalanga,2026-01-30,8,6314.03,7056.21,52233.21,Female
+CL-01228,Lubanzi,Enzokuhle,70.0,Unemployed,2344.59,Western Cape,2023-06-30,39,5965.36,15005.68,239755.97,Male
+CL-01229,Lesedi,Dlamini,28.0,Employed,19984.96,Free State,2025-04-30,17,4578.91,12456.05,83492.29,Female
+CL-01230,Thabo,Melokuhle,35.0,Employed,23933.66,Western Cape,30/05/2026,4,4009.22,13000.07,33407.11,Female
+CL-01231,Omolemo,Dlamini,62.0,Employed,10198.0,eastern cape,2026-01-30,8,4367.59,5477.74,45040.49,Female
+CL-01232,Lerato,Dlamini,57.0,Employed,22167.13,MPUMALANGA,2023-06-30,39,12395.89,17831.58,477238.37,Female
+CL-01233,Lubanzi,Dlamini,69.0,Employed,26092.33,Limpopo,2023-12-30,33,4611.19,477.75,143191.49,Female
+CL-01234,Lerato,Melokuhle,58.0, Employed,28193.61,North West,,7,7356.85,9016.34,50801.4,Female
+CL-01235,Lerato,Molefe,52.0,Employed,31185.63,Free State,2025-07-30,14,9999999,"R 6,471.45",174231.88,Male
+CL-01236,Lerato,Melokuhle,38.0,Employed,"R 29,234.00",KwaZulu-Natal,2024-12-30,21,11002.41,10719.04,216319.84,Female
+CL-01237,Kopano,Melokuhle,21.0,Employed,"R 22,901.71",northern cape,2026-08-30,1,"R 13,211.10",25571.18,0.0,Female
+CL-01238,Lerato,Melokuhle,27.0,Employed,"29,828.67",Northern Cape,2026-07-30,2,5151.68,6246.98,0.0,Female
+CL-01239,Lerato,Molefe,35.0,Employed,"R 42,058.94",Northern Cape,2024-07-30,26,23377.47,16172.72,635610.03,Male
+CL-01240,Kopano,Enzokuhle,23.0,Employed,24835.09,North West,2026-08-30,1,3155.75,5221.09,0.0,Male
+CL-01241,Lerato,Dlamini,46.0,Unemployed,4413.29,North West,2025-11-30,10,300.0,0.0,29648.44,Male
+CL-01242,Omphile,Nkosi,59.0,Employed,23777.37,Western Cape,2024-06-30,27,9255.13,"R 5,629.97",255532.57,Female
+CL-01243,Thabo,Melokuhle,69.0,Employed,19061.15,Mpumalanga ,2023-11-30,34,4262.29,"18,124.55",144221.35,Male
+CL-01244,Lerato,Melokuhle,45.0,Employed,"R 33,417.47",Eastern Cape,30/11/2024,22,12009.72,"R 17,201.06",243205.37,Female
+CL-01245,Kopano,Enzokuhle,64.0,Employed,"19,917.29",KwaZulu-Natal,2023-08-30,37,8463.77,12691.6,313224.84,Female
+CL-01246,Omolemo,Nkosi,70.0,Employed,31294.65,Western Cape,2023-12-30,33,"R 11,269.61",10585.0,398387.6,Female
+CL-01247,Lubanzi,Molefe,63.0,Employed,26355.03,Gauteng,2024-01-30,32,7417.83,8106.89,259177.44,Male
+CL-01248,Lubanzi,Khumalo,44.0,Employed,22470.6,Northern Cape,2025-07-30,14,10086.74,"17,314.86",145053.74,Female
+CL-01249,Lesedi,Molefe,37.0,Employed,22211.01,Northern Cape,2025-08-30,13,7266.89,8995.05,78388.19,Male
+CL-01250,Lesedi,Molefe,69.0,Employed,20372.75,Limpopo,2024-02-29,31,12587.02,0.0,376797.3,Male
+CL-01251,Thabo,Enzokuhle,33.0,Employed,11800.15,Western Cape,2025-08-30,13,4636.7,17673.12,48340.87,Male
+CL-01252,Lubanzi,Enzokuhle,41.0,Employed,31245.84,Limpopo,2024-10-30,23,"R 8,067.02",10053.57,203435.64,Female
+CL-01253,Lubanzi,Melokuhle,24.0,Employed,29056.41,Gauteng,2025-10-30,11,4303.16,6825.12,70178.89,Male
+CL-01254,Kopano,Nkosi,60.0,Employed,39092.8,Limpopo,2024-07-30,26,13400.25,18741.65,351148.88,Male
+CL-01255,Omolemo,Nkosi,53.0,Employed,"R 20,145.83",Western Cape,2025-07-30,14,3262.61,7016.09,41433.44,Male
+CL-01256,Lerato,Molefe,25.0,Employed,64578.44,KwaZulu-Natal,2026-02-28,7,16007.67,16830.07,133735.64,Male
+CL-01257,Omolemo,Khumalo,32.0,Employed,21667.71,Gauteng,2025-11-30,10,10019.16,6995.18,86491.57,Female
+CL-01258,Lesedi,Molefe,48.0,Employed,17082.32,Northern Cape,2024-12-30,21,807.08,R 0.00,17674.28,Female
+CL-01259,Lerato,Molefe,48.0,Unemployed,4432.7,Mpumalanga,2023-04-30,41,9335.71,13432.87,389245.46,Female
+CL-01260,Lesedi,Nkosi,61.0,Unemployed,6624.65, Northern Cape,2024-12-30,21,"R 4,644.37",13612.02,85452.66,Male
+CL-01261,Thabo,Nkosi,34.0,Unemployed,7104.0,western cape,2025-06-30,15,3803.37,1949.41,48147.68,Female
+CL-01262,Omphile,Melokuhle,67.0,Employed,50209.73,Limpopo,2023-05-30,40,14217.76,11796.67,558718.17,Female
+CL-01263,Thabo,Nkosi,43.0,Employed,34690.1,Free State,2025-04-30,17,15072.77,19627.49,276071.25,Male
+CL-01264,Kopano,Molefe,62.0,Employed,,Free State,2022-07-30,50,8362.89,10035.06,444945.69,Female
+CL-01265,Lesedi,Enzokuhle,32.0,Employed,62022.98,North West,2026-03-30,6,17588.95,12071.24,107140.78,Male
+CL-01266,Omolemo,Nkosi,22.0,Employed,"R 21,961.07",Western Cape,2026-01-30,8,8843.69,6181.74,66994.46,Male
+CL-01267,Lerato,Dlamini,23.0,Employed,22850.3,Northern Cape,2026-08-30,1,2039.06,2053.22,0.0,Female
+CL-01268,Omolemo,Enzokuhle,39.0,Employed,51830.61,Western Cape,2025-11-30,10,11282.01,2154.85,112844.5,Male
+CL-01269,Omphile,Nkosi,68.0,Employed,35672.27,Eastern Cape,2024-01-30,32,9213.01,8256.67,287113.24,Male
+CL-01270,Kopano,Melokuhle,23.0,Employed,74785.65,Gauteng,2025-07-30,14,25481.99,21838.88,355389.49,Female
+CL-01271,Thabo,Dlamini,39.0,Unemployed,,Free State,30/04/2025,17,3324.13,6179.56,62295.49,Male
+CL-01272,Lesedi,Molefe,26.0,EMPLOYED,"R 21,488.58",Mpumalanga,2025-02-28,19,12220.9,,226522.72,Female
+CL-01273,Omphile,Melokuhle,67.0,Unemployed,4146.75,Mpumalanga,2024-05-30,28,308.06,"R 13,298.77",5971.5,Female
+CL-01274,Omphile,Melokuhle,54.0,Employed,10713.86,North West,2025-02-28,19,,15694.71,135741.93,Female
+CL-01275,Lerato,Molefe,59.0,Employed,22745.57,Limpopo,2022-05-30,52,9797.74,18147.63,505036.5,Male
+CL-01276,Omphile,Nkosi,56.0,Employed ,45037.76, Northern Cape,2024-06-30,27,12450.37,11990.59,329979.63,Male
+CL-01277,Thabo,Dlamini,53.0,Employed,34658.29,Free State,2025-07-30,14,13572.59,8996.92,200687.08,Male
+CL-01278,Omolemo,Dlamini,59.0,Employed,26254.68,Gauteng,2025-03-30,18,9594.76,"R 9,777.62",147915.42,Male
+CL-01279,Kopano,Molefe,21.0,Employed,16127.53,Gauteng,2026-08-30,1,"R 3,815.43",6585.0,25855.35,Female
+CL-01280,Kopano,Nkosi,64.0,Employed,28991.29,KwaZulu-Natal,2023-08-30,37,11602.58,17333.55,431193.06,Female
+CL-01281,Kopano,Molefe,57.0,Employed,42277.17,Mpumalanga,2025-01-30,20,14256.84,16380.35,293677.05,Female
+CL-01282,Omphile,Melokuhle,57.0,Employed,31971.4,Western Cape,2024-08-30,25,11288.14,11071.59,292354.67,Male
+CL-01283,Kopano,Khumalo,40.0, Unemployed,"R 3,643.45",Northern Cape,2025-07-30,14,1395.7,7279.22,9626.97,Female
+CL-01284,Lesedi,Nkosi,61.0,Employed,17735.3,Northern Cape,2023-12-30,33,3208.77,13044.68,93088.54,Male
+CL-01285,Kopano,Melokuhle,40.0,Employed,39422.78,Gauteng,2026-03-30,6,13547.99,15615.35,66836.17,Male
+CL-01286,Lerato,Khumalo,23.0,Employed,5782.19,North West,2026-08-30,1,300.0,965.93,R 0.00,Female
+CL-01287,Kopano,Melokuhle,66.0,Employed,31245.1,Mpumalanga,2024-02-29,31,8202.35,5946.45,264061.57,Female
+CL-01288,Thabo,Molefe,32.0,Employed,89286.57,Free State,2025-05-30,16,,18282.01,436490.56,Male
+CL-01289,Lerato,Nkosi,26.0,Employed,12604.8,Limpopo,2025-11-30,10,"R 8,043.93",4285.54,88950.38,Female
+CL-01290,Lubanzi,Enzokuhle,52.0,Unemployed,5111.67,Mpumalanga,2025-08-30,13,3947.71,6357.73,18169.32,Male
+CL-01291,Kopano,Khumalo,32.0,Employed,"25,901.46",KwaZulu-Natal,2025-04-30,17,7772.33,10865.09,126731.59,Male
+CL-01292,Kopano,Melokuhle,63.0,Employed,20822.97,Mpumalanga,2025-01-30,20,6230.05,412.97,140940.84,Female
+CL-01293,Kopano,Nkosi,43.0,Employed,42757.99,Gauteng,2025-10-30,11,16778.33,,182167.99,Female
+CL-01294,Omolemo,Enzokuhle,21.0,Unemployed,2406.4,KwaZulu-Natal,2026-08-30,1,300.0,2342.43,0.0,Male
+CL-01295,Thabo,Khumalo,68.0,Unemployed,1800.0,Northern Cape,2023-02-28,43,6416.51,,"R 266,714.30",Male
+CL-01296,Lubanzi,Melokuhle,46.0,Unemployed,6769.31,Gauteng,2024-09-30,24,300.0,"5,825.52",0.0,Male
+CL-01297,Omphile,Melokuhle,34.0,Employed,26209.89,Mpumalanga,2025-04-30,17,4681.5,4503.54,"R 65,420.26",Male
+CL-01298,Kopano,Molefe,54.0,Employed,119633.33,KwaZulu-Natal,2023-10-30,35,36708.64,27463.12,1299603.86,Male
+CL-01299,Lubanzi,Dlamini,47.0,Employed,27959.11,Free State,2022-11-30,46,19332.18,20045.2,881123.83,Female
+CL-01300,Omolemo,Melokuhle,22.0,Unemployed,12479.6,KwaZulu-Natal,30/08/2026,1,11024.59,10809.11,4520.97,Female
+CL-01301,Kopano,Nkosi,58.0,Employed,11439.5,Mpumalanga,2025-04-30,17,7889.2,4107.58,101471.11,Female
+CL-01302,Lubanzi,Enzokuhle,41.0,Employed,20030.18,Mpumalanga,2025-12-30,9,"8,870.61",6963.78,57003.74,Male
+CL-01303,Thabo,Khumalo,55.0,Employed,45098.0,Mpumalanga,2025-07-30,14,8613.2,10879.9,137245.52,Female
+CL-01304,Lerato,Nkosi,65.0,Employed,13695.64,KwaZulu-Natal,2025-04-30,17,6587.02,3602.2,120621.46,Male
+CL-01305,Omphile,Nkosi,51.0,Employed,9230.09,MPUMALANGA,2025-03-30,18,2747.83,0.0,31296.8,Male
+CL-01306,Thabo,Enzokuhle,54.0,Employed,26406.44,Limpopo,2025-11-30,10,6601.92,0.0,"57,191.21",Male
+CL-01307,Lubanzi,Enzokuhle,33.0,Employed,"R 50,201.95",limpopo,2025-07-30,14,17405.88,12781.98,"R 243,273.86",Male
+CL-01308,Lerato,Enzokuhle,,Unemployed,12917.07,Mpumalanga,2025-10-30,11,3841.13,R 0.00,25506.6,Female
+CL-01309,Lubanzi,Khumalo,41.0,Employed,22126.07,KwaZulu-Natal,2025-01-30,20,11807.3,9762.65,208088.0,Male
+CL-01310,Lerato,Nkosi,63.0,Unemployed,7056.38,Free State,2024-01-30,32,300.0,12860.71,"R 7,371.05",Male
+CL-01311,Thabo,Khumalo,47.0,Employed,"32,303.59",Free State,2024-09-30,24,,5308.77,300075.39,Male
+CL-01312,Omphile,Dlamini,38.0,Unemployed,6576.63,Northern Cape,2025-11-30,10,428.24,795.31,12568.4,Male
+CL-01313,Thabo,Melokuhle,59.0,Employed,11054.8,Eastern Cape,2022-11-30,46,4973.75,20102.62,241045.9,Male
+CL-01314,Kopano,Molefe,63.0,Unemployed,4938.2,KwaZulu-Natal,30/04/2024,29,"4,996.12",9627.85,123137.55,Female
+CL-01315,Kopano,Khumalo,66.0,Employed,37548.39,Limpopo,2025-11-30,10,8862.21,6442.17,89432.7,Male
+CL-01316,Omphile,Khumalo,35.0,Employed,44773.13,Mpumalanga,2026-07-30,2,15307.17,11256.75,26856.03,Female
+CL-01317,Lubanzi,Melokuhle,56.0,Employed,34404.54,Eastern Cape,2026-03-30,6,11008.94,11533.25,64832.58,Female
+CL-01318,Kopano,Enzokuhle,50.0,Employed,35582.87,Western Cape,30/01/2025,20,10336.75,18921.32,"R 203,770.00",Male
+CL-01319,Omolemo,Enzokuhle,43.0,Employed,33382.86,Limpopo,2025-06-30,15,"R 10,150.80",7104.31,143015.68,Male
+CL-01320,Omphile,Khumalo,40.0,Unemployed,13205.38,Limpopo,2025-11-30,10,5025.23,1730.11,8003.19,Male
+CL-01321,Omolemo,Nkosi,26.0,Unemployed,6482.55,Northern Cape,2024-06-30,27,1514.55,0.0,57158.58,Female
+CL-01322,Omolemo,Molefe,34.0,EMPLOYED,12649.12,Free State,2025-04-30,17,5734.28,7314.16,102102.58,Male
+CL-01323,Omolemo,Khumalo,48.0,Employed,18261.82,Free State,2024-07-30,26,,1505.32,155216.84,Male
+CL-01324,Omolemo,Dlamini,65.0,Employed,24429.29,Gauteng,2025-02-28,19,7126.17,5701.93,"142,021.08",Female
+CL-01325,Lerato,Dlamini,64.0,UNEMPLOYED,"R 6,400.51",Free State,2025-03-30,18,9599.59,5148.28,166530.27,Male
+CL-01326,Thabo,Nkosi,30.0,Unemployed,8016.46,Western Cape,2025-12-30,9,5477.8,11104.63,43434.61,Male
+CL-01327,Lerato,Enzokuhle,54.0,Employed,44447.44,Free State,2024-09-30,24,14164.47,11096.43,329189.41,Male
+CL-01328,Omolemo,Dlamini,25.0,Unemployed,7951.57,Limpopo,2026-08-30,1,4152.57,"R 5,884.50",11669.6,Female
+CL-01329,Lerato,Nkosi,54.0,Employed,17104.67,North West,2025-01-30,20,3474.85,0.0,58299.46,Male
+CL-01330,Kopano,Khumalo,38.0,Unemployed,6014.92,Mpumalanga,2025-08-30,13,1978.1,4311.77,10359.6,Male
+CL-01331,Thabo,Dlamini,43.0,Unemployed,4872.13,North West,2025-07-30,14,2097.36,0.0,45207.47,Male
+CL-01332,Lerato,Nkosi,56.0,Unemployed,"R 12,761.93",Mpumalanga ,2025-06-30,15,"1,170.12",1164.25,15047.49,Female
+CL-01333,Lubanzi,Enzokuhle,42.0,Employed,30342.71,North West,2025-11-30,10,12117.29,21680.46,"R 119,108.08",Female
+CL-01334,Thabo,Melokuhle,61.0,Employed,5062.77,Eastern Cape,2024-09-30,24,1906.63,9473.64,55453.54,Female
+CL-01335,Kopano,Nkosi,47.0,Employed,82722.67,Mpumalanga,2025-02-28,19,25535.12,20633.22,475821.08,Male
+CL-01336,Omphile,Dlamini,70.0,Unemployed,"3,933.35",Mpumalanga,2023-08-30,37,1886.61,22223.07,63250.55,Male
+CL-01337,Lesedi,Enzokuhle,52.0,Employed,19534.05,Mpumalanga,2024-01-30,32,19056.94,"R 13,465.12",614102.11,Male
+CL-01338,Lubanzi,Melokuhle,35.0,Employed,65577.59,Mpumalanga,,9,18865.86,,148213.48,Male
+CL-01339,Lubanzi,Molefe,59.0,Unemployed,"R 4,195.57",North West,2025-01-30,20,300.0,0.0,9095.39,Male
+CL-01340,Lerato,Nkosi,41.0,Employed,27707.58,KwaZulu-Natal,2025-02-28,19,4550.52,4946.76,75879.87,Female
+CL-01341,Thabo,Enzokuhle,47.0,Employed,20579.2,KwaZulu-Natal,2024-09-30,24,11115.25,4704.03,278742.62,Male
+CL-01342,Lesedi,Khumalo,27.0,Employed,57457.91,Free State,2026-06-30,3,23374.6,19246.09,77777.09,Female
+CL-01343,Kopano,Dlamini,26.0,Employed,24722.26,Mpumalanga,2025-06-30,15,6792.21,7620.24,107686.78,Female
+CL-01344,Omphile,Enzokuhle,49.0,Employed,27934.12,Free State,2024-04-30,29,15402.46,13541.44,424173.77,Male
+CL-01345,Lubanzi,Enzokuhle,30.0,Employed,46335.67,Gauteng,2024-11-30,22,18694.42,22140.27,409829.78,Male
+CL-01346,Lerato,Melokuhle,70.0,Employed,34431.21,North West,2022-08-30,49,12905.24,12646.27,615874.79,Male
+CL-01347,Lerato,Molefe,63.0,Employed,25330.51,Free State,2025-03-30,18,8617.55,10618.89,154599.72,Female
+CL-01348,Lubanzi,Molefe,56.0,Employed,44304.41,eastern cape,2024-10-30,23,16108.46,19030.86,338080.56,Female
+CL-01349,Thabo,Molefe,57.0,Employed,87932.41,North West,2024-09-30,24,31746.56,18881.42,740345.91,Female
+CL-01350,Lesedi,Enzokuhle,50.0,Employed,30278.97,Eastern Cape,2025-02-28,19,12511.95,8156.53,254373.57,Male
+CL-01351,Kopano,Molefe,24.0,Employed,27498.77,Gauteng,2026-08-30,1,"7,055.12","6,258.99",12221.87,Male
+CL-01352,Omolemo,Enzokuhle,40.0,Employed,28219.06,Northern Cape,2026-08-30,1,9080.57,10598.78,4127.15,Female
+CL-01353,Lesedi,Nkosi,45.0,Unemployed,11520.99,Eastern Cape,30/03/2025,18,12544.85,18918.48,213084.83,Male
+CL-01354,Omolemo,Melokuhle,66.0,Employed,"19,501.31",Northern Cape,2024-12-30,21,8836.76,8393.07,170392.46,Male
+CL-01355,Thabo,Enzokuhle,31.0,Employed,22748.61,Free State,30/11/2025,10,,8651.04,118543.73,Female
+CL-01356,Omphile,Khumalo,45.0,Unemployed,9222.96,KwaZulu-Natal,2025-12-30,9,6288.47,"R 1,954.72",51785.42,Female
+CL-01357,Lubanzi,Molefe,38.0,Employed,14729.32,Eastern Cape,2026-07-30,2,6686.88,7484.48,35026.83,Male
+CL-01358,Kopano,Enzokuhle,27.0,Employed,20278.32,Northern Cape,2025-11-30,10,8094.81,6242.68,78361.44,Female
+CL-01359,Lerato,Dlamini,26.0,Employed,25311.19,Northern Cape,2026-01-30,8,12359.96,9209.01,"R 99,701.80",Female
+CL-01360,Omphile,Molefe,39.0,Employed,60779.74,Gauteng,2025-01-30,20,22861.03,18990.5,437781.64,Male
+CL-01361,Thabo,Dlamini,25.0,Employed,33628.47,Northern Cape,2024-05-30,28,"R 13,414.56",16296.62,"R 370,557.84",Female
+CL-01362,Kopano,Nkosi,24.0,Unemployed,"R 3,221.53",North West,2026-01-30,8,300.0,0.0,4877.88,Female
+CL-01363,Lesedi,Dlamini,38.0,Unemployed,2866.11,Mpumalanga,2025-03-30,18,4203.85,1945.98,70450.23,Male
+CL-01364,Thabo,Melokuhle,31.0,Employed,50298.53,Gauteng,2026-08-30,1,16090.33,14653.66,"9,291.53",Male
+CL-01365,Omolemo,Enzokuhle,48.0,Employed,44650.68,Mpumalanga ,2026-03-30,6,13737.48,0.0,87001.63,Male
+CL-01366,Lerato,Khumalo,21.0,Employed,,Eastern Cape,2025-01-30,20,19589.7,14086.19,"413,001.57",Female
+CL-01367,Omphile,Melokuhle,36.0,Employed,21024.4,Gauteng,2026-06-30,3,2092.74,0.0,8307.78,Male
+CL-01368,Omolemo,Enzokuhle,43.0,Employed,44614.74,Northern Cape,2026-03-30,6,18287.07,20642.98,125741.02,Female
+CL-01369,Lerato,Molefe,69.0,EMPLOYED,16139.98,Mpumalanga,2024-03-30,30,4196.38,4916.73,134593.8,Female
+CL-01370,Thabo,Melokuhle,52.0,Unemployed,2688.94,Western Cape,2025-01-30,20,3318.98,2586.09,81560.65,Male
+CL-01371,Thabo,Enzokuhle,65.0, Employed,77398.92,Eastern Cape,2025-02-28,19,34464.59,27461.39,"646,291.16",Female
+CL-01372,Lubanzi,Khumalo,38.0,Employed,28693.4,North West,2025-11-30,10,6763.49,3792.85,64737.94,Male
+CL-01373,Thabo,Khumalo,43.0,Employed,,Eastern Cape,,28,5145.45,"5,571.48",141233.73,Female
+CL-01374,Kopano,Enzokuhle,42.0,Employed,"31,660.62",Free State,2026-02-28,7,10929.14,9924.53,84151.83,Female
+CL-01375,Lerato,Melokuhle,65.0,Unemployed,6325.27, Gauteng,2025-07-30,14,635.6,687.43,19992.19,Male
+CL-01376,Omphile,Molefe,68.0,Employed,13315.4,Western Cape,2023-06-30,39,10015.22,10154.87,392344.43,Male
+CL-01377,Lerato,Khumalo,69.0,Unemployed,8785.18,Northern Cape,2023-10-30,35,"R 3,381.25",2033.71,130617.61,Male
+CL-01378,Kopano,Khumalo,58.0,Unemployed,5478.57,Northern Cape,2025-03-30,18,5954.0,1297.96,99285.44,Female
+CL-01379,Lubanzi,Melokuhle,46.0, Unemployed,4081.83,Western Cape,2026-07-30,2,300.0,1539.18,12995.29,Male
+CL-01380,Lubanzi,Enzokuhle,48.0,Employed,21693.73,Free State,2025-10-30,11,1665.53,4742.18,32542.12,Male
+CL-01381,Lerato,Melokuhle,70.0,Employed,16387.93,Limpopo,2024-03-30,30,6552.03,1676.68,"R 206,045.95",Male
+CL-01382,Kopano,Molefe,35.0,UNEMPLOYED,2896.88,North West,2024-10-30,23,300.0,7345.71,8778.38,Female
+CL-01383,Omolemo,Nkosi,38.0,Unemployed,15196.17,Mpumalanga,30/06/2026,3,11350.62,13122.68,"R 44,038.38",Female
+CL-01384,Omolemo,Khumalo,65.0,Employed,16003.39,North West,2024-06-30,27,,9815.41,31432.53,Male
+CL-01385,Thabo,Nkosi,40.0,Unemployed,"R 5,259.24",Gauteng,30/12/2024,21,300.0,4825.45,9077.07,Female
+CL-01386,Lubanzi,Melokuhle,32.0,Employed,32525.13,Western Cape,30/08/2026,1,12488.57,13087.18,"16,695.72",Female
+CL-01387,Lubanzi,Molefe,49.0,Employed,34221.23,Free State,30/03/2024,30,10615.46,22668.26,299850.54,Male
+CL-01388,Kopano,Khumalo,37.0,Unemployed,4120.87,KwaZulu-Natal,2026-08-30,1,300.0,,6944.18,Male
+CL-01389,Lerato,Khumalo,65.0,Employed,,Limpopo,2024-01-30,32,"R 21,181.30",14342.08,660318.16,Male
+CL-01390,Omphile,Molefe,66.0,Employed,21323.37,Eastern Cape,2024-02-29,31,"R 5,293.13",350.75,158096.17,Male
+CL-01391,Kopano,Melokuhle,36.0,Unemployed,"R 11,409.82",Eastern Cape,2024-10-30,23,4882.42,15623.71,112852.24,Female
+CL-01392,Kopano,Dlamini,47.0,Unemployed,8692.15,Free State,2024-09-30,24,4062.55,"R 15,208.97",87270.97,Male
+CL-01393,Kopano,Melokuhle,70.0,Unemployed,4780.23,Northern Cape,2026-02-28,7,5485.18,896.33,39552.04,Female
+CL-01394,Kopano,Dlamini,58.0,Employed,30633.93,Western Cape,2025-04-30,17,12768.65,8226.82,217998.8,Female
+CL-01395,Lubanzi,Enzokuhle,31.0,Unemployed,8298.84,Free State,2025-10-30,11,1175.17,1236.17,1444.32,Female
+CL-01396,Kopano,Dlamini,50.0,Employed,13736.18,Eastern Cape,2025-03-30,18,4903.88,12432.07,96221.41,Female
+CL-01397,Omolemo,Nkosi,51.0,Employed,27890.62,Western Cape,2024-08-30,25,9800.26,4169.68,234308.42,Male
+CL-01398,Thabo,Enzokuhle,53.0,Employed,23571.71,North West,2024-04-30,29,12185.77,2930.65,385418.87,Female
+CL-01399,Thabo,Melokuhle,22.0,Unemployed,3480.62,Northern Cape,2025-10-30,11,300.0,13063.57,1767.3,Male
+CL-01400,Thabo,Melokuhle,35.0,Unemployed,5513.64,Gauteng,2025-11-30,10,"10,539.29",11050.16,88994.8,Male
+CL-01401,Omolemo,Nkosi,63.0,Unemployed,6517.11,Limpopo,2025-12-30,9,800.07,4638.12,R 0.00,Male
+CL-01402,Lerato,Khumalo,33.0,Employed,87506.02,Limpopo,2026-03-30,6,27672.31,20358.53,182099.98,Female
+CL-01403,Lesedi,Molefe,35.0,Employed,"R 21,548.83",Limpopo,2025-05-30,16,4160.69,7884.62,60842.89,Male
+CL-01404,Omolemo,Molefe,37.0,Employed,"20,075.79",Free State,2026-07-30,2,2633.37,0.0,0.0,Male
+CL-01405,Lesedi,Melokuhle,29.0,Employed,15265.18,KwaZulu-Natal,2025-06-30,15,3261.61,593.76,60876.16,Female
+CL-01406,Kopano,Nkosi,28.0,Employed,28738.7,Western Cape,2025-04-30,17,"R 7,041.73",8265.83,113891.32,Female
+CL-01407,Omphile,Melokuhle,38.0, Employed,28651.6,Western Cape,2025-06-30,15,8934.15,0.0,143160.19,Female
+CL-01408,Thabo,Melokuhle,64.0,Unemployed,4219.78,Gauteng ,2026-08-30,1,300.0,0.0,13397.92,Male
+CL-01409,Lesedi,Nkosi,21.0,Unemployed,9325.82,Free State,2026-08-30,1,6543.74,3800.67,10386.22,Female
+CL-01410,Lubanzi,Dlamini,35.0,Unemployed,5369.84,Gauteng,2024-02-29,31,1294.21,3628.38,73663.18,Male
+CL-01411,Kopano,Molefe,24.0,Employed,"R 40,558.99",Limpopo,2026-08-30,1,10191.96,5492.8,0.0,Female
+CL-01412,Lubanzi,Melokuhle,49.0,employed,17960.42,Mpumalanga,2026-08-30,1,5215.44,0.0,R 0.00,Male
+CL-01413,Omolemo,Khumalo,33.0,Employed,25571.07,Eastern Cape,2024-10-30,23,13411.54,3876.15,304882.12,Female
+CL-01414,Lubanzi,Enzokuhle,60.0,Employed,13108.8,Western Cape,2024-07-30,26,6998.19,9422.43,213609.47,Male
+CL-01415,Lerato,Molefe,50.0,Employed,19659.62,Free State,29/02/2024,31,,8498.9,274443.15,Female
+CL-01416,Kopano,Nkosi,60.0,Employed,22734.71,North West,2024-05-30,28,4037.45,0.0,131090.31,Male
+CL-01417,Omphile,Nkosi,52.0,Employed,25859.47,Eastern Cape,2024-07-30,26,5936.09,"R 8,246.65",143220.63,Female
+CL-01418,Omphile,Enzokuhle,42.0,Employed,32732.49,North West,2025-02-28,19,7215.47,6610.39,127608.74,Male
+CL-01419,Lerato,Molefe,64.0,Employed,51875.81,KwaZulu-Natal,2023-10-30,35,22937.41,18859.81,791209.41,Male
+CL-01420,Kopano,Molefe,44.0,Employed,36958.58,Western Cape,2023-06-30,39,15835.6,5707.16,606620.46,Male
+CL-01421,Thabo,Nkosi,68.0,Employed,41261.73,Mpumalanga,2023-05-30,40,"12,156.69",17366.65,507165.31,Female
+CL-01422,Kopano,Dlamini,70.0,Employed,52051.13,North West,2025-06-30,15,15413.6,7382.54,227791.28,Male
+CL-01423,Lerato,Molefe,50.0,Employed,34177.12,North West,2024-09-30,24,9490.09,10589.22,226201.2,Female
+CL-01424,Kopano,Nkosi,54.0,employed,25545.91,Northern Cape,2023-11-30,34,7102.67,5612.58,252332.25,Female
+CL-01425,Omphile,Melokuhle,33.0,Employed,42202.11,Western Cape,2024-10-30,23,"R 16,483.72",13254.64,355836.1,Female
+CL-01426,Lubanzi,Molefe,61.0,Employed,43516.54,Western Cape,2024-11-30,22,14143.83,19165.02,311901.31,Female
+CL-01427,Omolemo,Melokuhle,54.0,Unemployed,5440.71,Mpumalanga,30/11/2023,34,11752.42,15659.83,384226.02,Male
+CL-01428,Thabo,Nkosi,66.0,Employed,"R 12,934.20",Northern Cape,2023-07-30,38,"11,177.56",18678.04,420625.34,Male
+CL-01429,Lerato,Enzokuhle,34.0,Employed,17360.47,Northern Cape,2023-08-30,37,12676.27,15648.84,460812.09,Male
+CL-01430,Kopano,Molefe,60.0,Employed,22786.46,KwaZulu-Natal,2025-03-30,18,11208.82,12831.07,192827.09,Male
+CL-01431,Lesedi,Nkosi,44.0,Employed,37800.21,Eastern Cape,2025-09-30,12,11522.49,1510.5,141428.03,Male
+CL-01432,Omolemo,Nkosi,30.0,Employed,25734.96,Mpumalanga,2026-03-30,6,11324.53,8026.04,71044.19,Female
+CL-01433,Kopano,Nkosi,29.0,Unemployed,"R 5,602.62",Northern Cape,2026-06-30,3,,1266.17,2175.47,Male
+CL-01434,Lubanzi,Khumalo,49.0,Employed,48882.04,Gauteng,2025-11-30,10,22153.61,23968.92,"R 226,725.65",Female
+CL-01435,Kopano,Molefe,36.0,Employed,46233.21,Northern Cape,2026-08-30,1,16567.37,"R 10,307.36","4,406.77",Female
+CL-01436,Omphile,Enzokuhle,26.0,Employed,46374.79,North West,2026-07-30,2,16140.93,,41824.07,Male
+CL-01437,Lerato,Khumalo,42.0,Employed,"R 15,805.21",Western Cape,2025-02-28,19,7197.02,9200.64,133856.67,Male
+CL-01438,Lerato,Enzokuhle,53.0,Employed,32778.13,North West,2025-04-30,17,"R 18,012.40","21,427.30",299439.49,Female
+CL-01439,Lubanzi,Melokuhle,36.0,Employed,19423.48,,2024-01-30,32,"R 3,209.54",5962.15,91578.74,Male
+CL-01440,Omphile,Molefe,68.0,Employed,11781.67,Northern Cape,2024-03-30,30,12612.34,17319.82,374990.53,Male
+CL-01441,Lerato,Dlamini,59.0,Unemployed,5112.61,Gauteng,,38,3659.63,0.0,165254.86,Female
+CL-01442,Omolemo,Melokuhle,46.0,Unemployed,3753.79,Northern Cape,2025-01-30,20,300.0,0.0,5113.61,Male
+CL-01443,Lesedi,Nkosi,67.0,Unemployed,9153.23,Western Cape,2023-07-30,38,2834.02,0.0,91670.94,Male
+CL-01444,Omolemo,Molefe,42.0,Employed,68487.07,,30/03/2025,18,16559.22,18632.56,310929.36,Female
+CL-01445,Lesedi,Khumalo,27.0,Unemployed,6172.31, Free State,2024-12-30,21,6286.86,11004.87,125417.02,Female
+CL-01446,Omolemo,Enzokuhle,22.0,Employed,84187.11,Mpumalanga,2026-04-30,5,22928.28,22342.5,118614.02,Female
+CL-01447,Omolemo,Molefe,67.0,Employed,28312.59,gauteng,2023-11-30,34,11728.98,9598.06,390306.13,Male
+CL-01448,Omphile,Nkosi,68.0,Unemployed,3941.83,KwaZulu-Natal,2023-11-30,34,7893.73,,"R 286,317.70",Female
+CL-01449,Omolemo,Enzokuhle,57.0,Employed,14069.22,Eastern Cape,2024-12-30,21,3883.5,5300.89,73282.96,Male
+CL-01450,Thabo,Enzokuhle,26.0,Unemployed,2716.51,Gauteng,2025-10-30,11,1511.78,10316.98,36199.59,Female
+CL-01451,Kopano,Molefe,35.0,Unemployed,"R 4,913.71",Gauteng,2023-11-30,34,300.0,13225.14,0.0,Male
+CL-01452,Lesedi,Molefe,23.0,Employed,19058.51,Gauteng,2026-07-30,2,"R 5,603.47",9023.54,7106.24,Male
+CL-01453,Lesedi,Nkosi,23.0,Employed,48090.62,Northern Cape,30/12/2025,9,25271.67,21640.7,"R 247,044.99",Female
+CL-01454,Thabo,Melokuhle,33.0,Employed,45333.37,Northern Cape,2024-10-30,23,18566.57,23374.84,"R 429,385.56",Male
+CL-01455,Thabo,Enzokuhle,49.0,Unemployed,4696.63,Mpumalanga,2024-02-29,31,2957.96,,123497.25,Male
+CL-01456,Omolemo,Dlamini,24.0,Unemployed,7370.43,Limpopo,2026-03-30,6,1461.05,557.25,4998.35,Male
+CL-01457,Kopano,Khumalo,70.0,Employed,"R 25,371.54",Gauteng,2026-02-28,7,8951.98,7370.32,66262.47,Male
+CL-01458,Lesedi,Molefe,43.0,Employed,25263.65,Western Cape,2024-12-30,21,"R 10,129.28",5509.51,239386.89,Female
+CL-01459,Thabo,Molefe,34.0,Employed,37852.81,Eastern Cape,2026-08-30,1,11089.19,8019.17,0.0,Male
+CL-01460,Thabo,Enzokuhle,46.0,Employed,54806.43,Northern Cape,2024-01-30,32,20894.14,13776.74,645684.08,Male
+CL-01461,Kopano,Melokuhle,60.0,Employed,31025.42,,2024-06-30,27,8209.22,14805.67,210511.7,Female
+CL-01462,Kopano,Enzokuhle,36.0,Unemployed,7254.14,North West,2024-11-30,22,850.05,6550.47,30088.25,Female
+CL-01463,Lubanzi,Enzokuhle,23.0,Employed,"39,994.82",Eastern Cape,2026-08-30,1,14573.15,18550.48,0.0,Female
+CL-01464,Thabo,Molefe,23.0,Unemployed,3566.82,KwaZulu-Natal,2026-08-30,1,300.0,0.0,8658.69,Male
+CL-01465,Kopano,Melokuhle,63.0,Employed,38701.49,North West,2024-03-30,30,16694.91,25628.82,"R 508,221.14",Male
+CL-01466,Lubanzi,Nkosi,26.0,Employed,58965.23,Free State,2026-03-30,6,19090.16,7342.54,142742.41,Female
+CL-01467,Lubanzi,Khumalo,52.0,Employed,"67,848.36",Limpopo,2025-05-30,16,15646.04,7833.61,264973.36,Male
+CL-01468,Lesedi,Melokuhle,40.0,Unemployed,8271.45,Limpopo,2025-06-30,15,4705.63,"R 2,733.95","R 75,681.17",Male
+CL-01469,Omphile,Nkosi,59.0,Employed,26322.4,Limpopo,2022-04-30,53,5256.19,16953.06,297606.04,Female
+CL-01470,Kopano,Khumalo,,Employed,23431.56,Limpopo,,14,11313.57,11613.64,"R 165,934.65",Male
+CL-01471,Omphile,Melokuhle,65.0, Employed,34281.64,North West,2023-06-30,39,12227.12,12674.38,470416.7,Male
+CL-01472,Lubanzi,Enzokuhle,55.0,Unemployed,10521.25,Free State ,29/02/2024,31,12322.28,9118.9,365966.18,Female
+CL-01473,Omphile,Dlamini,,Employed ,32018.24,KwaZulu-Natal,2024-02-29,31,15964.2,8824.55,486919.02,Male
+CL-01474,Thabo,Enzokuhle,31.0,Employed,32338.93,free state,2026-01-30,8,7419.19,12684.95,58792.46,Male
+CL-01475,Thabo,Khumalo,69.0,Unemployed,4152.65,KwaZulu-Natal,2025-11-30,10,R 300.00,6109.2,5450.26,Female
+CL-01476,Omphile,Khumalo,36.0,Unemployed,4862.53,Western Cape,2025-11-30,10,360.39,8921.73,0.0,Female
+CL-01477,Thabo,Enzokuhle,45.0,Employed,24053.29,Eastern Cape,2024-08-30,25,5069.46,9184.1,123662.59,Female
+CL-01478,Omolemo,Melokuhle,40.0,Employed,27746.26,Free State,2026-04-30,5,16306.53,0.0,"81,932.82",Female
+CL-01479,Lerato,Khumalo,32.0,Employed,59310.39,free state,2026-01-30,8,19291.98,9347.31,162001.4,Female
+CL-01480,Thabo,Dlamini,41.0,Employed,23174.07,Eastern Cape,2026-01-30,8,11848.53,12535.3,"R 117,563.44",Male
+CL-01481,Omolemo,Enzokuhle,28.0,Employed,26664.96,Limpopo,2024-10-30,23,9139.38,8061.77,212804.81,Female
+CL-01482,Kopano,Enzokuhle,21.0,Employed,17162.3,KwaZulu-Natal,2025-10-30,11,6163.89,3653.79,55068.89,Male
+CL-01483,Lesedi,Melokuhle,35.0,Employed,36674.42,Mpumalanga,2025-03-30,18,12840.87,6509.29,205682.51,Male
+CL-01484,Lerato,Molefe,26.0,Employed,50104.09,KwaZulu-Natal,2025-08-30,13,20760.77,21915.7,279508.13,Female
+CL-01485,Lubanzi,Molefe,41.0,Employed,56704.61, Northern Cape,2025-06-30,15,19963.23,19104.49,287281.26,Male
+CL-01486,Lerato,Khumalo,64.0,Employed,"R 28,665.99",Mpumalanga,2024-03-30,30,7253.4,11828.4,229737.6,Female
+CL-01487,Lerato,Dlamini,29.0,Employed,34253.43,Mpumalanga,2026-08-30,1,17359.08,10240.53,36922.96,Male
+CL-01488,Lubanzi,Enzokuhle,21.0,Employed,"R 24,152.61",Eastern Cape,2026-08-30,1,7433.65,"R 7,143.66",0.0,Female
+CL-01489,Lesedi,Enzokuhle,26.0,Unemployed,3695.42,Limpopo,2026-01-30,8,1004.75,0.0,15792.52,Female
+CL-01490,Kopano,Molefe,46.0,Employed,30228.94,Eastern Cape,2024-12-30,21,964.46,"R 3,155.27",38350.45,Male
+CL-01491,Lubanzi,Melokuhle,34.0,Employed,26737.4,North West,2024-10-30,23,12471.06,,"R 301,100.92",Male
+CL-01492,Lerato,Nkosi,45.0,Employed,,Gauteng,2023-12-30,33,11282.83,4713.06,342984.03,Male
+CL-01493,Lubanzi,Enzokuhle,22.0,Employed,32298.45,North West,2025-01-30,20,12089.27,10092.71,229834.22,Male
+CL-01494,Lubanzi,Enzokuhle,37.0,Employed,22576.36,Northern Cape,2026-06-30,3,6648.74,,2023.69,Female
+CL-01495,Lesedi,Nkosi,41.0,Employed,23143.13,KwaZulu-Natal,2025-10-30,11,"R 6,534.16",0.0,79204.33,Male
+CL-01496,Lesedi,Molefe,42.0,Unemployed,6041.15,KwaZulu-Natal ,2025-01-30,20,2521.86,0.0,56223.68,Female
+CL-01497,Omolemo,Molefe,48.0,Employed,,,2023-01-30,44,,30747.62,1430347.47,Female
+CL-01498,Lerato,Enzokuhle,60.0,Employed ,14585.1,Eastern Cape,2023-05-30,40,9556.35,20927.69,378042.51,Male
+CL-01499,Lubanzi,Khumalo,44.0,Employed,"14,204.38",Limpopo,2024-05-30,28,"R 5,805.60",9070.89,173766.88,Female
+CL-01500,Omolemo,Enzokuhle,63.0,Employed,16422.68,Gauteng,2024-10-30,23,10508.98,14407.17,243778.17,Male
+CL-01501,Lesedi,Enzokuhle,47.0,Unemployed,4879.87,Eastern Cape,2025-12-30,9,2757.65,2087.49,26866.62,Female
+CL-01502,Lerato,Dlamini,34.0,Employed,39967.68,Limpopo,2025-02-28,19,12173.09,"R 9,101.52",226178.79,Female
+CL-01503,Omolemo,Melokuhle,32.0,Unemployed,7859.5,NORTHERN CAPE,2026-08-30,1,4314.15,4427.11,0.0,Female
+CL-01504,Lesedi,Melokuhle,37.0,Unemployed,3029.49,Eastern Cape,2025-11-30,10,300.0,0.0,2761.22,Male
+CL-01505,Lerato,Khumalo,50.0,Employed,33514.75,Western Cape ,2025-02-28,19,12890.21,15792.3,245643.31,Male
+CL-01506,Lerato,Nkosi,33.0,Employed,18650.91,Eastern Cape,2024-06-30,27,2377.42,0.00,72803.87,Female
+CL-01507,Lubanzi,Enzokuhle,66.0,Employed,23125.08,Mpumalanga,2024-08-30,25,5487.71,11951.08,146943.65,Female
+CL-01508,Kopano,Khumalo,44.0,Unemployed,3226.25,North West,2026-08-30,1,300.00,"R 1,322.57",1502.06,Female
+CL-01509,Thabo,Nkosi,64.0,Employed,12154.17,North West,2023-12-30,33,5601.83,7389.71,"R 200,189.15",Male
+CL-01510,Kopano,Molefe,55.0,Employed,14889.67,Limpopo,2025-05-30,16,12133.58,,188888.37,Male
+CL-01511,Kopano,Khumalo,37.0,Unemployed,9953.14,Gauteng,2025-08-30,13,4310.47,434.59,35819.71,Female
+CL-01512,Thabo,Enzokuhle,32.0,Unemployed,4326.17,,2025-12-30,9,5192.76,11522.04,53413.57,Male
+CL-01513,Lesedi,Nkosi,58.0,Employed,29249.63,Mpumalanga,2024-11-30,22,19367.22,16121.4,427848.13,Female
+CL-01514,Omolemo,Enzokuhle,37.0,Employed,34862.3,Free State,2024-12-30,21,13995.29,14578.6,300858.13,Female
+CL-01515,Kopano,Melokuhle,33.0,Unemployed,3957.22,Northern Cape,2026-08-30,1,300.0,0.0,0.0,Female
+CL-01516,Kopano,Dlamini,67.0,Employed,12755.78,Northern Cape,2024-09-30,24,3775.49,6013.08,115682.84,Male
+CL-01517,Thabo,Enzokuhle,45.0,Unemployed,1800.0,Gauteng,2024-09-30,24,2750.37,R 0.00,75955.9,Male
+CL-01518,Lerato,Melokuhle,23.0,Employed,6850.59,Northern Cape,30/08/2026,1,,2142.92,0.0,Male
+CL-01519,Omphile,Melokuhle,45.0,EMPLOYED,46801.66,North West,2026-08-30,1,13273.38,12320.04,177.04,Female
+CL-01520,Lerato,Molefe,44.0,Unemployed,4854.87,Limpopo,2024-10-30,23,7169.38,"10,095.02",179975.78,Male
+CL-01521,Omolemo,Nkosi,64.0,Employed,"R 38,974.29",Eastern Cape,2023-06-30,39,"R 18,224.45",13693.68,695328.71,Male
+CL-01522,Lerato,Nkosi,56.0,Employed,16972.19,limpopo,2024-10-30,23,1328.84,2576.51,62222.5,Male
+CL-01523,Omolemo,Melokuhle,30.0,Employed,43015.92,Mpumalanga,,1,"R 11,201.37",11660.95,2616.5,Male
+CL-01524,Kopano,Nkosi,28.0,Employed,"121,269.31",Northern Cape,2025-06-30,15,36540.38,27701.88,572192.73,Male
+CL-01525,Kopano,Dlamini,51.0,Unemployed,3765.87,Limpopo,2026-05-30,4,4654.48,3154.7,16035.29,Male
+CL-01526,Kopano,Nkosi,23.0,Employed,"R 36,302.17",,2026-01-30,8,16541.72,23107.38,154464.24,Male
+CL-01527,Lerato,Dlamini,36.0,Employed ,"10,915.44",Eastern Cape,2026-06-30,3,14327.72,6691.01,32694.99,Male
+CL-01528,Lesedi,Enzokuhle,27.0,Employed,31910.84,Western Cape,,1,9138.83,12892.05,9402.54,Female
+CL-01529,Omolemo,Enzokuhle,22.0,Unemployed,6527.57,free state,2026-08-30,1,1703.65,0.0,12970.14,Female
+CL-01530,Kopano,Melokuhle,66.0,Employed,27671.2,Northern Cape,2024-06-30,27,12754.21,16226.94,353632.78,Male
+CL-01531,Omphile,Nkosi,25.0,Unemployed,7342.47,Mpumalanga,2026-08-30,1,988.76,5162.67,16399.42,Male
+CL-01532,Kopano,Dlamini,21.0,Unemployed,6220.16,Limpopo,2025-11-30,10,2978.59,1492.76,22961.26,Female
+CL-01533,Omphile,Nkosi,67.0,Employed,12973.19,Mpumalanga,2024-08-30,25,4647.82,809.05,117382.8,Female
+CL-01534,Omolemo,Nkosi,30.0,Unemployed,1896.18,Mpumalanga,2025-02-28,19,R 300.00,0.0,23177.44,Male
+CL-01535,Kopano,Enzokuhle,61.0,Employed,21362.91,Western Cape,2024-04-30,29,9270.51,7589.2,258971.32,Male
+CL-01536,Omolemo,Enzokuhle,,Employed,13260.7,Eastern Cape,2026-08-30,1,4563.71,6826.97,12579.29,Female
+CL-01537,Omphile,Melokuhle,28.0,Employed,55905.69,Western Cape,2026-08-30,1,22590.14,11786.76,19521.9,Female
+CL-01538,Kopano,Melokuhle,26.0,Unemployed,7158.26,Eastern Cape,2026-08-30,1,3409.24,3849.4,6291.48,Female
+CL-01539,Lerato,Molefe,56.0,Unemployed,11992.5,Limpopo,2024-07-30,26,1372.66,0.0,36872.84,Male
+CL-01540,Omphile,Khumalo,52.0,Unemployed,"R 5,386.06",NORTH WEST,2025-03-30,18,2642.66,3513.28,36531.98,Male
+CL-01541,Omphile,Dlamini,44.0,Unemployed,7459.47,KwaZulu-Natal,30/08/2026,1,300.0,R 0.00,0.00,Female
+CL-01542,Omphile,Enzokuhle,33.0,Employed,24960.67,Mpumalanga,,5,4538.9,4228.1,24723.54,Female
+CL-01543,Kopano,Khumalo,25.0,Unemployed,6295.19,KwaZulu-Natal,2026-08-30,1,5418.38,2305.84,3980.24,Female
+CL-01544,Lubanzi,Khumalo,49.0,Unemployed,5321.74,Gauteng,2023-10-30,35,3376.1,1128.96,140181.65,Female
+CL-01545,Lesedi,Enzokuhle,32.0,Employed,32075.9,Northern Cape,2026-08-30,1,14185.8,7829.41,28325.18,Female
+CL-01546,Thabo,Melokuhle,50.0, Employed,28295.9,Mpumalanga,2026-03-30,6,2859.96,0.0,21219.48,Female
+CL-01547,Omolemo,Dlamini,55.0,Employed,23621.43,Gauteng,2023-11-30,34,8841.57,4336.31,289929.26,Female
+CL-01548,Lerato,Khumalo,63.0,Unemployed,9846.3,Gauteng,2023-04-30,41,4164.05,13721.84,159189.56,Male
+CL-01549,Lesedi,Nkosi,45.0,Employed,48632.92,WESTERN CAPE,,10,19650.93,14247.8,224142.67,Male
+CL-01550,Kopano,Dlamini,21.0,UNEMPLOYED,2988.84, Free State,2026-08-30,1,4560.6,0.0,0.0,Female
+CL-01551,Kopano,Melokuhle,,Employed,21509.57,Western Cape,2025-03-30,18,10720.98,7382.7,"194,571.64",Female
+CL-01552,Lerato,Molefe,63.0,Employed,19828.75,Mpumalanga,2026-05-30,4,12865.7,"15,076.86",56516.09,Female
+CL-01553,Kopano,Dlamini,,Employed,19931.26,Eastern Cape,30/08/2026,1,5896.26,1348.52,"R 1,537.73",Female
+CL-01554,Lerato,Nkosi,51.0,Employed,13264.49,Mpumalanga,2025-03-30,18,10741.64,18002.7,"179,318.63",Male
+CL-01555,Omphile,Melokuhle,43.0,Unemployed,6372.16,Gauteng,2024-01-30,32,696.5,538.17,11299.59,Female
+CL-01556,Lubanzi,Melokuhle,29.0,Employed,"R 53,374.78",Gauteng,2026-05-30,4,13489.27,13469.32,46306.02,Male
+CL-01557,Kopano,Melokuhle,65.0,Unemployed,4968.56,Western Cape,2024-04-30,29,6618.46,13938.48,182002.31,Female
+CL-01558,Lubanzi,Nkosi,59.0,Employed,36459.94,Western Cape,2023-09-30,36,8232.92,12938.67,314973.04,Male
+CL-01559,Omolemo,Enzokuhle,70.0,Unemployed,2977.2,Western Cape,2022-05-30,52,6339.12,4211.69,329506.34,Female
+CL-01560,Lubanzi,Nkosi,63.0,Employed,"34,154.21",KwaZulu-Natal,30/12/2024,21,12692.99,7536.61,259219.61,Female
+CL-01561,Lubanzi,Molefe,35.0,Employed,24062.32,North West,2025-09-30,12,12781.37,17172.94,154873.81,Female
+CL-01562,Omolemo,Khumalo,33.0,Employed,20635.34,Mpumalanga,2024-04-30,29,8394.6,6011.06,252794.92,Male
+CL-01563,Thabo,Molefe,33.0,Employed,28359.37,KwaZulu-Natal,2026-08-30,1,9951.59,12953.52,5126.91,Female
+CL-01564,Kopano,Molefe,66.0,Employed,20493.35,Northern Cape,2023-06-30,39,10819.36,10728.51,434582.73,Male
+CL-01565,Lubanzi,Nkosi,48.0,Unemployed,4281.29,Limpopo,2025-12-30,9,476.85,2840.52,0.0,Male
+CL-01566,Lubanzi,Nkosi,43.0,Employed,40478.69,North West,2025-04-30,17,11515.26,4030.45,212157.72,Male
+CL-01567,Lerato,Khumalo,69.0,Employed,29216.83,Northern Cape,2024-05-30,28,12849.0,10089.94,"R 359,646.54",Male
+CL-01568,Lerato,Enzokuhle,51.0,Employed,"R 22,362.92",Limpopo,2025-10-30,11,8265.44,3584.58,90247.66,Male
+CL-01569,Omolemo,Melokuhle,66.0,Employed,16351.63,Northern Cape,2025-02-28,19,"R 5,437.16",7932.75,93603.82,Male
+CL-01570,Kopano,Dlamini,70.0,Employed,12840.0,KwaZulu-Natal,2023-11-30,34,6181.98,9457.01,192997.28,Female
+CL-01571,Omphile,Dlamini,24.0,Employed ,"28,949.85",North West,2025-05-30,16,16297.37,16607.36,237424.5,Male
+CL-01572,Omphile,Dlamini,39.0,unemployed,3355.52,Gauteng,,13,,611.0,4372.38,Male
+CL-01573,Kopano,Melokuhle,57.0,Unemployed,12159.85,KwaZulu-Natal,2024-08-30,25,"R 4,198.69",1921.9,113194.56,Female
+CL-01574,Lerato,Khumalo,61.0,Employed,13388.16,Northern Cape,30/01/2024,32,413.65,5531.47,0.0,Male
+CL-01575,Kopano,Dlamini,28.0,Employed,28966.86,Gauteng,2026-08-30,1,9779.59,2803.36,0.0,Male
+CL-01576,Lerato,Molefe,36.0,employed,25342.73,Free State,2025-01-30,20,,17037.58,227425.08,Female
+CL-01577,Thabo,Molefe,48.0,Employed,39363.44,Eastern Cape,2024-06-30,27,17153.35,15547.8,457752.66,Female
+CL-01578,Thabo,Khumalo,60.0,Employed,34789.95, Western Cape,2022-06-30,51,14168.57,"R 14,980.69",717759.92,Female
+CL-01579,Thabo,Molefe,26.0,Unemployed,2597.28,KwaZulu-Natal,30/06/2026,3,5546.18,7434.13,14834.05,Female
+CL-01580,Thabo,Enzokuhle,51.0,Employed,33778.1,Free State,2025-05-30,16,,12717.44,"248,662.26",Female
+CL-01581,Lubanzi,Molefe,35.0,Employed,16061.52,Mpumalanga,2025-02-28,19,10823.08,2392.36,223128.03,Female
+CL-01582,Lerato,Molefe,31.0,Unemployed,6823.43,Limpopo,2025-03-30,18,7546.52,2906.34,163913.83,Male
+CL-01583,Lerato,Melokuhle,46.0,Employed,23751.11,Gauteng,2025-09-30,12,14481.25,"R 17,835.05",151026.35,Female
+CL-01584,Kopano,Nkosi,41.0,Unemployed,6767.77,KwaZulu-Natal,2025-10-30,11,3081.43,4648.05,21913.4,Female
+CL-01585,Kopano,Dlamini,52.0,Employed,11828.88,Western Cape,2024-07-30,26,1063.25,0.0,37423.42,Female
+CL-01586,Lerato,Enzokuhle,36.0,Employed,36462.82,Western Cape,2026-05-30,4,14696.23,13581.85,52428.5,Male
+CL-01587,Lubanzi,Dlamini,62.0,Unemployed,3216.22,Eastern Cape,2024-11-30,22,5898.86,4670.88,141825.89,Male
+CL-01588,Omolemo,Molefe,24.0,Unemployed,8149.51,Mpumalanga,2026-02-28,7,9590.84,4102.9,70035.45,Male
+CL-01589,Lerato,Molefe,64.0,Unemployed,3890.78,Eastern Cape,2023-07-30,38,8575.88,5430.27,347992.22,Male
+CL-01590,Lesedi,Dlamini,22.0,Employed,16248.41,Western Cape,2026-08-30,1,13120.22,15356.21,27718.25,Female
+CL-01591,Thabo,Dlamini,57.0,Unemployed,7858.25,GAUTENG,2026-04-30,5,5998.95,0.0,"R 44,848.97",Male
+CL-01592,Lesedi,Khumalo,38.0,Employed,12587.57,Eastern Cape,2026-08-30,1,5841.99,928.57,75.79,Female
+CL-01593,Lesedi,Nkosi,40.0,Employed,43338.54,Eastern Cape,2026-07-30,2,9299.62,8316.36,17234.8,Female
+CL-01594,Omolemo,Dlamini,21.0,Employed,24017.94,North West ,2026-08-30,1,9556.53,15682.52,5282.98,Female
+CL-01595,Omphile,Dlamini,56.0,Employed,24831.08,Mpumalanga,2024-11-30,22,7584.31,11449.99,145772.35,Female
+CL-01596,Omolemo,Molefe,29.0,Employed,11452.57,Northern Cape,2026-08-30,1,5439.21,596.11,26043.98,Female
+CL-01597,Lesedi,Dlamini,53.0,Employed,24231.96,Gauteng,2025-06-30,15,9295.84,"R 16,789.77",149872.97,Female
+CL-01598,Omolemo,Enzokuhle,57.0,Unemployed,13168.59,Eastern Cape,30/05/2025,16,7520.82,1199.37,115502.69,Male
+CL-01599,Thabo,Enzokuhle,63.0,Unemployed,3066.66,Western Cape,2024-10-30,23,2735.61,6626.32,81183.27,Male
+CL-01600,Omphile,Enzokuhle,56.0,Unemployed,5475.21,Western Cape,2023-09-30,36,7720.63,12757.78,269117.69,Male
+CL-01601,Thabo,Khumalo,36.0,Employed ,27134.95,Northern Cape,2025-02-28,19,335.13,0.0,0.0,Female
+CL-01602,Omolemo,Khumalo,57.0,Unemployed,4953.14,Free State,2024-09-30,24,"R 4,377.92",10080.07,119173.23,Male
+CL-01603,Omolemo,Melokuhle,62.0,Employed,"R 39,186.79",Mpumalanga,2024-11-30,22,18209.0,13761.03,382698.14,Female
+CL-01604,Omphile,Molefe,36.0,Employed,9034.16,KwaZulu-Natal,2026-01-30,8,10978.42,"R 13,060.18",85086.53,Male
+CL-01605,Thabo,Enzokuhle,27.0, Unemployed,17165.51,Western Cape,2025-10-30,11,9446.71,0.0,106799.58,Male
+CL-01606,Thabo,Melokuhle,65.0,Employed,56566.98,Northern Cape,2023-11-30,34,25663.67,24692.72,877961.39,Female
+CL-01607,Lesedi,Nkosi,28.0,Employed,"R 51,897.43",Mpumalanga,2026-08-30,1,17419.4,11391.43,29297.01,Female
+CL-01608,Kopano,Enzokuhle,,Employed,31349.67, Limpopo,2025-01-30,20,11455.21,16996.27,237236.05,Male
+CL-01609,Kopano,Nkosi,32.0,Employed,22494.93,Free State,2026-08-30,1,"9,896.37",7815.49,17594.87,Male
+CL-01610,Kopano,Molefe,27.0,Unemployed,2862.77,Eastern Cape,2025-12-30,9,2425.33,9782.39,10757.46,Female
+CL-01611,Thabo,Nkosi,59.0,Employed,22481.49,Eastern Cape,2023-12-30,33,6513.96,11658.11,219080.06,Female
+CL-01612,Omolemo,Nkosi,28.0,Employed,33754.85,Limpopo,2026-04-30,5,9681.59,7683.2,27330.25,Female
+CL-01613,Lesedi,Dlamini,54.0,Employed,17647.95,KwaZulu-Natal,30/05/2023,40,4170.63,12141.2,"R 188,695.28",Female
+CL-01614,Thabo,Dlamini,55.0,Employed,37399.6,Eastern Cape,2025-07-30,14,14910.04,17045.52,189104.61,Female
+CL-01615,Lesedi,Khumalo,24.0,Unemployed,5533.75,KwaZulu-Natal,2026-01-30,8,3237.14,"R 6,370.29",21046.93,Male
+CL-01616,Lubanzi,Dlamini,29.0,UNEMPLOYED,1800.0,Free State,2026-01-30,8,778.97,0.0,0.0,Female
+CL-01617,Kopano,Molefe,60.0,Unemployed,4952.73,Northern Cape,2024-09-30,24,1653.76,0.0,29467.85,Female
+CL-01618,Omphile,Dlamini,46.0,Unemployed,3634.87,Northern Cape,2025-04-30,17,"4,822.66",13062.85,82173.27,Male
+CL-01619,Lesedi,Dlamini,27.0,Employed,37744.81,Free State,30/01/2026,8,15669.06,6681.99,117949.84,Male
+CL-01620,Lesedi,Nkosi,70.0,Unemployed,9506.87,Gauteng,2023-06-30,39,"1,620.21",10668.86,"79,207.70",Male
+CL-01621,Kopano,Enzokuhle,,Employed,39605.79,Northern Cape,2024-08-30,25,9496.07,13919.44,240578.43,Male
+CL-01622,Lerato,Khumalo,21.0,Employed,"20,124.78",KwaZulu-Natal,2026-05-30,4,10841.67,5417.24,36885.95,Female
+CL-01623,Kopano,Nkosi,67.0,Employed,38737.02,Eastern Cape,2023-08-30,37,9424.63,1679.57,346841.07,Female
+CL-01624,Lerato,Nkosi,21.0,Employed,24097.62,North West,30/08/2026,1,10442.24,5583.85,27518.04,Female
+CL-01625,Omolemo,Enzokuhle,,Unemployed,7775.03,KwaZulu-Natal,2024-06-30,27,10487.38,21710.99,295883.49,Female
+CL-01626,Thabo,Melokuhle,70.0,Employed,21447.7,Free State,2024-10-30,23,14429.55,9402.89,315936.96,Male
+CL-01627,Omphile,Enzokuhle,,Unemployed,17632.85,Northern Cape,2024-03-30,30,10406.2,7621.17,302656.74,Female
+CL-01628,Thabo,Nkosi,50.0,Employed,67558.18,KwaZulu-Natal,2023-03-30,42,25783.17,"R 18,995.97",1089540.1,Male
+CL-01629,Omolemo,Enzokuhle,40.0,Employed,24824.55,Mpumalanga,2025-08-30,13,17300.23,20760.09,229850.16,Male
+CL-01630,Lesedi,Melokuhle,27.0,Unemployed,3656.48,Western Cape,2026-08-30,1,300.0,R 0.00,0.0,Male
+CL-01631,Omolemo,Khumalo,49.0,Employed,20093.56,Northern Cape,2025-07-30,14,6144.46,3634.48,"96,510.21",Female
+CL-01632,Kopano,Molefe,65.0,Employed,"R 15,692.32",Eastern Cape,,41,10684.27,20070.04,425582.65,Female
+CL-01633,Lubanzi,Enzokuhle,25.0,Employed,"R 23,239.05",Limpopo,30/09/2025,12,7461.48,10389.74,107791.34,Female
+CL-01634,Lubanzi,Melokuhle,65.0,Unemployed,9678.73,Free State,,31,9868.82,"R 6,719.10",313345.72,Female
+CL-01635,Omolemo,Melokuhle,41.0,Unemployed,3001.07,Eastern Cape,2024-08-30,25,3008.65,0.0,59369.25,Female
+CL-01636,Lubanzi,Melokuhle,47.0,Employed,"17,119.89",Eastern Cape,2024-10-30,23,7776.25,14719.75,171446.59,Male
+CL-01637,Lerato,Enzokuhle,29.0,Employed,28014.42,Western Cape,2024-12-30,21,9497.5,10032.14,191796.99,Female
+CL-01638,Lerato,Enzokuhle,52.0,Employed,33036.97,KwaZulu-Natal,2024-03-30,30,10490.05,3907.52,"R 316,939.86",Male
+CL-01639,Omolemo,Khumalo,30.0,Employed,57206.28,Eastern Cape,2024-09-30,24,17400.29,7052.63,414751.23,Female
+CL-01640,Lerato,Enzokuhle,34.0,Employed,30811.77,Eastern Cape,30/06/2025,15,12049.73,"5,545.61",164709.1,Female
+CL-01641,Kopano,Khumalo,57.0,Employed,35417.75,KwaZulu-Natal,30/12/2023,33,10422.89,5737.06,324435.75,Female
+CL-01642,Omphile,Dlamini,23.0,Employed,36720.99,Mpumalanga,2026-07-30,2,15731.84,"R 2,116.54","R 39,150.00",Female
+CL-01643,Lerato,Khumalo,43.0,Employed,14949.07,North West,2025-11-30,10,8456.33,2491.03,88570.66,Female
+CL-01644,Lubanzi,Khumalo,50.0,Employed,16374.04,Northern Cape,30/08/2023,37,"11,624.11",8643.96,431569.64,Female
+CL-01645,Lubanzi,Khumalo,27.0,Employed,15453.36,Northern Cape,30/12/2025,9,2149.88,1024.51,23139.16,Male
+CL-01646,Lubanzi,Molefe,35.0,Employed,13717.42,Mpumalanga,2025-01-30,20,300.0,"R 11,680.55",0.0,Male
+CL-01647,Lubanzi,Enzokuhle,38.0,Unemployed,5427.3,Eastern Cape,2025-06-30,15,3443.12,3594.83,"R 54,222.69",Male
+CL-01648,Lesedi,Khumalo,54.0,Employed,29883.92,Mpumalanga,2025-05-30,16,21272.86,17038.58,375904.81,Female
+CL-01649,Omolemo,Dlamini,69.0,Unemployed,5478.73,Gauteng,2024-02-29,31,8703.97,13023.13,286266.99,Female
+CL-01650,Lubanzi,Khumalo,62.0,Employed,"R 7,490.18",North West,2023-04-30,41,"R 3,173.05",6408.0,126057.2,Male
+CL-01651,Omphile,Melokuhle,30.0,Employed,69736.61,Free State,30/06/2025,15,24279.23,21931.81,"R 356,861.20",Male
+CL-01652,Kopano,Enzokuhle,21.0,Employed,16925.92,Gauteng,2026-08-30,1,8939.09,8749.22,0.0,Male
+CL-01653,Lerato,Molefe,23.0,Employed,69614.07,Eastern Cape,2026-06-30,3,17284.02,14187.44,66813.79,Female
+CL-01654,Omolemo,Nkosi,50.0,Employed,,KwaZulu-Natal,2023-07-30,38,11616.96,27176.54,452456.92,Female
+CL-01655,Kopano,Dlamini,28.0,Unemployed,3998.02,Eastern Cape,2026-03-30,6,2048.68,7490.68,"R 4,678.49",Male
+CL-01656,Omolemo,Melokuhle,32.0,Unemployed,8786.11,Western Cape,30/08/2026,1,3551.38,0.0,0.0,Female
+CL-01657,Lerato,Khumalo,63.0,Employed,30935.88,Western Cape,2022-11-30,46,12498.39,16709.95,"558,752.08",Male
+CL-01658,Lubanzi,Enzokuhle,64.0,Employed,"R 15,325.12",Eastern Cape,2023-11-30,34,"R 11,345.88",8750.35,391981.5,Female
+CL-01659,Thabo,Enzokuhle,62.0,UNEMPLOYED,2915.41,KwaZulu-Natal,2024-07-30,26,447.97,6213.79,10396.39,Female
+CL-01660,Thabo,Melokuhle,33.0,Employed,,Northern Cape,2026-02-28,7,9999999,0.0,11782.29,Female
+CL-01661,Omphile,Enzokuhle,51.0,Employed,37759.12,KwaZulu-Natal,2024-02-29,31,14992.37,"9,465.61",465973.81,Female
+CL-01662,Omphile,Enzokuhle,51.0,Unemployed,2568.22,KwaZulu-Natal,2025-06-30,15,300.0,4385.54,18034.62,Male
+CL-01663,Omphile,Melokuhle,30.0,Employed,62045.8,Northern Cape,2025-01-30,20,19569.77,22078.58,396569.39,Female
+CL-01664,Lesedi,Khumalo,,Employed,18708.11,North West,2024-09-30,24,12093.18,14660.31,301839.5,Male
+CL-01665,Lesedi,Molefe,47.0,Employed,28879.44,Western Cape,2024-12-30,21,12830.57,16618.6,240186.39,Male
+CL-01666,Kopano,Melokuhle,40.0,Employed ,14002.22,Western Cape,2025-05-30,16,9825.15,11503.2,139921.51,Female
+CL-01667,Lesedi,Melokuhle,58.0,Employed,22137.61,Western Cape,2024-10-30,23,11040.55,12141.67,248831.65,Female
+CL-01668,Thabo,Melokuhle,54.0,Unemployed,3960.09,Free State,2023-12-30,33,12451.23,,426004.62,Male
+CL-01669,Lesedi,Khumalo,47.0,Employed,32493.25,Mpumalanga,2025-11-30,10,9250.31,,118830.55,Male
+CL-01670,Omphile,Nkosi,57.0,unemployed,3670.1,Eastern Cape,2026-01-30,8,4070.31,9735.02,30263.14,Female
+CL-01671,Omphile,Enzokuhle,59.0,Unemployed,2658.0,WESTERN CAPE,29/02/2024,31,1722.17,"R 5,134.38",44825.05,Male
+CL-01672,Thabo,Melokuhle,49.0,Unemployed,8521.36,,30/07/2024,26,8292.89,9046.25,188245.65,Male
+CL-01673,Omolemo,Melokuhle,34.0,Employed,41987.05,Mpumalanga,2025-05-30,16,14246.44,"R 20,774.47",240033.0,Male
+CL-01674,Omphile,Khumalo,58.0,Employed,25455.6,Eastern Cape,2024-05-30,28,16200.52,15442.27,445911.92,Male
+CL-01675,Omphile,Dlamini,56.0,Employed,22248.84,Gauteng,2025-01-30,20,6803.72,"R 8,277.10",177491.0,Female
+CL-01676,Kopano,Dlamini,70.0,Employed,"18,504.45",Mpumalanga,2023-06-30,39,13454.99,17198.72,514392.93,Female
+CL-01677,Omolemo,Enzokuhle,28.0,Unemployed,9973.75,Mpumalanga,2026-02-28,7,6621.43,5848.4,75823.84,Female
+CL-01678,Lesedi,Molefe,41.0,EMPLOYED,"R 60,003.76",Free State ,2025-11-30,10,19504.27,11841.37,205519.82,Male
+CL-01679,Kopano,Dlamini,67.0,Unemployed,3655.17,Northern Cape,2024-07-30,26,5341.34,9395.59,124479.2,Male
+CL-01680,Lerato,Nkosi,46.0,Employed,28273.08,North West,2023-07-30,38,12218.48,13583.53,467552.13,Male
+CL-01681,Lesedi,Nkosi,68.0,Employed,22924.77,WESTERN CAPE,2025-08-30,13,9904.87,18572.75,139562.61,Male
+CL-01682,Lerato,Melokuhle,21.0,Employed,84113.43,Northern Cape,2025-12-30,9,26067.29,24500.69,231452.11,Female
+CL-01683,Kopano,Enzokuhle,22.0,Unemployed,2956.8,Western Cape,2026-08-30,1,300.0,0.0,12031.76,Male
+CL-01684,Thabo,Molefe,60.0,Employed,18393.3,Free State,2024-09-30,24,"6,519.74",11779.51,"R 167,897.05",Male
+CL-01685,Lubanzi,Molefe,38.0,Employed,22800.02,Northern Cape,2025-12-30,9,2358.68,5027.58,29576.89,Female
+CL-01686,Lerato,Dlamini,47.0,Unemployed,4762.36,Northern Cape,2026-08-30,1,5701.72,11562.37,5471.09,Female
+CL-01687,Lubanzi,Melokuhle,42.0,Employed,"27,885.73",Western Cape,2025-02-28,19,5917.13,4528.06,"95,976.28",Male
+CL-01688,Omolemo,Enzokuhle,41.0,Employed,18569.27,Western Cape,2025-10-30,11,6449.25,7596.84,69866.77,Female
+CL-01689,Omolemo,Molefe,,Employed,32095.91,KwaZulu-Natal,2026-01-30,8,13497.73,10902.9,"110,446.78",Female
+CL-01690,Kopano,Nkosi,25.0,Employed,52200.85,KwaZulu-Natal,2025-06-30,15,20512.08,17511.1,281416.55,Male
+CL-01691,Kopano,Melokuhle,59.0,Employed,13839.89,KwaZulu-Natal,2023-06-30,39,601.22,1096.88,25816.88,Female
+CL-01692,Lubanzi,Nkosi,65.0,Employed,15128.59,Eastern Cape,2023-02-28,43,7213.92,13603.58,308843.47,Female
+CL-01693,Lerato,Melokuhle,53.0,Employed,20618.33,KwaZulu-Natal,2024-08-30,25,10090.58,12905.04,234111.72,Female
+CL-01694,Lubanzi,Enzokuhle,40.0,Employed,21082.32,Mpumalanga,2025-06-30,15,8341.95,14882.32,120467.21,Female
+CL-01695,Kopano,Dlamini,29.0,Employed,67854.12,North West,2024-11-30,22,27318.91,22839.48,596650.1,Female
+CL-01696,Lesedi,Dlamini,55.0,Employed,42052.42,Free State,2023-05-30,40,12537.22,12167.6,528510.18,Female
+CL-01697,Kopano,Nkosi,44.0,EMPLOYED,40909.87,KwaZulu-Natal,2024-05-30,28,7272.41,13062.61,206709.19,Male
+CL-01698,Thabo,Melokuhle,,Employed ,22901.47,Mpumalanga,2026-08-30,1,11029.61,4880.3,25534.25,Female
+CL-01699,Lerato,Molefe,38.0,Employed,22661.47,Mpumalanga,2025-06-30,15,6694.93,12695.27,98774.55,Female
+CL-01700,Thabo,Khumalo,69.0,Employed,12952.36,Northern Cape,2023-10-30,35,300.0,10280.21,0.0,Female
+CL-01701,Lerato,Enzokuhle,34.0,Employed,37838.68,Northern Cape,2026-08-30,1,12022.96,15852.93,21435.75,Male
+CL-01702,Lerato,Molefe,29.0,Unemployed,,KwaZulu-Natal,2025-08-30,13,7250.15,9333.23,85037.39,Female
+CL-01703,Omphile,Dlamini,55.0,Unemployed,1877.42,Northern Cape,2022-12-30,45,300.0,3533.52,8801.6,Female
+CL-01704,Lesedi,Dlamini,30.0,Employed,"R 23,497.60",,2025-06-30,15,17288.87,15443.92,244591.38,Male
+CL-01705,Lubanzi,Melokuhle,66.0,Employed,24289.46,Gauteng,2023-02-28,43,7276.46,12669.4,313906.72,Male
+CL-01706,Lerato,Molefe,63.0,Employed,28211.18,Mpumalanga,2024-04-30,29,"R 11,194.59","R 9,249.40",339555.71,Female
+CL-01707,Lerato,Molefe,70.0, Unemployed,9013.67,,2024-03-30,30,775.23,11323.74,36315.08,Female
+CL-01708,Lerato,Enzokuhle,66.0,Employed,12837.79,Free State,2023-12-30,33,6587.13,,239582.07,Male
+CL-01709,Thabo,Molefe,33.0,Employed,37017.97,Western Cape,2026-07-30,2,"R 11,907.90",5132.57,48007.23,Male
+CL-01710,Thabo,Nkosi,31.0,Employed,25745.47,KwaZulu-Natal,30/08/2026,1,3603.46,12918.86,0.0,Male
+CL-01711,Thabo,Dlamini,38.0,Employed,15641.86,Mpumalanga,2024-07-30,26,17157.54,16500.37,"R 429,385.22",Male
+CL-01712,Lubanzi,Molefe,44.0,Employed,9559.03,KwaZulu-Natal,2024-03-30,30,3544.49,1181.52,81020.13,Female
+CL-01713,Lubanzi,Khumalo,64.0,Unemployed,7621.85,Western Cape,2025-03-30,18,2462.49,401.72,"R 53,171.83",Female
+CL-01714,Lesedi,Nkosi,57.0,Unemployed,8393.14,Eastern Cape,2023-12-30,33,8592.47,"R 18,055.50","273,848.36",Male
+CL-01715,Omphile,Enzokuhle,53.0,Employed,58087.19,Free State,2024-12-30,21,26039.47,30983.35,539980.45,Female
+CL-01716,Thabo,Melokuhle,64.0,Employed,30835.82,Limpopo,2024-02-29,31,15807.92,,"R 487,013.15",Male
+CL-01717,Thabo,Khumalo,53.0,Employed,66676.95,Gauteng,2024-07-30,26,"R 17,970.84",23195.54,472597.71,Male
+CL-01718,Lerato,Enzokuhle,39.0,Employed,25469.58,Free State,2024-09-30,24,10618.95,17168.72,234060.22,Male
+CL-01719,Thabo,Molefe,41.0,Employed,41086.61,Gauteng,2025-05-30,16,7425.04,10690.61,101176.58,Female
+CL-01720,Omolemo,Melokuhle,46.0,Employed,20936.74,Gauteng,2024-01-30,32,12071.16,14656.45,386295.32,Male
+CL-01721,Omphile,Nkosi,25.0,Unemployed,7646.85,Gauteng,2025-12-30,9,300.0,4705.32,19482.44,Male
+CL-01722,Omphile,Khumalo,58.0,Unemployed,5629.07,Limpopo,2024-02-29,31,1299.2,8825.5,39919.49,Female
+CL-01723,Kopano,Molefe,53.0, Employed,9670.14,Northern Cape,2025-08-30,13,4635.52,1859.58,49178.47,Male
+CL-01724,Omphile,Molefe,57.0,Employed,48226.12,Mpumalanga,2022-12-30,45,19159.86,23204.89,832118.79,Female
+CL-01725,Lerato,Molefe,47.0,Employed,"R 19,108.11",Eastern Cape,2024-10-30,23,6959.07,15633.61,173396.05,Male
+CL-01726,Omphile,Dlamini,60.0,Employed,17697.19,Northern Cape,2023-12-30,33,13363.86,13020.12,430704.29,Male
+CL-01727,Lesedi,Nkosi,68.0,Employed,14756.89,Free State,30/07/2025,14,8818.73,7123.25,107398.1,Female
+CL-01728,Thabo,Melokuhle,49.0, Employed,"23,570.69",Free State,2025-10-30,11,11054.22,12351.77,97581.83,Male
+CL-01729,Omphile,Dlamini,43.0,employed,,Mpumalanga,30/05/2024,28,16135.21,,431638.49,Female
+CL-01730,Omolemo,Enzokuhle,26.0,Unemployed,2198.68,Mpumalanga,,10,8397.33,1361.98,70516.29,Male
+CL-01731,Omphile,Enzokuhle,59.0,Employed,11715.12, Free State,2026-03-30,6,2075.5,8692.96,9109.13,Female
+CL-01732,Omphile,Khumalo,66.0,Employed,21932.32,Free State,2023-06-30,39,15672.85,14119.7,594318.76,Male
+CL-01733,Kopano,Melokuhle,55.0,Employed,15825.22,KwaZulu-Natal,2025-04-30,17,"R 13,941.47",12800.1,239604.87,Female
+CL-01734,Kopano,Khumalo,64.0,Unemployed,4932.42,Limpopo ,2023-03-30,42,6289.29,6897.66,260699.9,Female
+CL-01735,Lesedi,Dlamini,64.0,Employed,29834.38,Limpopo,30/06/2024,27,14999.56,20953.46,436096.05,Male
+CL-01736,Omphile,Enzokuhle,60.0,Employed,19154.61,Eastern Cape,2024-06-30,27,300.0,8251.88,0.0,Female
+CL-01737,Lesedi,Khumalo,46.0,Employed,26921.67,Limpopo,2024-03-30,30,9834.49,9977.14,297295.5,Male
+CL-01738,Lubanzi,Nkosi,25.0,Employed,20675.21,,2026-08-30,1,11412.36,,13848.43,Male
+CL-01739,Lubanzi,Khumalo,21.0,Unemployed,12056.76,Eastern Cape,2026-08-30,1,8187.26,5070.18,0.00,Male
+CL-01740,Kopano,Melokuhle,31.0,Employed,33805.96,Northern Cape,,8,7286.78,9777.25,59627.8,Female
+CL-01741,Lerato,Khumalo,42.0,Unemployed,4974.86,Limpopo,2024-09-30,24,2643.06,6286.18,"74,207.73",Female
+CL-01742,Lesedi,Khumalo,58.0,Employed,"R 7,228.10",Limpopo,2025-10-30,11,R 300.00,2771.49,4650.88,Male
+CL-01743,Omolemo,Nkosi,43.0,Employed,25179.7,North West,2026-08-30,1,10282.68,"R 9,372.03",29665.16,Male
+CL-01744,Lerato,Dlamini,22.0,Employed,70671.18,Mpumalanga,2025-08-30,13,16167.37,17664.49,179688.19,Male
+CL-01745,Omphile,Melokuhle,31.0,Employed,49138.29,Mpumalanga,2026-06-30,3,20137.21,15419.49,48620.35,Male
+CL-01746,Thabo,Melokuhle,69.0,Employed,10713.38,Free State,2024-07-30,26,9763.82,12940.02,274510.2,Female
+CL-01747,Lerato,Enzokuhle,,Employed,22368.46,North West,2025-09-30,12,6706.82,"R 2,014.31",93250.19,Male
+CL-01748,Lerato,Khumalo,39.0,Employed,"R 14,605.05",Limpopo,2026-02-28,7,7752.11,19920.77,61831.92,Female
+CL-01749,Omolemo,Nkosi,61.0,Unemployed,13106.18,Free State ,2024-07-30,26,,6159.16,158764.8,Male
+CL-01750,Lubanzi,Nkosi,56.0,Unemployed,"R 5,116.86",Gauteng,2023-12-30,33,,9042.15,137901.81,Male
+CL-01751,Kopano,Enzokuhle,67.0,Employed,17985.3,North West ,2024-11-30,22,3389.46,8492.74,85706.57,Female
+CL-01752,Thabo,Dlamini,65.0,Employed,26429.81,KWAZULU-NATAL,2022-12-30,45,"13,259.91",13243.19,611597.35,Male
+CL-01753,Thabo,Melokuhle,52.0,Unemployed,8372.91,Eastern Cape,2025-07-30,14,300.0,2595.12,0.0,Male
+CL-01754,Lesedi,Nkosi,40.0,Employed,"R 15,445.46",Gauteng,2026-01-30,8,300.0,1874.38,39209.32,Male
+CL-01755,Lubanzi,Dlamini,52.0,Unemployed,3055.76,Gauteng,2023-09-30,36,"R 3,189.79",2486.46,117581.17,Male
+CL-01756,Kopano,Khumalo,36.0,Employed,39017.91,Gauteng,2025-07-30,14,12732.9,13700.63,147561.78,Female
+CL-01757,Kopano,Dlamini,38.0,Unemployed ,,Western Cape,2026-01-30,8,4172.98,0.0,38721.68,Female
+CL-01758,Lesedi,Enzokuhle,51.0,Employed,21652.96,Western Cape,28/02/2025,19,6155.66,"16,085.62",106879.5,Female
+CL-01759,Kopano,Enzokuhle,49.0,Employed,42213.74,KwaZulu-Natal,2023-12-30,33,22038.61,24262.65,743584.1,Female
+CL-01760,Lubanzi,Molefe,50.0,Employed,12953.93,Limpopo,2023-10-30,35,"R 7,134.36",12982.35,257373.67,Female
+CL-01761,Thabo,Melokuhle,40.0,Employed,29023.46,north west,2026-03-30,6,10997.41,694.93,57613.56,Female
+CL-01762,Omolemo,Molefe,41.0,Unemployed,5296.42,KwaZulu-Natal,2025-06-30,15,4128.97,"1,460.21",82968.83,Female
+CL-01763,Thabo,Melokuhle,21.0,Unemployed,5234.35,eastern cape,30/04/2026,5,6590.78,13042.09,46106.22,Male
+CL-01764,Thabo,Melokuhle,51.0,Employed,"23,280.85",North West,30/10/2025,11,10719.92,30484.55,106328.22,Female
+CL-01765,Kopano,Molefe,49.0, Employed,"23,944.25",Limpopo,2025-02-28,19,10772.54,16619.69,202549.62,Female
+CL-01766,Thabo,Molefe,,Employed,39192.18,Northern Cape,2024-04-30,29,16825.2,21288.86,495167.54,Male
+CL-01767,Lerato,Molefe,46.0,Employed,13755.64,Eastern Cape,2024-04-30,29,R 300.00,6830.87,3600.31,Male
+CL-01768,Lubanzi,Nkosi,44.0,Employed,23384.48,Gauteng,2024-04-30,29,3000.69,1913.01,82338.5,Female
+CL-01769,Lesedi,Dlamini,24.0,Unemployed,3987.42,Gauteng,2026-07-30,2,2206.41,7584.49,4926.98,Female
+CL-01770,Kopano,Melokuhle,30.0,Unemployed,4164.47,Limpopo,2026-02-28,7,2031.72,0.0,0.0,Male
+CL-01771,Lerato,Khumalo,37.0,Employed,39069.09,Western Cape,2025-02-28,19,"R 15,806.04",8217.42,269056.1,Female
+CL-01772,Thabo,Khumalo,39.0,Employed,33923.03,Free State,2026-01-30,8,11784.97,3797.53,97627.64,Male
+CL-01773,Kopano,Nkosi,39.0,Employed,"R 18,151.06",eastern cape,2025-01-30,20,9580.03,14776.24,163756.04,Female
+CL-01774,Lesedi,Melokuhle,40.0,Employed,27763.22,Northern Cape,2025-07-30,14,5632.82,6108.56,64956.98,Male
+CL-01775,Lubanzi,Melokuhle,59.0,Employed,53170.75,Northern Cape,2025-06-30,15,17742.55,,241336.03,Female
+CL-01776,Omphile,Khumalo,27.0,Employed,17444.79,FREE STATE,2026-08-30,1,1647.63,2019.28,0.0,Male
+CL-01777,Lesedi,Molefe,37.0,Employed,,Mpumalanga,2024-06-30,27,12089.58,6845.91,332387.53,Male
+CL-01778,Lerato,Molefe,29.0,Employed,23697.73,Eastern Cape,28/02/2026,7,1841.49,0.0,9778.14,Female
+CL-01779,Lerato,Khumalo,36.0,Unemployed,6119.36,Limpopo,2024-04-30,29,5507.72,4853.43,156106.41,Female
+CL-01780,Kopano,Dlamini,55.0,Employed,11886.23,KwaZulu-Natal,2025-03-30,18,300.0,0.0,0.0,Male
+CL-01781,Omolemo,Dlamini,23.0,Employed,51175.59,Limpopo,2026-01-30,8,15507.98,10324.69,114881.93,Female
+CL-01782,Thabo,Khumalo,37.0,Employed,17928.79,Northern Cape,2023-08-30,37,11354.38,7638.62,425382.27,Female
+CL-01783,Lesedi,Khumalo,22.0,Unemployed,4964.13,Gauteng,2026-08-30,1,3549.81,6354.24,2820.58,Male
+CL-01784,Kopano,Enzokuhle,68.0,Employed,19294.8,KwaZulu-Natal,2025-10-30,11,1526.06,6413.62,28304.14,Female
+CL-01785,Lesedi,Dlamini,57.0,Employed,19256.61,Eastern Cape,2023-08-30,37,6110.36,2801.27,239594.78,Female
+CL-01786,Thabo,Khumalo,33.0,Employed,46543.89,North West,2026-07-30,2,9842.2,6623.23,16153.33,Male
+CL-01787,Lubanzi,Molefe,30.0,Employed,41894.78,Mpumalanga,2025-12-30,9,8045.3,"R 16,862.92",46476.23,Female
+CL-01788,Lubanzi,Nkosi,25.0,Employed,"R 28,739.03",Gauteng,2026-08-30,1,10287.3,,0.0,Female
+CL-01789,Lubanzi,Nkosi,44.0,Unemployed,3446.8,Eastern Cape,2025-02-28,19,5049.11,8658.55,94565.5,Male
+CL-01790,Lerato,Enzokuhle,58.0,Employed,22637.12,Mpumalanga,2025-06-30,15,10207.32,10326.88,142238.96,Female
+CL-01791,Omolemo,Dlamini,50.0,Employed,25895.78,Northern Cape,2025-03-30,18,11894.19,16808.26,199330.7,Female
+CL-01792,Omphile,Khumalo,65.0,Employed,18925.63,Free State,,33,8220.81,,272263.21,Male
+CL-01793,Omphile,Molefe,38.0,Unemployed,12969.47,Western Cape,2026-06-30,3,4232.64,2021.02,46722.15,Female
+CL-01794,Thabo,Dlamini,34.0,Unemployed,3595.51,Western Cape,2026-05-30,4,300.0,1789.82,0.0,Female
+CL-01795,Omphile,Molefe,44.0,Unemployed,12543.25,Western Cape,2025-08-30,13,3924.69,5462.62,50981.66,Female
+CL-01796,Lerato,Nkosi,31.0,Employed,22342.62,Gauteng,2026-08-30,1,3187.93,2746.84,0.0,Female
+CL-01797,Lerato,Khumalo,69.0,Unemployed,8290.44,Eastern Cape,2024-07-30,26,1736.54,0.0,62557.57,Male
+CL-01798,Kopano,Nkosi,30.0,Employed,,KwaZulu-Natal,2025-11-30,10,13167.04,17595.71,143916.83,Female
+CL-01799,Omphile,Nkosi,,Employed,26299.54,KWAZULU-NATAL,2025-08-30,13,"R 9,211.76",14194.64,131033.16,Female
+CL-01800,Kopano,Nkosi,47.0,Employed,22535.7,Limpopo,2025-05-30,16,19665.73,11498.38,"R 333,688.82",Female
+CL-01592,Lesedi,Khumalo,38.0,Employed,12587.57,Eastern Cape,2026-08-30,1,5841.99,928.57,75.79,Female
+CL-00944,Thabo,Melokuhle,44.0,Employed,61154.7,Northern Cape ,2026-08-30,1,15521.77,13829.28,11731.83,Male
+CL-00870,Lubanzi,Nkosi,23.0,Employed,52445.79,Gauteng,2026-06-30,3,21629.31,"R 21,671.94",67143.8,Female
+CL-00163,Lerato,Molefe,41.0,Employed,11460.55,Eastern Cape,2024-06-30,27,8150.94,13258.7,227284.72,Male
+CL-01272,Lesedi,Molefe,26.0,EMPLOYED,"R 21,488.58",Mpumalanga,2025-02-28,19,12220.9,,226522.72,Female
+CL-00071,Thabo,Molefe,60.0,Unemployed,2763.63,Mpumalanga,2023-10-30,35,"R 2,729.73",5984.18,104903.94,Female
+CL-00248,Lesedi,Nkosi,41.0,Unemployed,3166.79,Gauteng,2025-05-30,16,5032.93,0.0,108769.88,Male
+CL-00323,Lubanzi,Khumalo,51.0,Employed,15701.84,Mpumalanga,2023-09-30,36,"4,385.26",8828.33,148793.32,Female
+CL-01660,Thabo,Melokuhle,33.0,Employed,,Northern Cape,2026-02-28,7,9999999,0.0,11782.29,Female
+CL-01005,Lesedi,Molefe,27.0,Employed,"R 12,610.19",Mpumalanga,2026-08-30,1,5204.59,2267.46,13605.84,Male
